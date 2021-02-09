@@ -11,21 +11,39 @@
   <entry>戦闘識別</entry>
   <default target-element="Activity" target-attr="notice-o" value="-8" />
 
+  @{ var margin = 0; }
+
   <!-- 戦闘識別 -->
   <s name="戦闘識別">
-
-    <t sync="(我ラ翠ノ一門…… 三位一体ニシテ、研ギ澄マサレシ、グンヒルドノ剣ナリ……！|トリニティ・シーカー starts using">
+    <!-- トリニティ・シーカーフェーズ -->
+    <t sync="我ラ翠ノ一門…… 三位一体ニシテ、研ギ澄マサレシ、グンヒルドノ剣ナリ……！">
+      <load target="トリニティ・シーカー" truncate="true" />
+    </t>
+    <!-- 「戦闘開始」ログ出力前に開始した場合、マージンを設定する -->
+    <t sync="トリニティ・シーカー starts using">
+      @{ margin = 6; }
       <load target="トリニティ・シーカー" truncate="true" />
     </t>
 
-    <t sync="(ダウー|ダウーの「崩落誘発」)">
+    <!-- ダウーフェーズ -->
+    <t sync="ココハ、我ラノ縄張リ…… 邪魔者、全員、ブッ潰スゥゥ……！">
+      <load target="ダウー" truncate="true" />
+    </t>
+    <t sync="ダウーの「崩落誘発」">
+      @{ margin = 9; }
       <load target="ダウー" truncate="true" />
     </t>
 
-    <t sync="(女王陛下ノ、敵ヲ討ツ……！ 我ラノ命、グンヒルド陛下ニ捧ゲルノダ……！|クイーンズ・ナイト starts using)">
+    <!-- クイーンズフェーズ -->
+    <t sync="女王陛下ノ、敵ヲ討ツ……！ 我ラノ命、グンヒルド陛下ニ捧ゲルノダ……！">
+      <load target="クイーンズ ナイト・ウォリアー" truncate="true" />
+    </t>
+    <t sync="クイーンズ・ナイト starts using">
+      @{ margin = 9; }
       <load target="クイーンズ ナイト・ウォリアー" truncate="true" />
     </t>
 
+    <!-- トリニティ・アヴァウドフェーズ -->
     <t sync="トリニティ・アヴァウド">
       <load target="トリニティアヴァウド" truncate="true" />
     </t>
@@ -37,78 +55,76 @@
 
   <!-- ★①ボス トリニティ・シーカーフェーズ★ 開始 -->
   <s name="トリニティ・シーカー">
-    <a time="000" name="変数リセット">
-    </a>
-    <a time="012" text="翠流魔風塵" notice="全体攻撃" />
-    <a time="021" text="分体生成" notice="" />
-    <a time="024" sync="ブラズらしき声:我ガ必殺剣ヲ喰ラエッ！" name="time024" />
-    <a time="025" text="初手：鋭刃四刀の構え" notice="アンチ確認" />
-    <a time="046" text="鋭刃雪月花" notice="せつげつか" />
-    <a time="062" text="翠流魔風塵" notice="全体攻撃" />
-    <a time="075" text="鋭刃舞踏扇" notice="MT強攻撃" />
-    <a time="079" sync="ヴェリボルらしき声:オレノ「豪剣」デ……ブッ潰シテヤルッ！" name="time079" />
-    <a time="084" text="翠流派(フォームチェンジ)" notice="フォームチェンジ" />
-    <a time="088" text="豪剣黒流破" notice="縦アンチ" />
-    <a time="090" sync="ヴェリボルらしき声:跡形モナク叩キ潰スッ！" name="time090" />
-    <a time="097" text="豪剣激烈斬" notice="タンク強攻撃" />
-    <a time="110" text="豪剣激烈斬" notice="" />
-    <a time="132" text="豪剣強襲撃" notice="" />
-    <a time="137" text="分体生成" notice="" />
-    <a time="144" text="豪剣焔襲撃(外周円範囲)*4" notice="直線4回" />
-    <a time="157" text="豪剣魔炎旋(直線)*4" notice="" />
-    <a time="158" text="豪剣強襲撃" notice="" />
-    <a time="167" text="翠流魔風塵" notice="全体攻撃" />
-    <a time="168" sync="あたいノ「熱拳」……気合イ入レテイクヨッ！" />
-    <a time="177" text="翠流派(フォームチェンジ)" notice="フォームチェンジ" />
-    <a time="182" text="熱拳烈気砲" notice="頭割り" />
-    <a time="190" text="分体生成" notice="" />
-    <a time="198" sync="オンドリャー！" notice="" />
-    <a time="203" text="熱拳闘気砲(ランタゲ直線)" notice="" />
-    <a time="208" text="熱拳地脈爆(青or黄安置)" notice="" />
-    <a time="217" text="分体生成" notice="" />
-    <a time="228" text="熱拳地脈爆(青or黄安置)" notice="" />
-    <a time="230" text="熱拳振動波(アースシェイカー)*2" notice="次は、アースシェイカー" />
-    <a time="240" text="熱拳地脈爆(青or黄安置)" notice="" />
-    <a time="245" text="熱拳闘気砲(ランタゲ直線)" notice="" />
-    <a time="256" text="翠流魔風塵" notice="全体攻撃" />
-    <a time="261" sync="ブラズらしき声:サア……征クゾ！ 拙僧ノ「鋭刃」……見切レルモノカ……！" />
-    <a time="266" text="翠流派(フォームチェンジ)" notice="フォームチェンジ" />
-    <a time="270" text="破天鋭刃風(十字範囲)" notice="十字範囲" />
-    <a time="281" text="分体生成" notice="" />
-    <a time="287" text="豪剣焔襲撃(外周円範囲)*5" notice="直線5回" />
-    <a time="294" text="豪剣魔炎旋(直線)*5" notice="" />
-    <a time="312" text="鋭刃雪月花" notice="せつげつか" />
-    <a time="335" text="翠流魔風塵" notice="全体攻撃" />
-    <a time="346" text="鋭刃舞踏扇" notice="MT強攻撃" />
-    <a time="354" text="分体生成" notice="" />
-    <a time="371" text="熱拳地脈爆(青or黄安置)(3回)" notice="" />
-    <a time="384" sync="ブラズらしき声:見エタッ！ 断チ切ルッ！" />
-    <a time="392" text="鋭刃雪月花" notice="せつげつか" />
-    <a time="400" text="熱拳闘気砲(ランタゲ直線)" notice="" />
-    <a time="412" text="翠流魔風塵" notice="全体攻撃" />
-    <a time="422" sync="ヴェリボルらしき声:オレノ「豪剣」デ……ブッ潰シテヤルッ！" name="time422" />
-    <a time="426" text="翠流派(フォームチェンジ)" notice="フォームチェンジ" />
-    <a time="430" text="豪剣黒流破" notice="縦アンチ" />
-    <a time="438" text="分体生成" notice="" />
-    <a time="447" text="初手：鋭刃四刀の構え" notice="アンチ確認" />
-    <a time="450" text="二手：鋭刃四刀の構え" notice="" />
-    <a time="453" text="三手：鋭刃四刀の構え" notice="" />
-    <a time="456" text="四手：鋭刃四刀の構え" notice="" />
-    <a time="459" text="豪剣強襲撃" notice="" />
-    <a time="460" text="鋭刃四刀流" notice="" />
-    <a time="482" text="翠流魔風塵" notice="全体攻撃" />
-    <a time="489" text="分体生成" notice="" />
-    <a time="505" text="熱拳地脈爆(青or黄安置)" notice="" />
-    <a time="509" text="豪剣強襲撃" notice="" />
-    <a time="519" text="分体生成" notice="" />
-    <a time="527" text="初手：鋭刃四刀の構え" notice="あんち確認" />
-    <a time="530" text="二手：鋭刃四刀の構え" notice="" />
-    <a time="533" text="三手：鋭刃四刀の構え" notice="" />
-    <a time="536" text="四手：鋭刃四刀の構え" notice="" />
-    <a time="540" text="鋭刃四刀流" notice="" />
-    <a time="553" text="豪剣強襲撃" notice="" />
-    <a time="569" text="豪剣激烈斬" notice="" />
-    <a time="591" text="翠流魔風塵(時間切れ詠唱)" notice="" />
+    <a time="@(012 - margin)" text="翠流魔風塵" notice="全体攻撃" />
+    <a time="@(021 - margin)" text="分体生成" notice="" />
+    <a time="@(024 - margin)" sync="ブラズらしき声:我ガ必殺剣ヲ喰ラエッ！" name="time024" />
+    <a time="@(025 - margin)" text="初手：鋭刃四刀の構え" notice="アンチ確認" />
+    <a time="@(046 - margin)" text="鋭刃雪月花" notice="せつげつか" />
+    <a time="@(062 - margin)" text="翠流魔風塵" notice="全体攻撃" />
+    <a time="@(075 - margin)" text="鋭刃舞踏扇" notice="MT強攻撃" />
+    <a time="@(079 - margin)" sync="ヴェリボルらしき声:オレノ「豪剣」デ……ブッ潰シテヤルッ！" name="time079" />
+    <a time="@(084 - margin)" text="翠流派(フォームチェンジ)" notice="フォームチェンジ" />
+    <a time="@(088 - margin)" text="豪剣黒流破" notice="縦アンチ" />
+    <a time="@(090 - margin)" sync="ヴェリボルらしき声:跡形モナク叩キ潰スッ！" name="time090" />
+    <a time="@(097 - margin)" text="豪剣激烈斬" notice="タンク強攻撃" />
+    <a time="@(110 - margin)" text="豪剣激烈斬" notice="" />
+    <a time="@(132 - margin)" text="豪剣強襲撃" notice="" />
+    <a time="@(137 - margin)" text="分体生成" notice="" />
+    <a time="@(144 - margin)" text="豪剣焔襲撃(外周円範囲)*4" notice="直線4回" />
+    <a time="@(157 - margin)" text="豪剣魔炎旋(直線)*4" notice="" />
+    <a time="@(158 - margin)" text="豪剣強襲撃" notice="" />
+    <a time="@(167 - margin)" text="翠流魔風塵" notice="全体攻撃" />
+    <a time="@(168 - margin)" sync="あたいノ「熱拳」……気合イ入レテイクヨッ！" />
+    <a time="@(177 - margin)" text="翠流派(フォームチェンジ)" notice="フォームチェンジ" />
+    <a time="@(182 - margin)" text="熱拳烈気砲" notice="頭割り" />
+    <a time="@(190 - margin)" text="分体生成" notice="" />
+    <a time="@(198 - margin)" sync="オンドリャー！" notice="" />
+    <a time="@(203 - margin)" text="熱拳闘気砲(ランタゲ直線)" notice="" />
+    <a time="@(208 - margin)" text="熱拳地脈爆(青or黄安置)" notice="" />
+    <a time="@(217 - margin)" text="分体生成" notice="" />
+    <a time="@(228 - margin)" text="熱拳地脈爆(青or黄安置)" notice="" />
+    <a time="@(230 - margin)" text="熱拳振動波(アースシェイカー)*2" notice="次は、アースシェイカー" />
+    <a time="@(240 - margin)" text="熱拳地脈爆(青or黄安置)" notice="" />
+    <a time="@(245 - margin)" text="熱拳闘気砲(ランタゲ直線)" notice="" />
+    <a time="@(256 - margin)" text="翠流魔風塵" notice="全体攻撃" />
+    <a time="@(261 - margin)" sync="ブラズらしき声:サア……征クゾ！ 拙僧ノ「鋭刃」……見切レルモノカ……！" />
+    <a time="@(266 - margin)" text="翠流派(フォームチェンジ)" notice="フォームチェンジ" />
+    <a time="@(270 - margin)" text="破天鋭刃風(十字範囲)" notice="十字範囲" />
+    <a time="@(281 - margin)" text="分体生成" notice="" />
+    <a time="@(287 - margin)" text="豪剣焔襲撃(外周円範囲)*5" notice="直線5回" />
+    <a time="@(294 - margin)" text="豪剣魔炎旋(直線)*5" notice="" />
+    <a time="@(312 - margin)" text="鋭刃雪月花" notice="せつげつか" />
+    <a time="@(335 - margin)" text="翠流魔風塵" notice="全体攻撃" />
+    <a time="@(346 - margin)" text="鋭刃舞踏扇" notice="MT強攻撃" />
+    <a time="@(354 - margin)" text="分体生成" notice="" />
+    <a time="@(371 - margin)" text="熱拳地脈爆(青or黄安置)(3回)" notice="" />
+    <a time="@(384 - margin)" sync="ブラズらしき声:見エタッ！ 断チ切ルッ！" />
+    <a time="@(392 - margin)" text="鋭刃雪月花" notice="せつげつか" />
+    <a time="@(400 - margin)" text="熱拳闘気砲(ランタゲ直線)" notice="" />
+    <a time="@(412 - margin)" text="翠流魔風塵" notice="全体攻撃" />
+    <a time="@(422 - margin)" sync="ヴェリボルらしき声:オレノ「豪剣」デ……ブッ潰シテヤルッ！" name="time422" />
+    <a time="@(426 - margin)" text="翠流派(フォームチェンジ)" notice="フォームチェンジ" />
+    <a time="@(430 - margin)" text="豪剣黒流破" notice="縦アンチ" />
+    <a time="@(438 - margin)" text="分体生成" notice="" />
+    <a time="@(447 - margin)" text="初手：鋭刃四刀の構え" notice="アンチ確認" />
+    <a time="@(450 - margin)" text="二手：鋭刃四刀の構え" notice="" />
+    <a time="@(453 - margin)" text="三手：鋭刃四刀の構え" notice="" />
+    <a time="@(456 - margin)" text="四手：鋭刃四刀の構え" notice="" />
+    <a time="@(459 - margin)" text="豪剣強襲撃" notice="" />
+    <a time="@(460 - margin)" text="鋭刃四刀流" notice="" />
+    <a time="@(482 - margin)" text="翠流魔風塵" notice="全体攻撃" />
+    <a time="@(489 - margin)" text="分体生成" notice="" />
+    <a time="@(505 - margin)" text="熱拳地脈爆(青or黄安置)" notice="" />
+    <a time="@(509 - margin)" text="豪剣強襲撃" notice="" />
+    <a time="@(519 - margin)" text="分体生成" notice="" />
+    <a time="@(527 - margin)" text="初手：鋭刃四刀の構え" notice="あんち確認" />
+    <a time="@(530 - margin)" text="二手：鋭刃四刀の構え" notice="" />
+    <a time="@(533 - margin)" text="三手：鋭刃四刀の構え" notice="" />
+    <a time="@(536 - margin)" text="四手：鋭刃四刀の構え" notice="" />
+    <a time="@(540 - margin)" text="鋭刃四刀流" notice="" />
+    <a time="@(553 - margin)" text="豪剣強襲撃" notice="" />
+    <a time="@(569 - margin)" text="豪剣激烈斬" notice="" />
+    <a time="@(591 - margin)" text="翠流魔風塵(時間切れ詠唱)" notice="" />
   </s>
   <!-- ★①ボス トリニティ・シーカーフェーズ★ 終了 -->
 
@@ -117,31 +133,147 @@
   <s name="ダウー">
 
     <!-- マーカー付与時トリガ start -->
-    <t sync="^1B:[id8]:[mex]:" notice="自分にマーカー">
-      <v-notice 
-        text="自分にマーカー"
-        duration="12"
-        order="-1"
-        icon="GitHub.png" />
+    <t no="1" name="InsertDiceMarker" sync="^1B:[id8]:[pc]:[id8]:(?&lt;mark_code&gt;[0-9a-fA-F]{4}):" sync-count="1-8" >
+      <expressions>
+        <table>
+        {
+            "method":"Insert",
+            "table":"DiceTable",
+            "cols" : [
+              {
+                "name" : "marker",
+                "val" : "${mark_code}",
+                "key" : "true"
+              },
+              {
+                "name":"target",
+                "val":"${_pc}"
+              },
+            ]
+        }
+        </table>
+      </expressions>
+    </t>
+
+    <t no="2" text="マーカー1番" sync="^1B:" sync-count="4" notice="いちばん、北えー。" >
+      <expressions>
+        <pre name="TABLE['DiceTable'][0]['target']" value="@Model.Player.Name" />
+        <set name="call_delay" value="1" />
+      </expressions>
+      <v-notice
+        text="マーカー1番 北"
+        duration="10"
+        icon="Targetaoe03.png"
+        duration-visible="false" />
+    </t>
+
+    <t no="3" text="マーカー2番" sync="^1B:" sync-count="4" notice="にばん、東えー。" >
+      <expressions>
+        <pre name="TABLE['DiceTable'][1]['target']" value="@Model.Player.Name" />
+        <set name="call_delay" value="1" />
+      </expressions>
+      <v-notice
+        text="マーカー2番 東"
+        duration="10"
+        icon="Targetaoe02.png"
+        duration-visible="false" />
+    </t>
+
+    <t no="4" text="マーカー3番" sync="^1B:" sync-count="4" notice="さんばん、南えー。" >
+      <expressions>
+        <pre name="TABLE['DiceTable'][2]['target']" value="@Model.Player.Name" />
+        <set name="call_delay" value="2" />
+      </expressions>
+      <v-notice
+        text="マーカー3番 南"
+        duration="10"
+        icon="Targetaoe03.png"
+        duration-visible="false" />
+    </t>
+
+    <t no="5" text="マーカー4番" sync="^1B:" sync-count="4" notice="よんばん、西えー。" >
+      <expressions>
+        <pre name="TABLE['DiceTable'][3]['target']" value="@Model.Player.Name" />
+        <set name="call_delay" value="2" />
+      </expressions>
+      <v-notice
+        text="マーカー4番 西"
+        duration="10"
+        icon="Targetaoe02.png"
+        duration-visible="false" />
+    </t>
+    <!-- マーカー付与2回目 -->
+    <t no="6" text="マーカー1番" sync="^1B:" sync-count="8" notice="いちばん、北えー。" >
+      <expressions>
+        <pre name="TABLE['DiceTable'][0]['target']" value="@Model.Player.Name" />
+        <set name="call_delay" value="1" />
+      </expressions>
+      <v-notice
+        text="マーカー1番 北"
+        duration="10"
+        icon="Targetaoe03.png"
+        duration-visible="false" />
+    </t>
+    <t no="7" text="マーカー2番" sync="^1B:" sync-count="8" notice="にばん、東えー。" >
+      <expressions>
+        <pre name="TABLE['DiceTable'][1]['target']" value="@Model.Player.Name" />
+        <set name="call_delay" value="1" />
+      </expressions>
+      <v-notice
+        text="マーカー2番 東"
+        duration="10"
+        icon="Targetaoe02.png"
+        duration-visible="false" />
+    </t>
+    <t no="8" text="マーカー3番" sync="^1B:" sync-count="8" notice="さんばん、南えー。" >
+      <expressions>
+        <pre name="TABLE['DiceTable'][2]['target']" value="@Model.Player.Name" />
+        <set name="call_delay" value="2" />
+      </expressions>
+      <v-notice
+        text="マーカー3番 南"
+        duration="10"
+        icon="Targetaoe03.png"
+        duration-visible="false" />
+    </t>
+    <t no="9" text="マーカー4番" sync="^1B:" sync-count="8" notice="よんばん、西えー。" >
+      <expressions>
+        <pre name="TABLE['DiceTable'][3]['target']" value="@Model.Player.Name" />
+        <set name="call_delay" value="2" />
+      </expressions>
+      <v-notice
+        text="マーカー4番 西"
+        duration="10"
+        icon="Targetaoe02.png"
+        duration-visible="false" />
+    </t>
+    <!-- テーブルリセット -->
+    <t no="10" name="DeleteDiceMarker" sync="ダウーは「フェラルハウル」の構え。" -->
+      <expressions>
+        <table>
+        {
+            "method":"Delete",
+            "table":"DiceTable"
+        }
+        </table>
+      </expressions>
     </t>
     <!-- マーカー付与時トリガ end -->
 
-    <a time="000" name="変数リセット">
-    </a>
-    <a time="009" sync="ダウーの「崩落誘発」" />
-    <a time="010" text="崩落誘発*2" notice="AOE注意" />
-    <a time="023" text="ホットチャージ(直線攻撃)*2" notice="直線攻撃2回注意" />
-    <a time="035" text="ラーヴァブレス*5(回転90度範囲)" notice="" />
-    <a time="062" text="フレイムスピット*4(サイコロ注意)" notice="" />
-    <a time="072" text="ライトorレフトサイド・ショックウェーブ" notice="左右どちらか、すぐに逆" />
-    <a time="083" text="フェラルハウル(ノックバック)" notice="ノックバック" />
-    <a time="093" text="ラーヴァブレス*5(回転90度範囲)" notice="" />
-    <a time="144" text="崩落誘発" notice="AOE注意" />
-    <a time="152" text="ライトorレフトサイド・ショックウェーブ" notice="左右どちらか、すぐに逆" />
-    <a time="166" text="フレイムスピット(サイコロ注意)" notice="" />
-    <a time="175" text="ヒステリックアサルト(フレアマーカー付与)" notice="" />
-    <a time="191" text="ラーヴァブレス*5(回転90度範囲)" notice="" />
-    <a time="211" text="ライトorレフトサイド・ショックウェーブ" notice="左右どちらか、すぐに逆" />
+    <a time="@(009 - margin)" text="崩落誘発" />
+    <a time="@(010 - margin)" text="崩落誘発*2" notice="AOE注意" />
+    <a time="@(023 - margin)" text="ホットチャージ(直線攻撃)*2" notice="直線攻撃2回注意" />
+    <a time="@(035 - margin)" text="ラーヴァブレス*5(回転90度範囲)" notice="" />
+    <a time="@(062 - margin)" text="フレイムスピット*4(サイコロ注意)" notice="" />
+    <a time="@(072 - margin)" text="ライトorレフトサイド・ショックウェーブ" notice="左右どちらか、すぐに逆" />
+    <a time="@(083 - margin)" text="フェラルハウル(ノックバック)" notice="ノックバック" />
+    <a time="@(093 - margin)" text="ラーヴァブレス*5(回転90度範囲)" notice="" />
+    <a time="@(144 - margin)" text="崩落誘発" notice="AOE注意" />
+    <a time="@(152 - margin)" text="ライトorレフトサイド・ショックウェーブ" notice="左右どちらか、すぐに逆" />
+    <a time="@(166 - margin)" text="フレイムスピット(サイコロ注意)" notice="" />
+    <a time="@(175 - margin)" text="ヒステリックアサルト(フレアマーカー付与)" notice="" />
+    <a time="@(191 - margin)" text="ラーヴァブレス*5(回転90度範囲)" notice="" />
+    <a time="@(211 - margin)" text="ライトorレフトサイド・ショックウェーブ" notice="左右どちらか、すぐに逆" />
   </s>
   <!-- ★②ボス ダウーフェーズ★ 終了 -->
 
@@ -187,40 +319,39 @@
     <a time="026" text="全方位射撃+波動斬" notice="全体攻撃" />
     <a time="057" text="連携戦技" sync="クイーンズ・ナイトの「連携戦技」" notice="" />
     <a time="063" text="剣or盾の型" notice="" />
-    <a time="064" text="爆弾投擲" notice="" />
+    <a time="064" text="爆弾投擲" sync="クイーンズ・ウォリアーの「爆弾投擲」" notice="" />
     <a time="071" text="質量転換" notice="" />
     <a time="080" text="武装突撃" notice="" />
     <a time="082" text="浮遊波" notice="" />
-    <a time="098" text="ためる" notice="ディスペル準備" />
+    <a time="098" text="ためる" sync="クイーンズ・ウォリアーの「ためる」" notice="ディスペル準備" />
     <a time="106" text="波動斬+波動斬" notice="全体攻撃" />
     <a time="122" text="連携戦技" notice="" />
     <a time="129" text="質量転換" notice="" />
     <a time="137" text="剣or盾の型" notice="" />
-    <a time="138" text="過重烈風" notice="" />
+    <a time="138" text="過重烈風" sync="クイーンズ・ウォリアーの「過重烈風」" notice="" />
     <a time="145" text="武装戦技(フィアスストーム有)" sync="クイーンズ・ナイトの「武装戦技」" notice="フィアスストームアンチ確認" />
-    <a time="147" text="ためる" notice="ディスペル準備" />
+    <a time="147" text="ためる" sync="クイーンズ・ウォリアーの「ためる」" notice="ディスペル準備" />
     <a time="155" text="波動斬+波動斬" notice="全体攻撃" />
     <a time="164" text="滅多斬り" notice="タンク強攻撃" />
     <a time="187" text="連携戦技" notice="" />
     <a time="193" text="剣or盾の型" notice="" />
-    <a time="194" text="爆弾投擲" notice="" />
+    <a time="194" text="爆弾投擲" sync="クイーンズ・ウォリアーの「爆弾投擲」" notice="" />
     <a time="201" text="質量転換" notice="" />
     <a time="210" text="武装突撃" notice="" />
     <a time="212" text="浮遊波" notice="" />
-    <a time="228" text="ためる" notice="ディスペル準備" />
+    <a time="228" text="ためる" sync="クイーンズ・ウォリアーの「ためる」" notice="ディスペル準備" />
     <a time="236" text="波動斬+波動斬" notice="全体攻撃" />
     <a time="251" text="連携戦技" notice="" />
     <a time="259" text="質量転換" notice="" />
     <a time="267" text="剣or盾の型" notice="" />
     <a time="268" text="過重烈風" notice="" />
     <a time="275" text="武装戦技(フィアスストーム有)" notice="フィアスストームアンチ確認" />
-    <a time="277" text="ためる" notice="ディスペル準備" />
+    <a time="277" text="ためる" sync="クイーンズ・ウォリアーの「ためる」" notice="ディスペル準備" />
     <a time="285" text="波動斬+波動斬" notice="全体攻撃" />
     <a time="294" text="滅多斬り" notice="" />
     <a time="314" text="波動斬+波動斬(時間切れ)" notice="" />
   </s>
   <!-- ★③ボス クイーンズ ナイト・ウォリアー フェーズ★ 終了 -->
-
 
   <!-- ★③ボス クイーンズ ガンナー・ソルジャー フェーズ★ 開始 -->
   <s name="クイーンズ ガンナー・ソルジャー">
@@ -233,42 +364,63 @@
 
     <a time="000" name="変数リセット">
     </a>
-    <a time="340" sync="クイーンズ・ソルジャー starts using 火球 on クイーンズ・ソルジャー." text="火球" notice="" />
-    <a time="349" sync="クイーンズ・ソルジャーの「幻惑術」" text="幻惑術" notice="" />
-    <a time="358" text="解析" notice="" />
-    <a time="368" text="全方位射撃" notice="" />
-    <a time="382" text="滅多斬り+片手撃ち" notice="" />
-    <a time="391" text="全方位射撃+波動斬" notice="" />
-    <a time="407" text="連携戦技" notice="" />
-    <a time="413" text="ガンタレット" notice="DPSチェックフェーズ" />
-    <a time="420" text="雷気充填" notice="" />
-    <a time="432" text="全方位射撃+波動斬" notice="" />
-    <a time="449" text="熱気or冷気術" notice="" />
-    <a time="464" text="連携戦技" notice="" />
-    <a time="470" text="幻影術" notice="" />
-    <a time="478" text="実体結像" notice="" />
-    <a time="485" text="解析" notice="" />
-    <a time="494" text="全方位射撃" notice="" />
-    <a time="508" text="全方位射撃+波動斬" notice="" />
-    <a time="518" text="滅多斬り+片手撃ち" notice="" />
-    <a time="534" text="連携戦技" notice="" />
-    <a time="547" text="跳弾乱舞" notice="" />
-    <a time="554" text="熱気or冷気術" notice="" />
-    <a time="564" text="全方位射撃+波動斬" notice="" />
-    <a time="573" text="滅多斬り+片手撃ち" notice="" />
-    <a time="592" text="全方位射撃(時間切れ)" notice="" />
+    <a time="006" sync="クイーンズ・ソルジャー starts using 火球 on クイーンズ・ソルジャー." text="火球" notice="" />
+    <a time="015" sync="クイーンズ・ソルジャーの「幻惑術」" text="幻惑術" notice="" />
+    <a time="024" text="解析" notice="" />
+    <a time="034" text="全方位射撃" sync="クイーンズ・ガンナーの「全方位射撃」" notice="" />
+    <a time="048" text="滅多斬り+片手撃ち" notice="" />
+    <a time="057" text="全方位射撃+波動斬" notice="" />
+    <a time="073" text="連携戦技" notice="" />
+    <a time="079" text="ガンタレット" notice="DPSチェック" />
+    <a time="086" text="雷気充填" notice="" />
+    <a time="098" text="全方位射撃+波動斬" notice="" />
+    <a time="115" text="熱気or冷気術" notice="" />
+    <a time="130" text="連携戦技" sync="クイーンズ・ソルジャーの「連携戦技」" notice="" />
+    <a time="136" text="幻影術" sync="クイーンズ・ソルジャーの「幻影術」" notice="" />
+    <a time="144" text="実体結像" notice="" />
+    <a time="151" text="解析" notice="" />
+    <a time="160" text="全方位射撃" notice="" />
+    <a time="174" text="全方位射撃+波動斬" notice="" />
+    <a time="184" text="滅多斬り+片手撃ち" notice="" />
+    <a time="200" text="連携戦技" notice="" />
+    <a time="213" text="跳弾乱舞" notice="" />
+    <a time="220" text="熱気or冷気術" notice="" />
+    <a time="230" text="全方位射撃+波動斬" notice="" />
+    <a time="239" text="滅多斬り+片手撃ち" notice="" />
+    <a time="258" text="全方位射撃(時間切れ)" notice="" />
   </s>
   <!-- ★③ボス クイーンズ ガンナー・ソルジャー フェーズ★ 終了 -->
 
-
   <!-- ★③ボス クイーンズ最終 フェーズ★ 開始 -->
   <s name="クイーンズ最終フェーズ">
-
-    <a time="000" name="変数リセット">
-    </a>
-
+    <a time="015" text="偏向防御" />
+    <a time="017" text="霊気の「炸裂」" notice="リフレク準備" />
+    <a time="021" text="闘気の「闘気爆」" />
+    <a time="021" text="霊気の「炸裂」" notice="リフレク準備" />
+    <a time="022" text="闘気の「闘気爆」" />
+    <a time="032" text="偏向防御" notice="攻撃ストップ" />
+    <a time="047" text="霊気の「炸裂」" notice="リフレク準備" />
+    <a time="050" text="偏向防御" notice="攻撃ストップ" />
+    <a time="058" text="闘気の「闘気爆」" />
   </s>
   <!-- ★③ボス クイーンズ最終 フェーズ★ 終了 -->
+
+
+  <!-- ★④ボス ボズヤ・ファントム フェーズ★ 開始 -->
+  <s name="ボズヤ・ファントム">
+    <a time="010" text="苦悶の呪詛" sync="ボズヤ・ファントムの「苦悶の呪詛」" notice="" />
+    <a time="019" text="瘴気術" notice="丸とドーナツを探す" />
+    <a time="035" text="瘴気操作" notice="足元注意" />
+    <a time="063" text="瘴気術" notice="" />
+    <a time="080" text="瘴気操作" notice="" />
+    <a time="105" text="召喚" notice="ノックバック方向確認" />
+    <a time="110" text="破滅の呪詛(DPSorヒールチェック)" sync="ボズヤ・ファントムは「破滅の呪詛」の構え。" notice="DPSヒールチェック" />
+    <a time="166" sync="ボズヤ・ファントムは「瘴気術」の構え。" />
+    <a time="170" text="瘴気術" notice="" />
+    <a time="176" text="召喚" notice="ノックバック方向確認" />
+    <a time="197" text="瘴気操作or反転" notice="" />
+  </s>
+  <!-- ★④ボス ボズヤ・ファントム フェーズ★ 終了 -->
 
 
   <!-- ★⑤ボス トリニティ・アヴァウドフェーズ★ 開始 -->
