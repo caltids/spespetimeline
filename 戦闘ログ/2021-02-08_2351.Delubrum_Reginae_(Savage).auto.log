@@ -1,0 +1,1640 @@
+[23:31:23.000] 00:0039:戦闘開始！
+[23:31:27.748] 00:0000:Hojoring:[EX] Added new combatant. name=オートマトン・クイーン X=16.10 Y=20.24 Z=-1.82 hp=149525
+[23:31:26.000] 00:282b:トリニティ・アヴァウドの「攻撃」
+[23:31:29.367] 00:0000:Hojoring:[EX] Added new combatant. name=英雄の影身 X=16.12 Y=20.06 Z=-1.82 hp=123916
+[23:31:29.768] 00:0000:Hojoring:[EX] Added new combatant. name=英雄の影身 X=16.11 Y=20.02 Z=-1.82 hp=123916
+[23:31:30.586] 00:0000:Hojoring:[EX] Added new combatant. name=分身 X=16.06 Y=20.00 Z=-1.82 hp=149486
+[23:31:30.962] 00:0000:Hojoring:[EX] Added new combatant. name=分身 X=16.06 Y=19.97 Z=-1.82 hp=149486
+[23:31:29.000] 00:282b:トリニティ・アヴァウドは「ラース・オブ・ボズヤ」の構え。
+[23:31:29.609] 14:594E:トリニティ・アヴァウド starts using ラース・オブ・ボズヤ on Fire Aniki.
+[23:31:29.609] 1B:<id8>:[pc]:0000:03F4:01B2:0000:0000:0000:
+[23:31:32.546] 00:0000:Hojoring:[EX] Added new combatant. name=アーサリースター X=16.06 Y=19.96 Z=-1.82 hp=150726
+[23:31:33.776] 00:0000:Hojoring:[EX] Added new combatant. name=英雄の影身 X=16.13 Y=20.08 Z=-1.82 hp=123916
+[23:31:34.181] 00:0000:Hojoring:[EX] Added new combatant. name=アーサリースター X=16.04 Y=20.00 Z=-1.82 hp=150726
+[23:31:36.174] 00:0000:Hojoring:[EX] Added new combatant. name=英雄の影身 X=16.03 Y=19.85 Z=-1.82 hp=123916
+[23:31:37.037] 00:0000:Hojoring:[EX] Added new combatant. name=デミ・フェニックス X=16.11 Y=20.11 Z=-1.82 hp=150726
+[23:31:34.728] 16:<id8>:トリニティ・アヴァウド:594E:ラース・オブ・ボズヤ:<id8>:[pc]:
+[23:31:35.000] 00:282b:トリニティ・アヴァウドの「ラース・オブ・ボズヤ」
+[23:31:38.964] 00:0000:Hojoring:[EX] Added new combatant. name=デミ・バハムート X=16.12 Y=20.04 Z=-1.82 hp=135652
+[23:31:39.819] 00:0000:Hojoring:[EX] Added new combatant. name=デミ・バハムート X=16.08 Y=20.10 Z=-1.82 hp=135652
+[23:31:37.846] 14:594F:トリニティ・アヴァウド starts using グローリー・オブ・ボズヤ on トリニティ・アヴァウド.
+[23:31:37.846] 14:5B32:トリニティ・アヴァウド starts using グローリー・オブ・ボズヤ on トリニティ・アヴァウド.
+[23:31:37.000] 00:282b:トリニティ・アヴァウドは「グローリー・オブ・ボズヤ」の構え。
+[23:31:42.284] 00:0000:Hojoring:[EX] Added new combatant. name=デミ・バハムート X=16.09 Y=20.08 Z=-1.82 hp=135652
+[23:31:42.316] 00:0000:Hojoring:[EX] Added new combatant. name=デミ・バハムート X=16.13 Y=20.11 Z=-1.82 hp=135652
+[23:31:42.850] 16:<id8>:トリニティ・アヴァウド:594F:グローリー・オブ・ボズヤ:<id8>:[pc]:
+[23:31:42.850] 16:<id8>:トリニティ・アヴァウド:594F:グローリー・オブ・ボズヤ:<id8>:[NIN]:
+[23:31:42.850] 16:<id8>:トリニティ・アヴァウド:594F:グローリー・オブ・ボズヤ:<id8>:[WAR]:
+[23:31:42.850] 16:<id8>:トリニティ・アヴァウド:594F:グローリー・オブ・ボズヤ:<id8>:[DNC]:
+[23:31:42.850] 16:<id8>:トリニティ・アヴァウド:594F:グローリー・オブ・ボズヤ:<id8>:[mex]:
+[23:31:42.850] 16:<id8>:トリニティ・アヴァウド:594F:グローリー・オブ・ボズヤ:<id8>:[SCH]:
+[23:31:45.467] 00:0000:Hojoring:[EX] Added new combatant. name=トラップ X=21.50 Y=21.50 Z=0.00 hp=148000
+[23:31:43.422] 16:<id8>:トリニティ・アヴァウド:5B32:グローリー・オブ・ボズヤ:<id8>:[pc]:
+[23:31:43.422] 16:<id8>:トリニティ・アヴァウド:5B32:グローリー・オブ・ボズヤ:<id8>:[PLD]:
+[23:31:43.422] 16:<id8>:トリニティ・アヴァウド:5B32:グローリー・オブ・ボズヤ:<id8>:[MNK]:
+[23:31:43.422] 16:<id8>:トリニティ・アヴァウド:5B32:グローリー・オブ・ボズヤ:<id8>:[SMN]:
+[23:31:45.890] 00:0000:Hojoring:[EX] Added new combatant. name=トラップ X=21.50 Y=21.50 Z=0.00 hp=148000
+[23:31:43.595] 1A:100E16E0:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:31:43.600] 1A:102EF269:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:31:43.641] 1A:1002BE5C:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:31:43.641] 1A:10241789:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:31:43.641] 1A:10247D9C:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:31:43.641] 1A:1007331B:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:31:43.685] 1A:1025B0B4:[NIN] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:31:43.685] 1A:102E1133:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:31:43.685] 1A:102A2956:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:31:43.685] 1A:1033C8BE:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:31:43.000] 00:282b:トリニティ・アヴァウドの「グローリー・オブ・ボズヤ」
+[23:31:43.732] 1A:102AD4DA:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:31:43.732] 1A:10327838:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:31:43.732] 1A:102EF4FC:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:31:43.732] 1A:1026B1E2:[SMN] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:31:43.778] 1A:102DC0AC:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:31:43.778] 1A:1029609D:[SCH] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:31:43.778] 1A:102795B6:[PLD] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:31:43.778] 1A:102A80C2:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:31:43.818] 1A:10236A3A:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:31:43.823] 1A:101B47AB:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:31:43.823] 1A:1029842C:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:31:43.823] 1A:10274868:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:31:43.863] 1A:1016203E:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:31:43.868] 1A:1027F60B:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:31:43.868] 1A:10327CA5:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:31:43.868] 1A:10255486:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:31:43.909] 1A:1025BEB0:[WAR] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:31:43.909] 1A:1031FDAF:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:31:43.909] 1A:1029BE04:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:31:43.909] 1A:102AD6E2:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:31:43.954] 1A:102EECAC:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:31:43.954] 1A:102E5568:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:31:43.999] 1A:10256B89:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:31:43.999] 1A:1001C1B8:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:31:44.045] 1A:1028E95A:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:31:44.089] 1A:1003B533:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:31:44.089] 1A:10303AA2:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:31:44.131] 1A:1002AAC3:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:31:44.131] 1A:10219BF8:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:31:44.177] 1A:1025153F:[DNC] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:31:44.177] 1A:10241BE6:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:31:46.629] 00:0000:Hojoring:[EX] Added new combatant. name=分身 X=16.06 Y=19.98 Z=-1.82 hp=149486
+[23:31:44.222] 1A:101D2350:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:31:44.267] 1A:1025F986:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:31:44.267] 1A:1002EEB9:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:31:44.313] 1A:10248026:[mex] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:31:48.000] 00:282b:トリニティ・アヴァウドの「攻撃」
+[23:31:51.431] 00:0000:Hojoring:[EX] Added new combatant. name=分身 X=16.06 Y=19.97 Z=-1.82 hp=149486
+[23:31:48.000] 00:0044:スタニックらしき声:俺サマノ剣ヲ、受ケロ……！ 獣ドモヲ……打チ払ウノダ……！
+[23:31:49.121] 14:5985:トリニティ・アヴァウド starts using ウェポンチェンジ on トリニティ・アヴァウド.
+[23:31:48.000] 00:282b:トリニティ・アヴァウドは「ウェポンチェンジ」の構え。
+[23:31:52.111] 15:<id8>:トリニティ・アヴァウド:5985:ウェポンチェンジ:<id8>:トリニティ・アヴァウド:
+[23:31:52.000] 00:282b:トリニティ・アヴァウドの「ウェポンチェンジ」
+[23:31:56.061] 00:0000:Hojoring:[EX] Beacon X=16.07 Y=19.88 Z=-1.82 zone=Delubrum Reginae (Savage)
+[23:31:57.035] 00:0000:Hojoring:[EX] Added new combatant. name=カーバンクル・トパーズ X=16.06 Y=19.84 Z=-1.82 hp=150726
+[23:31:59.013] 00:0000:Hojoring:[EX] Added new combatant. name=カーバンクル・ルビー X=16.07 Y=19.86 Z=-1.82 hp=150726
+[23:31:57.283] 15:<id8>:トリニティ・アヴァウド:594A:ヤーマスラッシュ:<id8>::
+[23:31:59.827] 00:0000:Hojoring:[EX] Added new combatant. name=イフリート・エギ X=16.05 Y=19.86 Z=-1.82 hp=150726
+[23:31:57.000] 00:282b:トリニティ・アヴァウドの「ヤーマスラッシュ」
+[23:32:01.850] 00:0000:Hojoring:[EX] Added new combatant. name=カーバンクル・ルビー X=16.07 Y=19.89 Z=-1.82 hp=150726
+[23:32:02.211] 00:0000:Hojoring:[EX] Added new combatant. name=カーバンクル・ルビー X=16.06 Y=19.88 Z=-1.82 hp=150726
+[23:32:00.399] 15:<id8>:トリニティ・アヴァウド:5982:Unknown_5982:<id8>:トリニティ・アヴァウド:
+[23:32:02.000] 00:0044:ゼヴェンらしき声:我ガ魔力ヲ、解放スル……！ ヒト勝負……願ウトシヨウッ……！
+[23:32:02.535] 14:5987:トリニティ・アヴァウド starts using ウェポンチェンジ on トリニティ・アヴァウド.
+[23:32:02.000] 00:282b:トリニティ・アヴァウドは「ウェポンチェンジ」の構え。
+[23:32:05.522] 15:<id8>:トリニティ・アヴァウド:5987:ウェポンチェンジ:<id8>:トリニティ・アヴァウド:
+[23:32:05.000] 00:282b:トリニティ・アヴァウドの「ウェポンチェンジ」
+[23:32:10.687] 15:<id8>:トリニティ・アヴァウド:594C:フューリー・オブ・ボズヤ:<id8>::
+[23:32:11.000] 00:282b:トリニティ・アヴァウドの「フューリー・オブ・ボズヤ」
+[23:32:13.807] 15:<id8>:トリニティ・アヴァウド:5984:Unknown_5984:<id8>:トリニティ・アヴァウド:
+[23:32:16.256] 00:0000:Hojoring:[EX] Added new combatant. name=フェアリー・エオス X=16.02 Y=20.32 Z=-1.82 hp=150726
+[23:32:16.000] 00:0044:イソルデらしき声:わたしノ弓デ、射止メマス……！ 抵抗シナイデ……クダサ……イ……！
+[23:32:16.702] 14:5986:トリニティ・アヴァウド starts using ウェポンチェンジ on トリニティ・アヴァウド.
+[23:32:16.000] 00:282b:トリニティ・アヴァウドは「ウェポンチェンジ」の構え。
+[23:32:19.686] 15:<id8>:トリニティ・アヴァウド:5986:ウェポンチェンジ:<id8>:トリニティ・アヴァウド:
+[23:32:19.000] 00:282b:トリニティ・アヴァウドの「ウェポンチェンジ」
+[23:32:23.541] 00:0000:Hojoring:[EX] Added new combatant. name=デミ・フェニックス X=16.09 Y=20.19 Z=-1.82 hp=150726
+[23:32:26.735] 00:0000:Hojoring:[EX] Added new combatant. name=デミ・フェニックス X=16.09 Y=20.01 Z=-1.82 hp=150726
+[23:32:24.857] 15:<id8>:トリニティ・アヴァウド:594B:フラッシュアロー:<id8>::
+[23:32:25.000] 00:282b:トリニティ・アヴァウドの「フラッシュアロー」
+[23:32:30.441] 00:0000:Hojoring:[EX] Added new combatant. name=デミ・フェニックス X=16.08 Y=20.06 Z=-1.82 hp=150726
+[23:32:27.000] 00:282b:トリニティ・アヴァウドは「行軍命令」の構え。
+[23:32:27.981] 14:5BB3:トリニティ・アヴァウド starts using 行軍命令 on トリニティ・アヴァウド.
+[23:32:31.502] 00:0000:Hojoring:[EX] Added new combatant. name=オートマトン・クイーン X=16.09 Y=20.03 Z=-1.82 hp=149525
+[23:32:30.968] 15:<id8>:トリニティ・アヴァウド:5BB3:行軍命令:<id8>:トリニティ・アヴァウド:
+[23:32:31.000] 00:282b:トリニティ・アヴァウドの「行軍命令」
+[23:32:34.131] 14:5BB5:トリニティ・アヴァウド starts using ラース・オブ・ボズヤ on Fire Aniki.
+[23:32:34.131] 1B:<id8>:[pc]:0000:0000:01B2:0000:0000:0000:
+[23:32:33.000] 00:282b:トリニティ・アヴァウドは「ラース・オブ・ボズヤ」の構え。
+[23:32:41.159] 00:0000:Hojoring:[EX] Added new combatant. name=デミ・バハムート X=16.11 Y=20.03 Z=-1.82 hp=135652
+[23:32:39.257] 16:<id8>:トリニティ・アヴァウド:5BB5:ラース・オブ・ボズヤ:<id8>:[pc]:
+[23:32:39.000] 00:282b:トリニティ・アヴァウドの「ラース・オブ・ボズヤ」
+[23:32:42.760] 00:0000:Hojoring:[EX] Added new combatant. name=デミ・フェニックス X=16.11 Y=19.99 Z=-1.82 hp=150726
+[23:32:43.534] 00:0000:Hojoring:[EX] Added new combatant. name=カーバンクル・ルビー X=16.08 Y=19.90 Z=-1.82 hp=150726
+[23:32:41.000] 00:0044:トリニティ・アヴァウド:沸キ立ツ魔力……燃エ盛リテ、波トナレ……！
+[23:32:41.000] 00:282b:トリニティ・アヴァウドは「フレイム・オブ・ボズヤ」の構え。
+[23:32:42.371] 14:597E:トリニティ・アヴァウド starts using フレイム・オブ・ボズヤ on トリニティ・アヴァウド.
+[23:32:46.753] 00:0000:Hojoring:[EX] Added new combatant. name=カーバンクル・ルビー X=16.06 Y=19.94 Z=-1.82 hp=150726
+[23:32:45.354] 15:<id8>:トリニティ・アヴァウド:597E:フレイム・オブ・ボズヤ:<id8>:トリニティ・アヴァウド:
+[23:32:46.000] 00:282b:トリニティ・アヴァウドの「フレイム・オブ・ボズヤ」
+[23:32:46.511] 14:5B3D:トリニティ・アヴァウド starts using Unknown_5B3d on トリニティ・アヴァウド.
+[23:32:46.511] 14:5939:トリニティ・アヴァウド starts using フレイム・オブ・ボズヤ on トリニティ・アヴァウド.
+[23:32:50.432] 00:0000:Hojoring:[EX] Added new combatant. name=イフリート・エギ X=16.10 Y=19.90 Z=-1.82 hp=150726
+[23:32:48.000] 00:282b:トリニティ・アヴァウドの「攻撃」
+[23:32:51.000] 00:282b:トリニティ・アヴァウドの「攻撃」
+[23:32:56.116] 00:0000:Hojoring:[EX] Beacon X=15.73 Y=19.92 Z=-1.82 zone=Delubrum Reginae (Savage)
+[23:32:55.479] 15:<id8>:トリニティ・アヴァウド:5B3D:Unknown_5B3d:<id8>::
+[23:32:55.479] 15:<id8>:トリニティ・アヴァウド:5939:フレイム・オブ・ボズヤ:<id8>:[pc]:
+[23:32:55.000] 00:0044:トリニティ・アヴァウド:熱ニ悶エ、寒サニ震エロ……！
+[23:32:55.787] 14:5BB0:トリニティ・アヴァウド starts using 氷炎乱流 on トリニティ・アヴァウド.
+[23:32:55.000] 00:282b:トリニティ・アヴァウドは「氷炎乱流」の構え。
+[23:33:00.381] 00:0000:Hojoring:[EX] Added new combatant. name=セラフィム X=16.06 Y=19.96 Z=-1.82 hp=150726
+[23:33:01.160] 00:0000:Hojoring:[EX] Added new combatant. name=カーバンクル・トパーズ X=15.66 Y=19.91 Z=-1.82 hp=150726
+[23:32:58.769] 15:<id8>:トリニティ・アヴァウド:5BB0:氷炎乱流:<id8>:トリニティ・アヴァウド:
+[23:33:01.984] 00:0000:Hojoring:[EX] Added new combatant. name=分身 X=15.67 Y=19.89 Z=-1.82 hp=149486
+[23:32:59.000] 00:282b:トリニティ・アヴァウドの「氷炎乱流」
+[23:33:02.793] 00:0000:Hojoring:[EX] Added new combatant. name=カーバンクル・ルビー X=15.66 Y=19.74 Z=-1.82 hp=150726
+[23:33:04.058] 00:0000:Hojoring:[EX] Added new combatant. name=分身 X=15.66 Y=19.85 Z=-1.82 hp=149486
+[23:33:03.000] 00:0044:イソルデらしき声:捉エマシタ……逃シマセンヨ……！
+[23:33:03.670] 14:597F:トリニティ・アヴァウド starts using トゥインクルアロー on トリニティ・アヴァウド.
+[23:33:03.000] 00:282b:トリニティ・アヴァウドは「トゥインクルアロー」の構え。
+[23:33:06.657] 15:<id8>:トリニティ・アヴァウド:597F:トゥインクルアロー:<id8>:トリニティ・アヴァウド:
+[23:33:07.000] 00:282b:トリニティ・アヴァウドの「トゥインクルアロー」
+[23:33:12.432] 00:0000:Hojoring:[EX] Added new combatant. name=フレイムアロー X=16.56 Y=20.26 Z=-1.82 hp=26048000
+[23:33:12.432] 00:0000:Hojoring:[EX] Added new combatant. name=フロストアロー X=16.56 Y=19.46 Z=-1.82 hp=26048000
+[23:33:12.465] 00:0000:Hojoring:[EX] Added new combatant. name=フレイムアロー X=16.56 Y=20.26 Z=-1.82 hp=44
+[23:33:12.465] 00:0000:Hojoring:[EX] Added new combatant. name=フロストアロー X=16.56 Y=19.46 Z=-1.82 hp=44
+[23:33:12.465] 00:0000:Hojoring:[EX] Added new combatant. name=ファイアアロー X=16.56 Y=20.06 Z=-1.82 hp=26048000
+[23:33:12.465] 00:0000:Hojoring:[EX] Added new combatant. name=ファイアアロー X=16.56 Y=20.06 Z=-1.82 hp=44
+[23:33:12.465] 00:0000:Hojoring:[EX] Added new combatant. name=グレイシャーアロー X=16.56 Y=19.66 Z=-1.82 hp=44
+[23:33:12.531] 00:0000:Hojoring:[EX] Added new combatant. name=グレイシャーアロー X=16.56 Y=19.66 Z=-1.82 hp=26048000
+[23:33:13.344] 1A:10027680:[pc] gains the effect of 衰弱 from  for 100.00 Seconds.
+[23:33:13.344] 1A:10027680:[pc] gains the effect of 生還 from  for 6.00 Seconds.
+[23:33:22.409] 00:0000:Hojoring:[EX] Added new combatant. name=フェアリー・エオス X=16.06 Y=19.96 Z=-1.82 hp=150726
+[23:33:22.830] 00:0000:Hojoring:[EX] Added new combatant. name=分身 X=15.66 Y=19.57 Z=-1.82 hp=149486
+[23:33:20.000] 00:282b:トリニティ・アヴァウドの「攻撃」
+[23:33:22.834] 16:<id8>:ファイアアロー:593E:熱気矢:<id8>:[pc]:
+[23:33:22.834] 16:<id8>:フレイムアロー:593F:強熱気矢:<id8>:[pc]:
+[23:33:22.834] 16:<id8>:フレイムアロー:593F:強熱気矢:<id8>:[MNK]:
+[23:33:22.834] 16:<id8>:フロストアロー:5940:凍気矢:<id8>:[pc]:
+[23:33:22.834] 16:<id8>:フロストアロー:5940:凍気矢:<id8>:[PLD]:
+[23:33:22.834] 16:<id8>:グレイシャーアロー:5941:強凍気矢:<id8>:[SMN]:
+[23:33:22.834] 16:<id8>:グレイシャーアロー:5941:強凍気矢:<id8>:[pc]:
+[23:33:22.919] 16:<id8>:グレイシャーアロー:593D:強凍気矢:<id8>:[pc]:
+[23:33:22.919] 16:<id8>:グレイシャーアロー:593D:強凍気矢:<id8>:[WAR]:
+[23:33:22.919] 16:<id8>:フロストアロー:593C:凍気矢:<id8>:[pc]:
+[23:33:22.919] 16:<id8>:フロストアロー:593C:凍気矢:<id8>:[DNC]:
+[23:33:22.919] 16:<id8>:フレイムアロー:593B:強熱気矢:<id8>:[pc]:
+[23:33:22.919] 16:<id8>:フレイムアロー:593B:強熱気矢:<id8>:[mex]:
+[23:33:22.924] 16:<id8>:ファイアアロー:593A:熱気矢:<id8>:[SCH]:
+[23:33:22.924] 16:<id8>:ファイアアロー:593A:熱気矢:<id8>:[pc]:
+[23:33:22.924] 16:<id8>:ファイアアロー:593A:熱気矢:<id8>:[NIN]:
+[23:33:23.008] 1A:102AD6E2:[pc] gains the effect of 被魔法ダメージ増加 from ファイアアロー for 2.81 Seconds.
+[23:33:23.008] 1A:102EF269:[pc] gains the effect of 被魔法ダメージ増加 from フレイムアロー for 2.81 Seconds.
+[23:33:23.008] 1A:10255486:[pc] gains the effect of 被魔法ダメージ増加 from フロストアロー for 2.81 Seconds.
+[23:33:23.008] 1A:1026B1E2:[SMN] gains the effect of 被魔法ダメージ増加 from グレイシャーアロー for 2.81 Seconds.
+[23:33:23.055] 1A:102A2956:[pc] gains the effect of 被魔法ダメージ増加 from ファイアアロー for 2.78 Seconds.
+[23:33:23.055] 1A:102A80C2:[pc] gains the effect of 被魔法ダメージ増加 from フレイムアロー for 2.78 Seconds.
+[23:33:23.055] 1A:102E5568:[pc] gains the effect of 被魔法ダメージ増加 from フロストアロー for 2.78 Seconds.
+[23:33:23.055] 1A:1033C8BE:[pc] gains the effect of 被魔法ダメージ増加 from グレイシャーアロー for 2.78 Seconds.
+[23:33:23.096] 1A:102EF4FC:[pc] gains the effect of 被魔法ダメージ増加 from ファイアアロー for 2.73 Seconds.
+[23:33:23.096] 1A:10274868:[pc] gains the effect of 被魔法ダメージ増加 from フレイムアロー for 2.73 Seconds.
+[23:33:23.096] 1A:10219BF8:[pc] gains the effect of 被魔法ダメージ増加 from フロストアロー for 2.73 Seconds.
+[23:33:23.096] 1A:10327CA5:[pc] gains the effect of 被魔法ダメージ増加 from グレイシャーアロー for 2.73 Seconds.
+[23:33:23.140] 1A:1001C1B8:[pc] gains the effect of 被魔法ダメージ増加 from ファイアアロー for 2.69 Seconds.
+[23:33:23.140] 1A:10241BE6:[pc] gains the effect of 被魔法ダメージ増加 from フレイムアロー for 2.69 Seconds.
+[23:33:23.140] 1A:102795B6:[PLD] gains the effect of 被魔法ダメージ増加 from フロストアロー for 2.69 Seconds.
+[23:33:23.140] 1A:10247D9C:[pc] gains the effect of 被魔法ダメージ増加 from グレイシャーアロー for 2.69 Seconds.
+[23:33:23.185] 1A:10303AA2:[pc] gains the effect of 被魔法ダメージ増加 from ファイアアロー for 2.65 Seconds.
+[23:33:23.185] 1A:10087D67:[MNK] gains the effect of 被魔法ダメージ増加 from フレイムアロー for 2.65 Seconds.
+[23:33:23.185] 1A:100E16E0:[pc] gains the effect of 被魔法ダメージ増加 from フロストアロー for 2.65 Seconds.
+[23:33:23.185] 1A:1007331B:[pc] gains the effect of 被魔法ダメージ増加 from グレイシャーアロー for 2.65 Seconds.
+[23:33:23.231] 1A:1002EEB9:[pc] gains the effect of 被魔法ダメージ増加 from フレイムアロー for 2.60 Seconds.
+[23:33:23.231] 1A:1029842C:[pc] gains the effect of 被魔法ダメージ増加 from フロストアロー for 2.60 Seconds.
+[23:33:23.275] 1A:1029BE04:[pc] gains the effect of 被魔法ダメージ増加 from フレイムアロー for 2.56 Seconds.
+[23:33:22.000] 00:282b:ファイアアローの「熱気矢」
+[23:33:22.000] 00:282b:フレイムアローの「強熱気矢」
+[23:33:22.000] 00:282b:フロストアローの「凍気矢」
+[23:33:22.000] 00:282b:グレイシャーアローの「強凍気矢」
+[23:33:23.407] 1A:1002BE5C:[pc] gains the effect of 被魔法ダメージ増加 from グレイシャーアロー for 2.50 Seconds.
+[23:33:23.407] 1A:102AD4DA:[pc] gains the effect of 被魔法ダメージ増加 from フロストアロー for 2.50 Seconds.
+[23:33:23.407] 1A:102DC0AC:[pc] gains the effect of 被魔法ダメージ増加 from フレイムアロー for 2.50 Seconds.
+[23:33:23.407] 1A:1029609D:[SCH] gains the effect of 被魔法ダメージ増加 from ファイアアロー for 2.50 Seconds.
+[23:33:23.453] 1A:1028E95A:[pc] gains the effect of 被魔法ダメージ増加 from グレイシャーアロー for 2.47 Seconds.
+[23:33:23.453] 1A:10241789:[pc] gains the effect of 被魔法ダメージ増加 from フロストアロー for 2.47 Seconds.
+[23:33:23.453] 1A:101D2350:[pc] gains the effect of 被魔法ダメージ増加 from フレイムアロー for 2.47 Seconds.
+[23:33:23.453] 1A:10256B89:[pc] gains the effect of 被魔法ダメージ増加 from ファイアアロー for 2.47 Seconds.
+[23:33:23.498] 1A:102E1133:[pc] gains the effect of 被魔法ダメージ増加 from グレイシャーアロー for 2.42 Seconds.
+[23:33:23.498] 1A:102EECAC:[pc] gains the effect of 被魔法ダメージ増加 from フロストアロー for 2.42 Seconds.
+[23:33:23.498] 1A:1003B533:[pc] gains the effect of 被魔法ダメージ増加 from フレイムアロー for 2.42 Seconds.
+[23:33:23.498] 1A:10236A3A:[pc] gains the effect of 被魔法ダメージ増加 from ファイアアロー for 2.42 Seconds.
+[23:33:23.543] 1A:101B47AB:[pc] gains the effect of 被魔法ダメージ増加 from グレイシャーアロー for 2.38 Seconds.
+[23:33:23.543] 1A:1027F60B:[pc] gains the effect of 被魔法ダメージ増加 from フロストアロー for 2.38 Seconds.
+[23:33:23.543] 1A:1031FDAF:[pc] gains the effect of 被魔法ダメージ増加 from フレイムアロー for 2.38 Seconds.
+[23:33:23.543] 1A:1025B0B4:[NIN] gains the effect of 被魔法ダメージ増加 from ファイアアロー for 2.38 Seconds.
+[23:33:23.588] 1A:1025BEB0:[WAR] gains the effect of 被魔法ダメージ増加 from グレイシャーアロー for 2.33 Seconds.
+[23:33:23.588] 1A:1025153F:[DNC] gains the effect of 被魔法ダメージ増加 from フロストアロー for 2.33 Seconds.
+[23:33:23.588] 1A:10248026:[mex] gains the effect of 被魔法ダメージ増加 from フレイムアロー for 2.33 Seconds.
+[23:33:23.588] 1A:10327838:[pc] gains the effect of 被魔法ダメージ増加 from ファイアアロー for 2.33 Seconds.
+[23:33:23.630] 1A:1016203E:[pc] gains the effect of 被魔法ダメージ増加 from フレイムアロー for 2.29 Seconds.
+[23:33:23.630] 1A:1025F986:[pc] gains the effect of 被魔法ダメージ増加 from ファイアアロー for 2.29 Seconds.
+[23:33:24.000] 00:282b:トリニティ・アヴァウドの「攻撃」
+[23:33:28.081] 00:0000:Hojoring:[EX] Added new combatant. name=トラップ X=21.50 Y=21.50 Z=0.00 hp=148000
+[23:33:25.951] 16:<id8>:トリニティ・アヴァウド:5B24:Unknown_5B24:<id8>:[pc]:
+[23:33:25.951] 16:<id8>:トリニティ・アヴァウド:5B24:Unknown_5B24:<id8>:[WAR]:
+[23:33:25.951] 16:<id8>:トリニティ・アヴァウド:5B24:Unknown_5B24:<id8>:[NIN]:
+[23:33:25.951] 16:<id8>:トリニティ・アヴァウド:5B24:Unknown_5B24:<id8>:[mex]:
+[23:33:25.951] 16:<id8>:トリニティ・アヴァウド:5B24:Unknown_5B24:<id8>:[DNC]:
+[23:33:25.951] 16:<id8>:トリニティ・アヴァウド:5B24:Unknown_5B24:<id8>:[SCH]:
+[23:33:25.951] 16:<id8>:トリニティ・アヴァウド:5B24:Unknown_5B24:<id8>:[SMN]:
+[23:33:25.951] 16:<id8>:トリニティ・アヴァウド:5B24:Unknown_5B24:<id8>:[MNK]:
+[23:33:25.951] 16:<id8>:トリニティ・アヴァウド:5B24:Unknown_5B24:<id8>:[PLD]:
+[23:33:27.000] 00:282b:トリニティ・アヴァウドの「攻撃」
+[23:33:30.496] 00:0000:Hojoring:[EX] Added new combatant. name=英雄の影身 X=15.62 Y=19.81 Z=-1.82 hp=123916
+[23:33:28.180] 15:<id8>:トリニティ・アヴァウド:5983:Unknown_5983:<id8>:トリニティ・アヴァウド:
+[23:33:30.276] 14:594F:トリニティ・アヴァウド starts using グローリー・オブ・ボズヤ on トリニティ・アヴァウド.
+[23:33:30.276] 14:5B32:トリニティ・アヴァウド starts using グローリー・オブ・ボズヤ on トリニティ・アヴァウド.
+[23:33:29.000] 00:282b:トリニティ・アヴァウドは「グローリー・オブ・ボズヤ」の構え。
+[23:33:33.676] 00:0000:Hojoring:[EX] Added new combatant. name=英雄の影身 X=15.66 Y=19.96 Z=-1.82 hp=123916
+[23:33:34.490] 00:0000:Hojoring:[EX] Added new combatant. name=デミ・バハムート X=15.76 Y=19.80 Z=-1.82 hp=135652
+[23:33:35.286] 00:0000:Hojoring:[EX] Added new combatant. name=分身 X=15.67 Y=19.89 Z=-1.82 hp=149486
+[23:33:37.671] 00:0000:Hojoring:[EX] Added new combatant. name=デミ・フェニックス X=15.78 Y=19.84 Z=-1.82 hp=150726
+[23:33:35.272] 16:<id8>:トリニティ・アヴァウド:594F:グローリー・オブ・ボズヤ:<id8>:[pc]:
+[23:33:35.272] 16:<id8>:トリニティ・アヴァウド:594F:グローリー・オブ・ボズヤ:<id8>:[SCH]:
+[23:33:35.272] 16:<id8>:トリニティ・アヴァウド:594F:グローリー・オブ・ボズヤ:<id8>:[WAR]:
+[23:33:35.272] 16:<id8>:トリニティ・アヴァウド:594F:グローリー・オブ・ボズヤ:<id8>:[DNC]:
+[23:33:35.272] 16:<id8>:トリニティ・アヴァウド:594F:グローリー・オブ・ボズヤ:<id8>:[NIN]:
+[23:33:35.272] 16:<id8>:トリニティ・アヴァウド:594F:グローリー・オブ・ボズヤ:<id8>:[mex]:
+[23:33:38.136] 00:0000:Hojoring:[EX] Added new combatant. name=アーサリースター X=15.76 Y=19.86 Z=-1.82 hp=150726
+[23:33:35.850] 16:<id8>:トリニティ・アヴァウド:5B32:グローリー・オブ・ボズヤ:<id8>:[pc]:
+[23:33:35.850] 16:<id8>:トリニティ・アヴァウド:5B32:グローリー・オブ・ボズヤ:<id8>:[PLD]:
+[23:33:35.850] 16:<id8>:トリニティ・アヴァウド:5B32:グローリー・オブ・ボズヤ:<id8>:[SMN]:
+[23:33:35.850] 16:<id8>:トリニティ・アヴァウド:5B32:グローリー・オブ・ボズヤ:<id8>:[MNK]:
+[23:33:36.023] 1A:10327CA5:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:33:36.023] 1A:10247D9C:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:33:35.000] 00:282b:トリニティ・アヴァウドの「グローリー・オブ・ボズヤ」
+[23:33:36.069] 1A:101D2350:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:33:36.069] 1A:10327838:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:33:36.069] 1A:10274868:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:33:36.069] 1A:10087D67:[MNK] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:33:36.114] 1A:1029609D:[SCH] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:33:36.114] 1A:1027F60B:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:33:36.114] 1A:102EF4FC:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:33:36.114] 1A:102EF269:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:33:36.158] 1A:10256B89:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:33:36.158] 1A:10248026:[mex] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:33:36.158] 1A:10219BF8:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:33:36.158] 1A:1033C8BE:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:33:36.204] 1A:1025F986:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:33:36.204] 1A:102E1133:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:33:36.204] 1A:1002EEB9:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:33:36.204] 1A:1029BE04:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:33:36.250] 1A:1002BE5C:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:33:36.250] 1A:1003B533:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:33:36.250] 1A:10027680:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:33:36.250] 1A:10255486:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:33:36.289] 1A:1025BEB0:[WAR] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:33:36.289] 1A:102DC0AC:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:33:36.294] 1A:10241BE6:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:33:36.294] 1A:102E5568:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:33:36.335] 1A:1031FDAF:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:33:36.335] 1A:1029842C:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:33:36.335] 1A:102A80C2:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:33:36.380] 1A:101B47AB:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:33:36.380] 1A:102795B6:[PLD] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:33:36.425] 1A:1016203E:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:33:36.425] 1A:1001C1B8:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:33:36.470] 1A:102AD4DA:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:33:36.470] 1A:1007331B:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:33:36.516] 1A:1025153F:[DNC] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:33:36.516] 1A:10303AA2:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:33:36.556] 1A:10236A3A:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:33:36.556] 1A:100E16E0:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:33:36.600] 1A:102EECAC:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:33:36.600] 1A:102AD6E2:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:33:36.646] 1A:10241789:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:33:36.646] 1A:1026B1E2:[SMN] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:33:36.692] 1A:1028E95A:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:33:36.692] 1A:102A2956:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:33:36.737] 1A:1025B0B4:[NIN] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:33:39.290] 00:0000:Hojoring:[EX] Added new combatant. name=英雄の影身 X=15.72 Y=19.88 Z=-1.82 hp=123916
+[23:33:41.314] 00:0000:Hojoring:[EX] Added new combatant. name=デミ・バハムート X=15.72 Y=19.97 Z=-1.82 hp=135652
+[23:33:41.718] 00:0000:Hojoring:[EX] Added new combatant. name=オートマトン・クイーン X=15.77 Y=19.83 Z=-1.82 hp=149525
+[23:33:42.122] 00:0000:Hojoring:[EX] Added new combatant. name=デミ・バハムート X=15.65 Y=19.77 Z=-1.82 hp=135652
+[23:33:39.000] 00:282b:トリニティ・アヴァウドの「攻撃」
+[23:33:44.482] 00:0000:Hojoring:[EX] Added new combatant. name=セラフィム X=16.06 Y=19.90 Z=-1.82 hp=150726
+[23:33:42.000] 00:282b:トリニティ・アヴァウドの「攻撃」
+[23:33:43.000] 00:0044:スタニックらしき声:俺サマノ剣ヲ、受ケロ……！ 獣ドモヲ……打チ払ウノダ……！
+[23:33:44.129] 14:5985:トリニティ・アヴァウド starts using ウェポンチェンジ on トリニティ・アヴァウド.
+[23:33:43.000] 00:282b:トリニティ・アヴァウドは「ウェポンチェンジ」の構え。
+[23:33:48.528] 00:0000:Hojoring:[EX] Added new combatant. name=英雄の影身 X=16.10 Y=19.97 Z=-1.82 hp=123916
+[23:33:49.315] 00:0000:Hojoring:[EX] Added new combatant. name=デミ・バハムート X=15.93 Y=19.78 Z=-1.82 hp=135652
+[23:33:47.116] 15:<id8>:トリニティ・アヴァウド:5985:ウェポンチェンジ:<id8>:トリニティ・アヴァウド:
+[23:33:47.000] 00:282b:トリニティ・アヴァウドの「ウェポンチェンジ」
+[23:33:54.520] 00:0000:Hojoring:[EX] Added new combatant. name=カーバンクル・ルビー X=16.06 Y=19.78 Z=-1.82 hp=150726
+[23:33:52.280] 15:<id8>:トリニティ・アヴァウド:594A:ヤーマスラッシュ:<id8>::
+[23:33:52.000] 00:282b:トリニティ・アヴァウドの「ヤーマスラッシュ」
+[23:33:56.158] 00:0000:Hojoring:[EX] Beacon X=16.07 Y=19.72 Z=-1.82 zone=Delubrum Reginae (Savage)
+[23:33:57.725] 00:0000:Hojoring:[EX] Added new combatant. name=カーバンクル・トパーズ X=16.06 Y=19.79 Z=-1.82 hp=150726
+[23:33:56.423] 14:5BAF:トリニティ・アヴァウド starts using 氷炎乱流 on トリニティ・アヴァウド.
+[23:33:56.000] 00:282b:トリニティ・アヴァウドは「氷炎乱流」の構え。
+[23:34:01.398] 00:0000:Hojoring:[EX] Added new combatant. name=カーバンクル・ルビー X=16.08 Y=19.83 Z=-1.82 hp=150726
+[23:33:59.405] 15:<id8>:トリニティ・アヴァウド:5BAF:氷炎乱流:<id8>:トリニティ・アヴァウド:
+[23:34:02.138] 00:0000:Hojoring:[EX] Added new combatant. name=イフリート・エギ X=16.05 Y=19.80 Z=-1.82 hp=150726
+[23:34:00.000] 00:282b:トリニティ・アヴァウドの「氷炎乱流」
+[23:34:03.552] 14:5B3A:トリニティ・アヴァウド starts using 羅刹の幻影 on トリニティ・アヴァウド.
+[23:34:03.000] 00:282b:トリニティ・アヴァウドは「羅刹の幻影」の構え。
+[23:34:06.646] 00:0000:Hojoring:[EX] Added new combatant. name=フェアリー・エオス X=16.06 Y=19.90 Z=-1.82 hp=150726
+[23:34:07.354] 00:0000:Hojoring:[EX] Added new combatant. name=トラップ X=21.50 Y=21.50 Z=0.00 hp=148000
+[23:34:06.533] 15:<id8>:トリニティ・アヴァウド:5B3A:羅刹の幻影:<id8>:トリニティ・アヴァウド:
+[23:34:06.574] 1A:1002AAC3:[pc] gains the effect of 生還 from  for 6.00 Seconds.
+[23:34:09.339] 00:0000:Hojoring:[EX] Added new combatant. name=カーバンクル・ルビー X=16.06 Y=19.83 Z=-1.82 hp=150726
+[23:34:07.000] 00:282b:トリニティ・アヴァウドの「羅刹の幻影」
+[23:34:11.000] 00:0044:スタニックらしき声:俺サマノ剣デ……ノタウチマワレッ……！
+[23:34:11.000] 00:282b:アヴァウドの分体は「氷炎刃」の構え。
+[23:34:11.000] 00:282b:トリニティ・アヴァウドは「氷炎刃」の構え。
+[23:34:12.327] 14:595B:アヴァウドの分体 starts using 氷炎刃 on アヴァウドの分体.
+[23:34:12.327] 14:5947:アヴァウドの分体 starts using 氷炎刃 on アヴァウドの分体.
+[23:34:12.327] 14:5956:アヴァウドの分体 starts using 氷炎刃 on アヴァウドの分体.
+[23:34:12.327] 14:5942:トリニティ・アヴァウド starts using 氷炎刃 on トリニティ・アヴァウド.
+[23:34:12.327] 14:5944:トリニティ・アヴァウド starts using 氷炎刃 on トリニティ・アヴァウド.
+[23:34:12.327] 14:5958:アヴァウドの分体 starts using 氷炎刃 on アヴァウドの分体.
+[23:34:12.327] 14:5949:アヴァウドの分体 starts using 氷炎刃 on アヴァウドの分体.
+[23:34:12.327] 14:595D:アヴァウドの分体 starts using 氷炎刃 on アヴァウドの分体.
+[23:34:22.312] 16:<id8>:アヴァウドの分体:595B:氷炎刃:<id8>:[NIN]:
+[23:34:22.312] 16:<id8>:アヴァウドの分体:595B:氷炎刃:<id8>:[pc]:
+[23:34:22.312] 16:<id8>:アヴァウドの分体:595B:氷炎刃:<id8>:[SCH]:
+[23:34:22.312] 16:<id8>:アヴァウドの分体:5947:氷炎刃:<id8>:[pc]:
+[23:34:22.312] 16:<id8>:アヴァウドの分体:5947:氷炎刃:<id8>:[DNC]:
+[23:34:22.312] 16:<id8>:アヴァウドの分体:5956:氷炎刃:<id8>:[pc]:
+[23:34:22.312] 16:<id8>:アヴァウドの分体:5956:氷炎刃:<id8>:[mex]:
+[23:34:22.312] 16:<id8>:トリニティ・アヴァウド:5942:氷炎刃:<id8>:[pc]:
+[23:34:22.312] 16:<id8>:トリニティ・アヴァウド:5942:氷炎刃:<id8>:[WAR]:
+[23:34:22.312] 16:<id8>:トリニティ・アヴァウド:5944:氷炎刃:<id8>:[SMN]:
+[23:34:22.312] 16:<id8>:トリニティ・アヴァウド:5944:氷炎刃:<id8>:[pc]:
+[23:34:22.312] 16:<id8>:アヴァウドの分体:5958:氷炎刃:<id8>:[pc]:
+[23:34:22.312] 16:<id8>:アヴァウドの分体:5958:氷炎刃:<id8>:[MNK]:
+[23:34:22.312] 16:<id8>:アヴァウドの分体:5949:氷炎刃:<id8>:[pc]:
+[23:34:22.312] 16:<id8>:アヴァウドの分体:5949:氷炎刃:<id8>:[PLD]:
+[23:34:22.312] 16:<id8>:アヴァウドの分体:595D:氷炎刃:<id8>:[pc]:
+[23:34:22.484] 1A:1026B1E2:[SMN] gains the effect of 被魔法ダメージ増加 from トリニティ・アヴァウド for 2.86 Seconds.
+[23:34:22.488] 1A:1002EEB9:[pc] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 2.86 Seconds.
+[23:34:22.488] 1A:10219BF8:[pc] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 2.86 Seconds.
+[23:34:22.488] 1A:102AD6E2:[pc] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 2.86 Seconds.
+[23:34:22.530] 1A:102EF269:[pc] gains the effect of 被魔法ダメージ増加 from トリニティ・アヴァウド for 2.82 Seconds.
+[23:34:22.530] 1A:10087D67:[MNK] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 2.82 Seconds.
+[23:34:22.530] 1A:10255486:[pc] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 2.82 Seconds.
+[23:34:22.530] 1A:102A2956:[pc] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 2.82 Seconds.
+[23:34:22.575] 1A:10327CA5:[pc] gains the effect of 被魔法ダメージ増加 from トリニティ・アヴァウド for 2.78 Seconds.
+[23:34:22.575] 1A:10241BE6:[pc] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 2.78 Seconds.
+[23:34:22.575] 1A:102E5568:[pc] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 2.78 Seconds.
+[23:34:22.575] 1A:1001C1B8:[pc] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 2.78 Seconds.
+[23:34:22.620] 1A:1007331B:[pc] gains the effect of 被魔法ダメージ増加 from トリニティ・アヴァウド for 2.73 Seconds.
+[23:34:22.620] 1A:10274868:[pc] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 2.73 Seconds.
+[23:34:22.620] 1A:102795B6:[PLD] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 2.73 Seconds.
+[23:34:22.620] 1A:102EF4FC:[pc] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 2.73 Seconds.
+[23:34:22.666] 1A:10247D9C:[pc] gains the effect of 被魔法ダメージ増加 from トリニティ・アヴァウド for 2.69 Seconds.
+[23:34:22.666] 1A:1029BE04:[pc] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 2.69 Seconds.
+[23:34:22.666] 1A:100E16E0:[pc] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 2.69 Seconds.
+[23:34:22.666] 1A:10303AA2:[pc] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 2.69 Seconds.
+[23:34:22.710] 1A:102A80C2:[pc] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 2.64 Seconds.
+[23:34:22.000] 00:282b:トリニティ・アヴァウドの「氷炎刃」
+[23:34:22.000] 00:282b:アヴァウドの分体の「氷炎刃」
+[23:34:22.000] 00:282b:アヴァウドの分体の「氷炎刃」
+[23:34:23.112] 1A:1025B0B4:[NIN] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 2.24 Seconds.
+[23:34:23.112] 1A:10241789:[pc] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 2.24 Seconds.
+[23:34:23.112] 1A:101D2350:[pc] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 2.24 Seconds.
+[23:34:23.112] 1A:1002BE5C:[pc] gains the effect of 被魔法ダメージ増加 from トリニティ・アヴァウド for 2.24 Seconds.
+[23:34:23.153] 1A:10256B89:[pc] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 2.20 Seconds.
+[23:34:23.155] 1A:102AD4DA:[pc] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 2.20 Seconds.
+[23:34:23.155] 1A:1031FDAF:[pc] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 2.20 Seconds.
+[23:34:23.155] 1A:102E1133:[pc] gains the effect of 被魔法ダメージ増加 from トリニティ・アヴァウド for 2.20 Seconds.
+[23:34:23.197] 1A:1029609D:[SCH] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 2.15 Seconds.
+[23:34:23.198] 1A:1025153F:[DNC] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 2.15 Seconds.
+[23:34:23.198] 1A:10248026:[mex] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 2.15 Seconds.
+[23:34:23.198] 1A:1025BEB0:[WAR] gains the effect of 被魔法ダメージ増加 from トリニティ・アヴァウド for 2.15 Seconds.
+[23:34:23.243] 1A:10236A3A:[pc] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 2.11 Seconds.
+[23:34:23.243] 1A:1027F60B:[pc] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 2.11 Seconds.
+[23:34:23.246] 1A:1003B533:[pc] gains the effect of 被魔法ダメージ増加 from トリニティ・アヴァウド for 2.11 Seconds.
+[23:34:23.289] 1A:1025F986:[pc] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 2.06 Seconds.
+[23:34:23.289] 1A:1028E95A:[pc] gains the effect of 被魔法ダメージ増加 from トリニティ・アヴァウド for 2.06 Seconds.
+[23:34:23.334] 1A:10327838:[pc] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 2.02 Seconds.
+[23:34:23.334] 1A:1016203E:[pc] gains the effect of 被魔法ダメージ増加 from トリニティ・アヴァウド for 2.02 Seconds.
+[23:34:23.378] 1A:101B47AB:[pc] gains the effect of 被魔法ダメージ増加 from トリニティ・アヴァウド for 1.98 Seconds.
+[23:34:27.405] 00:0000:Hojoring:[EX] Added new combatant. name=トラップ X=21.50 Y=21.50 Z=0.00 hp=148000
+[23:34:26.362] 14:5956:アヴァウドの分体 starts using 氷炎刃 on アヴァウドの分体.
+[23:34:26.362] 14:5942:アヴァウドの分体 starts using 氷炎刃 on アヴァウドの分体.
+[23:34:26.362] 14:5943:アヴァウドの分体 starts using 氷炎刃 on アヴァウドの分体.
+[23:34:26.362] 14:5957:トリニティ・アヴァウド starts using 氷炎刃 on トリニティ・アヴァウド.
+[23:34:26.362] 14:5959:トリニティ・アヴァウド starts using 氷炎刃 on トリニティ・アヴァウド.
+[23:34:26.362] 14:5945:アヴァウドの分体 starts using 氷炎刃 on アヴァウドの分体.
+[23:34:26.362] 14:5944:アヴァウドの分体 starts using 氷炎刃 on アヴァウドの分体.
+[23:34:26.362] 14:5958:アヴァウドの分体 starts using 氷炎刃 on アヴァウドの分体.
+[23:34:26.000] 00:282b:アヴァウドの分体は「氷炎刃」の構え。
+[23:34:26.000] 00:282b:トリニティ・アヴァウドは「氷炎刃」の構え。
+[23:34:36.351] 15:<id8>:アヴァウドの分体:5956:氷炎刃:<id8>:[pc]:
+[23:34:36.351] 15:<id8>:アヴァウドの分体:5942:氷炎刃:<id8>::
+[23:34:36.351] 15:<id8>:アヴァウドの分体:5943:氷炎刃:<id8>:[pc]:
+[23:34:36.351] 15:<id8>:トリニティ・アヴァウド:5957:氷炎刃:<id8>:[pc]:
+[23:34:36.351] 15:<id8>:トリニティ・アヴァウド:5959:氷炎刃:<id8>::
+[23:34:36.351] 16:<id8>:アヴァウドの分体:5945:氷炎刃:<id8>:[pc]:
+[23:34:36.351] 16:<id8>:アヴァウドの分体:5944:氷炎刃:<id8>:[pc]:
+[23:34:36.351] 15:<id8>:アヴァウドの分体:5958:氷炎刃:<id8>::
+[23:34:36.524] 1A:10027680:[pc] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 2.87 Seconds.
+[23:34:36.524] 1A:1033C8BE:[pc] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 2.87 Seconds.
+[23:34:36.571] 1A:1029842C:[pc] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 2.82 Seconds.
+[23:34:36.571] 1A:102EF269:[pc] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 2.82 Seconds.
+[23:34:36.000] 00:282b:トリニティ・アヴァウドの「氷炎刃」
+[23:34:36.000] 00:282b:アヴァウドの分体の「氷炎刃」
+[23:34:37.149] 1A:102DC0AC:[pc] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 2.24 Seconds.
+[23:34:37.149] 1A:102EECAC:[pc] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 2.24 Seconds.
+[23:34:37.149] 1A:1003B533:[pc] gains the effect of 被魔法ダメージ増加 from トリニティ・アヴァウド for 2.24 Seconds.
+[23:34:40.227] 00:0000:Hojoring:[EX] Added new combatant. name=カーバンクル・ルビー X=15.84 Y=19.88 Z=-1.82 hp=150726
+[23:34:39.000] 00:282b:トリニティ・アヴァウドの「攻撃」
+[23:34:43.456] 00:0000:Hojoring:[EX] Added new combatant. name=アーサリースター X=16.08 Y=19.79 Z=-1.82 hp=150726
+[23:34:41.569] 16:<id8>:トリニティ・アヴァウド:5B24:Unknown_5B24:<id8>:[pc]:
+[23:34:41.569] 16:<id8>:トリニティ・アヴァウド:5B24:Unknown_5B24:<id8>:[mex]:
+[23:34:41.569] 16:<id8>:トリニティ・アヴァウド:5B24:Unknown_5B24:<id8>:[SCH]:
+[23:34:41.569] 16:<id8>:トリニティ・アヴァウド:5B24:Unknown_5B24:<id8>:[NIN]:
+[23:34:41.569] 16:<id8>:トリニティ・アヴァウド:5B24:Unknown_5B24:<id8>:[WAR]:
+[23:34:41.569] 16:<id8>:トリニティ・アヴァウド:5B24:Unknown_5B24:<id8>:[DNC]:
+[23:34:41.569] 16:<id8>:トリニティ・アヴァウド:5B24:Unknown_5B24:<id8>:[PLD]:
+[23:34:41.569] 16:<id8>:トリニティ・アヴァウド:5B24:Unknown_5B24:<id8>:[SMN]:
+[23:34:41.569] 16:<id8>:トリニティ・アヴァウド:5B24:Unknown_5B24:<id8>:[MNK]:
+[23:34:42.000] 00:282b:トリニティ・アヴァウドの「攻撃」
+[23:34:43.843] 15:<id8>:トリニティ・アヴァウド:5982:Unknown_5982:<id8>:トリニティ・アヴァウド:
+[23:34:46.651] 00:0000:Hojoring:[EX] Added new combatant. name=オートマトン・クイーン X=16.06 Y=19.88 Z=-1.82 hp=149525
+[23:34:45.000] 00:282b:トリニティ・アヴァウドは「グローリー・オブ・ボズヤ」の構え。
+[23:34:45.939] 14:594F:トリニティ・アヴァウド starts using グローリー・オブ・ボズヤ on トリニティ・アヴァウド.
+[23:34:45.939] 14:5B32:トリニティ・アヴァウド starts using グローリー・オブ・ボズヤ on トリニティ・アヴァウド.
+[23:34:49.111] 00:0000:Hojoring:[EX] Added new combatant. name=分身 X=16.15 Y=19.80 Z=-1.82 hp=149486
+[23:34:49.898] 00:0000:Hojoring:[EX] Added new combatant. name=デミ・フェニックス X=16.10 Y=19.90 Z=-1.82 hp=150726
+[23:34:51.065] 00:0000:Hojoring:[EX] Added new combatant. name=デミ・フェニックス X=16.14 Y=19.97 Z=-1.82 hp=150726
+[23:34:50.934] 16:<id8>:トリニティ・アヴァウド:594F:グローリー・オブ・ボズヤ:<id8>:[pc]:
+[23:34:50.934] 16:<id8>:トリニティ・アヴァウド:594F:グローリー・オブ・ボズヤ:<id8>:[WAR]:
+[23:34:50.934] 16:<id8>:トリニティ・アヴァウド:594F:グローリー・オブ・ボズヤ:<id8>:[DNC]:
+[23:34:50.934] 16:<id8>:トリニティ・アヴァウド:594F:グローリー・オブ・ボズヤ:<id8>:[SCH]:
+[23:34:50.934] 16:<id8>:トリニティ・アヴァウド:594F:グローリー・オブ・ボズヤ:<id8>:[mex]:
+[23:34:50.934] 16:<id8>:トリニティ・アヴァウド:594F:グローリー・オブ・ボズヤ:<id8>:[NIN]:
+[23:34:53.879] 00:0000:Hojoring:[EX] Added new combatant. name=デミ・フェニックス X=16.04 Y=19.85 Z=-1.82 hp=150726
+[23:34:51.510] 16:<id8>:トリニティ・アヴァウド:5B32:グローリー・オブ・ボズヤ:<id8>:[pc]:
+[23:34:51.510] 16:<id8>:トリニティ・アヴァウド:5B32:グローリー・オブ・ボズヤ:<id8>:[PLD]:
+[23:34:51.510] 16:<id8>:トリニティ・アヴァウド:5B32:グローリー・オブ・ボズヤ:<id8>:[SMN]:
+[23:34:51.510] 16:<id8>:トリニティ・アヴァウド:5B32:グローリー・オブ・ボズヤ:<id8>:[MNK]:
+[23:34:51.688] 1A:10219BF8:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:34:51.688] 1A:10241BE6:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:34:51.729] 1A:1002BE5C:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:34:51.729] 1A:10236A3A:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:34:51.734] 1A:1033C8BE:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:34:51.734] 1A:102795B6:[PLD] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:34:51.775] 1A:102DC0AC:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:34:51.775] 1A:102EECAC:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:34:51.780] 1A:102A2956:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:34:51.780] 1A:1029BE04:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:34:51.000] 00:282b:トリニティ・アヴァウドの「グローリー・オブ・ボズヤ」
+[23:34:51.820] 1A:101B47AB:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:34:51.820] 1A:10248026:[mex] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:34:51.820] 1A:1026B1E2:[SMN] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:34:51.825] 1A:10303AA2:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:34:54.278] 00:0000:Hojoring:[EX] Added new combatant. name=デミ・フェニックス X=16.11 Y=19.95 Z=-1.82 hp=150726
+[23:34:51.866] 1A:1002AAC3:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:34:51.866] 1A:1003B533:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:34:51.866] 1A:102EF4FC:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:34:51.866] 1A:102AD6E2:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:34:51.911] 1A:10241789:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:34:51.911] 1A:1027F60B:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:34:51.911] 1A:100E16E0:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:34:51.911] 1A:10255486:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:34:51.952] 1A:10327838:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:34:51.957] 1A:1025B0B4:[NIN] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:34:51.957] 1A:1029842C:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:34:51.957] 1A:10274868:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:34:51.998] 1A:10256B89:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:34:51.998] 1A:102E1133:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:34:51.998] 1A:1001C1B8:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:34:52.003] 1A:10247D9C:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:34:52.044] 1A:1016203E:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:34:52.044] 1A:102A80C2:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:34:52.090] 1A:1025BEB0:[WAR] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:34:52.090] 1A:1007331B:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:34:52.130] 1A:1031FDAF:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:34:52.130] 1A:102E5568:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:34:52.175] 1A:1025153F:[DNC] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:34:52.175] 1A:10087D67:[MNK] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:34:52.221] 1A:102AD4DA:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:34:52.221] 1A:10327CA5:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:34:52.267] 1A:1029609D:[SCH] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:34:52.267] 1A:102EF269:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:34:52.312] 1A:1025F986:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:34:52.312] 1A:10027680:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:34:52.356] 1A:1028E95A:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:34:52.356] 1A:1002EEB9:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:34:52.397] 1A:101D2350:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:34:56.198] 00:0000:Hojoring:[EX] Beacon X=16.09 Y=19.92 Z=-1.82 zone=Delubrum Reginae (Savage)
+[23:34:56.367] 00:0000:Hojoring:[EX] Added new combatant. name=デミ・バハムート X=16.15 Y=19.91 Z=-1.82 hp=135652
+[23:34:56.667] 00:0000:Hojoring:[EX] Added new combatant. name=セラフィム X=16.08 Y=19.88 Z=-1.82 hp=150726
+[23:34:54.000] 00:282b:トリニティ・アヴァウドの「攻撃」
+[23:34:59.929] 00:0000:Hojoring:[EX] Added new combatant. name=分身 X=16.12 Y=19.87 Z=-1.82 hp=149486
+[23:34:57.000] 00:282b:トリニティ・アヴァウドの「攻撃」
+[23:34:57.000] 00:0044:ゼヴェンらしき声:我ガ魔力ヲ、解放スル……！ ヒト勝負……願ウトシヨウッ……！
+[23:34:58.000] 00:282b:トリニティ・アヴァウドは「ウェポンチェンジ」の構え。
+[23:34:58.455] 14:5987:トリニティ・アヴァウド starts using ウェポンチェンジ on トリニティ・アヴァウド.
+[23:35:01.443] 15:<id8>:トリニティ・アヴァウド:5987:ウェポンチェンジ:<id8>:トリニティ・アヴァウド:
+[23:35:01.000] 00:282b:トリニティ・アヴァウドの「ウェポンチェンジ」
+[23:35:06.609] 15:<id8>:トリニティ・アヴァウド:594C:フューリー・オブ・ボズヤ:<id8>::
+[23:35:09.949] 00:0000:Hojoring:[EX] Added new combatant. name=カーバンクル・ルビー X=16.13 Y=20.12 Z=-1.82 hp=150726
+[23:35:07.000] 00:282b:トリニティ・アヴァウドの「フューリー・オブ・ボズヤ」
+[23:35:11.125] 00:0000:Hojoring:[EX] Added new combatant. name=カーバンクル・ルビー X=16.01 Y=20.18 Z=-1.82 hp=150726
+[23:35:09.000] 00:282b:トリニティ・アヴァウドは「氷炎乱流」の構え。
+[23:35:09.731] 14:597B:トリニティ・アヴァウド starts using 氷炎乱流 on トリニティ・アヴァウド.
+[23:35:13.931] 00:0000:Hojoring:[EX] Added new combatant. name=アーサリースター X=16.12 Y=19.82 Z=-1.82 hp=150726
+[23:35:13.931] 00:0000:Hojoring:[EX] Added new combatant. name=イフリート・エギ X=16.07 Y=19.88 Z=-1.82 hp=150726
+[23:35:14.325] 00:0000:Hojoring:[EX] Added new combatant. name=カーバンクル・ルビー X=16.09 Y=19.92 Z=-1.82 hp=150726
+[23:35:12.716] 15:<id8>:トリニティ・アヴァウド:597B:氷炎乱流:<id8>:トリニティ・アヴァウド:
+[23:35:13.000] 00:282b:トリニティ・アヴァウドの「氷炎乱流」
+[23:35:16.340] 00:0000:Hojoring:[EX] Added new combatant. name=カーバンクル・トパーズ X=16.12 Y=19.87 Z=-1.82 hp=150726
+[23:35:16.340] 00:0000:Hojoring:[EX] Added new combatant. name=分身 X=16.12 Y=19.82 Z=-1.82 hp=149486
+[23:35:17.963] 00:0000:Hojoring:[EX] Added new combatant. name=分身 X=16.13 Y=19.85 Z=-1.82 hp=149486
+[23:35:18.720] 00:0000:Hojoring:[EX] Added new combatant. name=フェアリー・エオス X=16.08 Y=19.88 Z=-1.82 hp=150726
+[23:35:16.000] 00:282b:トリニティ・アヴァウドは「行軍命令」の構え。
+[23:35:16.852] 14:5981:トリニティ・アヴァウド starts using 行軍命令 on トリニティ・アヴァウド.
+[23:35:19.838] 15:<id8>:トリニティ・アヴァウド:5981:行軍命令:<id8>:トリニティ・アヴァウド:
+[23:35:20.000] 00:282b:トリニティ・アヴァウドの「行軍命令」
+[23:35:22.000] 00:0044:ゼヴェンらしき声:見ヨッ！　コレガ我ガ魔力ッ！
+[23:35:22.998] 14:597C:トリニティ・アヴァウド starts using リバティ・オブ・ボズヤ on トリニティ・アヴァウド.
+[23:35:22.000] 00:282b:トリニティ・アヴァウドは「リバティ・オブ・ボズヤ」の構え。
+[23:35:25.988] 15:<id8>:トリニティ・アヴァウド:597C:リバティ・オブ・ボズヤ:<id8>:トリニティ・アヴァウド:
+[23:35:26.000] 00:282b:トリニティ・アヴァウドの「リバティ・オブ・ボズヤ」
+[23:35:29.589] 00:0000:Hojoring:[EX] Added new combatant. name=大炎球 X=16.36 Y=20.16 Z=-1.82 hp=26048000
+[23:35:29.589] 00:0000:Hojoring:[EX] Added new combatant. name=氷球 X=15.76 Y=19.56 Z=-1.82 hp=26048000
+[23:35:29.589] 00:0000:Hojoring:[EX] Added new combatant. name=大氷球 X=15.76 Y=20.16 Z=-1.82 hp=26048000
+[23:35:29.621] 00:0000:Hojoring:[EX] Added new combatant. name=炎球 X=16.36 Y=19.56 Z=-1.82 hp=26048000
+[23:35:29.965] 00:0000:Hojoring:[EX] Added new combatant. name=炎球 X=16.36 Y=19.56 Z=-1.82 hp=44
+[23:35:29.965] 00:0000:Hojoring:[EX] Added new combatant. name=大炎球 X=16.36 Y=20.16 Z=-1.82 hp=44
+[23:35:29.965] 00:0000:Hojoring:[EX] Added new combatant. name=氷球 X=15.76 Y=19.56 Z=-1.82 hp=44
+[23:35:30.007] 00:0000:Hojoring:[EX] Added new combatant. name=大氷球 X=15.76 Y=20.16 Z=-1.82 hp=44
+[23:35:28.127] 14:5929:大氷球 starts using 着弾 on 大氷球.
+[23:35:28.127] 14:5929:氷球 starts using 着弾 on 氷球.
+[23:35:28.127] 14:592B:大炎球 starts using 着弾 on 大炎球.
+[23:35:28.127] 14:592B:炎球 starts using 着弾 on 炎球.
+[23:35:27.000] 00:282b:大炎球は「着弾」の構え。
+[23:35:27.000] 00:282b:炎球は「着弾」の構え。
+[23:35:29.000] 00:282b:トリニティ・アヴァウドの「攻撃」
+[23:35:32.826] 00:0000:Hojoring:[EX] Added new combatant. name=英雄の影身 X=16.09 Y=19.93 Z=-1.82 hp=123916
+[23:35:32.000] 00:282b:トリニティ・アヴァウドの「攻撃」
+[23:35:33.166] 16:<id8>:大氷球:5929:着弾:<id8>:[pc]:
+[23:35:33.166] 16:<id8>:大氷球:5929:着弾:<id8>:[MNK]:
+[23:35:33.166] 16:<id8>:大氷球:5929:着弾:<id8>:[mex]:
+[23:35:33.166] 16:<id8>:大氷球:5929:着弾:<id8>:[SCH]:
+[23:35:33.166] 16:<id8>:氷球:5929:着弾:<id8>:[pc]:
+[23:35:33.166] 16:<id8>:氷球:5929:着弾:<id8>:[SCH]:
+[23:35:33.166] 16:<id8>:氷球:5929:着弾:<id8>:[PLD]:
+[23:35:33.166] 16:<id8>:氷球:5929:着弾:<id8>:[WAR]:
+[23:35:33.166] 16:<id8>:氷球:5929:着弾:<id8>:[SMN]:
+[23:35:33.166] 16:<id8>:氷球:5929:着弾:<id8>:[mex]:
+[23:35:33.166] 16:<id8>:大炎球:592B:着弾:<id8>:[pc]:
+[23:35:33.166] 16:<id8>:大炎球:592B:着弾:<id8>:[NIN]:
+[23:35:33.166] 16:<id8>:大炎球:592B:着弾:<id8>:[MNK]:
+[23:35:33.166] 16:<id8>:大炎球:592B:着弾:<id8>:[mex]:
+[23:35:33.166] 16:<id8>:大炎球:592B:着弾:<id8>:[SMN]:
+[23:35:33.166] 16:<id8>:大炎球:592B:着弾:<id8>:[DNC]:
+[23:35:33.166] 16:<id8>:大炎球:592B:着弾:<id8>:[WAR]:
+[23:35:33.166] 16:<id8>:大炎球:592B:着弾:<id8>:[PLD]:
+[23:35:33.166] 16:<id8>:大炎球:592B:着弾:<id8>:[SCH]:
+[23:35:33.166] 16:<id8>:炎球:592B:着弾:<id8>:[pc]:
+[23:35:33.166] 16:<id8>:炎球:592B:着弾:<id8>:[DNC]:
+[23:35:33.166] 16:<id8>:炎球:592B:着弾:<id8>:[SMN]:
+[23:35:33.166] 16:<id8>:炎球:592B:着弾:<id8>:[NIN]:
+[23:35:33.166] 16:<id8>:炎球:592B:着弾:<id8>:[PLD]:
+[23:35:33.166] 16:<id8>:炎球:592B:着弾:<id8>:[WAR]:
+[23:35:33.166] 16:<id8>:炎球:592B:着弾:<id8>:[SCH]:
+[23:35:33.166] 16:<id8>:炎球:592B:着弾:<id8>:[mex]:
+[23:35:33.428] 16:<id8>:大氷球:4F52:着弾:<id8>:[pc]:
+[23:35:33.428] 16:<id8>:大氷球:4F52:着弾:<id8>:[mex]:
+[23:35:33.428] 16:<id8>:大氷球:4F52:着弾:<id8>:[SCH]:
+[23:35:33.428] 16:<id8>:大氷球:4F52:着弾:<id8>:[WAR]:
+[23:35:33.428] 16:<id8>:大氷球:4F52:着弾:<id8>:[NIN]:
+[23:35:33.428] 16:<id8>:大氷球:4F52:着弾:<id8>:[DNC]:
+[23:35:33.434] 16:<id8>:大氷球:4F52:着弾:<id8>:[MNK]:
+[23:35:33.434] 16:<id8>:大氷球:4F52:着弾:<id8>:[PLD]:
+[23:35:33.434] 16:<id8>:大氷球:4F52:着弾:<id8>:[SMN]:
+[23:35:33.434] 16:<id8>:氷球:4E5C:着弾:<id8>:[pc]:
+[23:35:33.434] 16:<id8>:氷球:4E5C:着弾:<id8>:[SCH]:
+[23:35:33.434] 16:<id8>:氷球:4E5C:着弾:<id8>:[WAR]:
+[23:35:33.434] 16:<id8>:氷球:4E5C:着弾:<id8>:[mex]:
+[23:35:33.434] 16:<id8>:氷球:4E5C:着弾:<id8>:[DNC]:
+[23:35:33.434] 16:<id8>:氷球:4E5C:着弾:<id8>:[NIN]:
+[23:35:33.434] 16:<id8>:氷球:4E5C:着弾:<id8>:[PLD]:
+[23:35:33.434] 16:<id8>:氷球:4E5C:着弾:<id8>:[SMN]:
+[23:35:33.434] 16:<id8>:氷球:4E5C:着弾:<id8>:[MNK]:
+[23:35:33.434] 16:<id8>:大炎球:4F54:着弾:<id8>:[pc]:
+[23:35:33.434] 16:<id8>:大炎球:4F54:着弾:<id8>:[NIN]:
+[23:35:33.434] 16:<id8>:大炎球:4F54:着弾:<id8>:[mex]:
+[23:35:33.434] 16:<id8>:大炎球:4F54:着弾:<id8>:[DNC]:
+[23:35:33.434] 16:<id8>:大炎球:4F54:着弾:<id8>:[WAR]:
+[23:35:33.434] 16:<id8>:大炎球:4F54:着弾:<id8>:[SCH]:
+[23:35:33.434] 16:<id8>:大炎球:4F54:着弾:<id8>:[MNK]:
+[23:35:33.434] 16:<id8>:大炎球:4F54:着弾:<id8>:[SMN]:
+[23:35:33.434] 16:<id8>:大炎球:4F54:着弾:<id8>:[PLD]:
+[23:35:33.434] 16:<id8>:炎球:4F53:着弾:<id8>:[pc]:
+[23:35:33.434] 16:<id8>:炎球:4F53:着弾:<id8>:[DNC]:
+[23:35:33.434] 16:<id8>:炎球:4F53:着弾:<id8>:[NIN]:
+[23:35:33.434] 16:<id8>:炎球:4F53:着弾:<id8>:[WAR]:
+[23:35:33.434] 16:<id8>:炎球:4F53:着弾:<id8>:[SCH]:
+[23:35:33.434] 16:<id8>:炎球:4F53:着弾:<id8>:[mex]:
+[23:35:33.434] 16:<id8>:炎球:4F53:着弾:<id8>:[SMN]:
+[23:35:33.434] 16:<id8>:炎球:4F53:着弾:<id8>:[PLD]:
+[23:35:33.434] 16:<id8>:炎球:4F53:着弾:<id8>:[MNK]:
+[23:35:33.000] 00:282b:炎球の「着弾」
+[23:35:33.000] 00:282b:大炎球の「着弾」
+[23:35:33.000] 00:282b:氷球の「着弾」
+[23:35:33.000] 00:282b:大氷球の「着弾」
+[23:35:36.460] 00:0000:Hojoring:[EX] Added new combatant. name=フェアリー・エオス X=16.07 Y=19.91 Z=-1.82 hp=150726
+[23:35:35.212] 14:592E:大氷球 starts using 強凍気弾 on 大氷球.
+[23:35:35.212] 14:592D:氷球 starts using 凍気弾 on 氷球.
+[23:35:35.212] 14:5930:大炎球 starts using 強熱気弾 on 大炎球.
+[23:35:35.212] 14:592F:炎球 starts using 熱気弾 on 炎球.
+[23:35:35.212] 14:5933:炎球 starts using 熱気弾 on 炎球.
+[23:35:35.212] 14:5934:大炎球 starts using 強熱気弾 on 大炎球.
+[23:35:35.212] 14:5931:氷球 starts using 凍気弾 on 氷球.
+[23:35:35.212] 14:5932:大氷球 starts using 強凍気弾 on 大氷球.
+[23:35:34.000] 00:282b:大氷球は「強凍気弾」の構え。
+[23:35:34.000] 00:282b:氷球は「凍気弾」の構え。
+[23:35:34.000] 00:282b:大炎球は「強熱気弾」の構え。
+[23:35:34.000] 00:282b:炎球は「熱気弾」の構え。
+[23:35:35.000] 00:282b:トリニティ・アヴァウドの「攻撃」
+[23:35:38.000] 00:282b:トリニティ・アヴァウドの「攻撃」
+[23:35:41.000] 00:282b:トリニティ・アヴァウドの「攻撃」
+[23:35:43.188] 16:<id8>:大氷球:592E:強凍気弾:<id8>:[pc]:
+[23:35:43.188] 16:<id8>:大氷球:592E:強凍気弾:<id8>:[mex]:
+[23:35:43.188] 16:<id8>:氷球:592D:凍気弾:<id8>:[pc]:
+[23:35:43.188] 16:<id8>:氷球:592D:凍気弾:<id8>:[WAR]:
+[23:35:43.188] 16:<id8>:大炎球:5930:強熱気弾:<id8>:[NIN]:
+[23:35:43.188] 16:<id8>:大炎球:5930:強熱気弾:<id8>:[pc]:
+[23:35:43.188] 16:<id8>:大炎球:5930:強熱気弾:<id8>:[SCH]:
+[23:35:43.188] 16:<id8>:炎球:592F:熱気弾:<id8>:[DNC]:
+[23:35:43.188] 16:<id8>:炎球:592F:熱気弾:<id8>:[pc]:
+[23:35:43.188] 16:<id8>:炎球:5933:熱気弾:<id8>:[pc]:
+[23:35:43.188] 16:<id8>:炎球:5933:熱気弾:<id8>:[PLD]:
+[23:35:43.188] 16:<id8>:大炎球:5934:強熱気弾:<id8>:[pc]:
+[23:35:43.193] 16:<id8>:氷球:5931:凍気弾:<id8>:[pc]:
+[23:35:43.193] 16:<id8>:氷球:5931:凍気弾:<id8>:[SMN]:
+[23:35:43.193] 16:<id8>:大氷球:5932:強凍気弾:<id8>:[pc]:
+[23:35:43.193] 16:<id8>:大氷球:5932:強凍気弾:<id8>:[MNK]:
+[23:35:43.365] 1A:10241BE6:[pc] gains the effect of 被魔法ダメージ増加 from 炎球 for 2.86 Seconds.
+[23:35:43.365] 1A:102A2956:[pc] gains the effect of 被魔法ダメージ増加 from 大炎球 for 2.86 Seconds.
+[23:35:43.365] 1A:10247D9C:[pc] gains the effect of 被魔法ダメージ増加 from 氷球 for 2.86 Seconds.
+[23:35:43.365] 1A:1002EEB9:[pc] gains the effect of 被魔法ダメージ増加 from 大氷球 for 2.86 Seconds.
+[23:35:43.410] 1A:1029842C:[pc] gains the effect of 被魔法ダメージ増加 from 炎球 for 2.82 Seconds.
+[23:35:43.410] 1A:1001C1B8:[pc] gains the effect of 被魔法ダメージ増加 from 大炎球 for 2.82 Seconds.
+[23:35:43.410] 1A:102AD6E2:[pc] gains the effect of 被魔法ダメージ増加 from 氷球 for 2.82 Seconds.
+[23:35:43.410] 1A:102EF269:[pc] gains the effect of 被魔法ダメージ増加 from 大氷球 for 2.82 Seconds.
+[23:35:43.452] 1A:10255486:[pc] gains the effect of 被魔法ダメージ増加 from 炎球 for 2.78 Seconds.
+[23:35:43.452] 1A:10303AA2:[pc] gains the effect of 被魔法ダメージ増加 from 大炎球 for 2.78 Seconds.
+[23:35:43.457] 1A:10327CA5:[pc] gains the effect of 被魔法ダメージ増加 from 氷球 for 2.78 Seconds.
+[23:35:43.457] 1A:102A80C2:[pc] gains the effect of 被魔法ダメージ増加 from 大氷球 for 2.78 Seconds.
+[23:35:43.498] 1A:102E5568:[pc] gains the effect of 被魔法ダメージ増加 from 炎球 for 2.73 Seconds.
+[23:35:43.498] 1A:100E16E0:[pc] gains the effect of 被魔法ダメージ増加 from 大炎球 for 2.73 Seconds.
+[23:35:43.498] 1A:1026B1E2:[SMN] gains the effect of 被魔法ダメージ増加 from 氷球 for 2.73 Seconds.
+[23:35:43.498] 1A:10274868:[pc] gains the effect of 被魔法ダメージ増加 from 大氷球 for 2.73 Seconds.
+[23:35:43.542] 1A:102795B6:[PLD] gains the effect of 被魔法ダメージ増加 from 炎球 for 2.69 Seconds.
+[23:35:43.542] 1A:102EF4FC:[pc] gains the effect of 被魔法ダメージ増加 from 大炎球 for 2.69 Seconds.
+[23:35:43.542] 1A:10087D67:[MNK] gains the effect of 被魔法ダメージ増加 from 大氷球 for 2.69 Seconds.
+[23:35:43.000] 00:282b:炎球の「熱気弾」
+[23:35:43.000] 00:282b:大炎球の「強熱気弾」
+[23:35:43.000] 00:282b:氷球の「凍気弾」
+[23:35:43.587] 1A:1033C8BE:[pc] gains the effect of 被魔法ダメージ増加 from 炎球 for 2.64 Seconds.
+[23:35:43.587] 1A:10219BF8:[pc] gains the effect of 被魔法ダメージ増加 from 大炎球 for 2.64 Seconds.
+[23:35:43.587] 1A:1007331B:[pc] gains the effect of 被魔法ダメージ増加 from 大氷球 for 2.64 Seconds.
+[23:35:43.000] 00:282b:大氷球の「強凍気弾」
+[23:35:43.642] 1A:1029BE04:[pc] gains the effect of 被魔法ダメージ増加 from 大氷球 for 2.60 Seconds.
+[23:35:43.677] 1A:1003B533:[pc] gains the effect of 被魔法ダメージ増加 from 大氷球 for 2.54 Seconds.
+[23:35:43.677] 1A:101D2350:[pc] gains the effect of 被魔法ダメージ増加 from 氷球 for 2.54 Seconds.
+[23:35:43.677] 1A:1025B0B4:[NIN] gains the effect of 被魔法ダメージ増加 from 大炎球 for 2.54 Seconds.
+[23:35:43.677] 1A:1025153F:[DNC] gains the effect of 被魔法ダメージ増加 from 炎球 for 2.54 Seconds.
+[23:35:43.719] 1A:10248026:[mex] gains the effect of 被魔法ダメージ増加 from 大氷球 for 2.51 Seconds.
+[23:35:43.719] 1A:1028E95A:[pc] gains the effect of 被魔法ダメージ増加 from 氷球 for 2.51 Seconds.
+[23:35:43.719] 1A:10241789:[pc] gains the effect of 被魔法ダメージ増加 from 大炎球 for 2.51 Seconds.
+[23:35:43.723] 1A:102AD4DA:[pc] gains the effect of 被魔法ダメージ増加 from 炎球 for 2.51 Seconds.
+[23:35:43.764] 1A:102DC0AC:[pc] gains the effect of 被魔法ダメージ増加 from 大氷球 for 2.46 Seconds.
+[23:35:43.764] 1A:1025BEB0:[WAR] gains the effect of 被魔法ダメージ増加 from 氷球 for 2.46 Seconds.
+[23:35:43.764] 1A:10236A3A:[pc] gains the effect of 被魔法ダメージ増加 from 大炎球 for 2.46 Seconds.
+[23:35:43.764] 1A:1027F60B:[pc] gains the effect of 被魔法ダメージ増加 from 炎球 for 2.46 Seconds.
+[23:35:43.810] 1A:101B47AB:[pc] gains the effect of 被魔法ダメージ増加 from 大氷球 for 2.42 Seconds.
+[23:35:43.810] 1A:102E1133:[pc] gains the effect of 被魔法ダメージ増加 from 氷球 for 2.42 Seconds.
+[23:35:43.810] 1A:1025F986:[pc] gains the effect of 被魔法ダメージ増加 from 大炎球 for 2.42 Seconds.
+[23:35:43.810] 1A:1002AAC3:[pc] gains the effect of 被魔法ダメージ増加 from 炎球 for 2.42 Seconds.
+[23:35:43.856] 1A:1031FDAF:[pc] gains the effect of 被魔法ダメージ増加 from 大氷球 for 2.37 Seconds.
+[23:35:43.856] 1A:1016203E:[pc] gains the effect of 被魔法ダメージ増加 from 氷球 for 2.37 Seconds.
+[23:35:43.856] 1A:1029609D:[SCH] gains the effect of 被魔法ダメージ増加 from 大炎球 for 2.37 Seconds.
+[23:35:43.856] 1A:102EECAC:[pc] gains the effect of 被魔法ダメージ増加 from 炎球 for 2.37 Seconds.
+[23:35:43.899] 1A:1002BE5C:[pc] gains the effect of 被魔法ダメージ増加 from 氷球 for 2.33 Seconds.
+[23:35:43.899] 1A:10327838:[pc] gains the effect of 被魔法ダメージ増加 from 大炎球 for 2.33 Seconds.
+[23:35:43.940] 1A:10256B89:[pc] gains the effect of 被魔法ダメージ増加 from 氷球 for 2.29 Seconds.
+[23:35:46.891] 00:0000:Hojoring:[EX] Added new combatant. name=デミ・フェニックス X=15.78 Y=19.59 Z=-1.82 hp=150726
+[23:35:44.000] 00:282b:トリニティ・アヴァウドの「攻撃」
+[23:35:46.881] 16:<id8>:トリニティ・アヴァウド:5B24:Unknown_5B24:<id8>:[pc]:
+[23:35:46.881] 16:<id8>:トリニティ・アヴァウド:5B24:Unknown_5B24:<id8>:[SCH]:
+[23:35:46.881] 16:<id8>:トリニティ・アヴァウド:5B24:Unknown_5B24:<id8>:[WAR]:
+[23:35:46.881] 16:<id8>:トリニティ・アヴァウド:5B24:Unknown_5B24:<id8>:[DNC]:
+[23:35:46.881] 16:<id8>:トリニティ・アヴァウド:5B24:Unknown_5B24:<id8>:[mex]:
+[23:35:46.881] 16:<id8>:トリニティ・アヴァウド:5B24:Unknown_5B24:<id8>:[NIN]:
+[23:35:46.881] 16:<id8>:トリニティ・アヴァウド:5B24:Unknown_5B24:<id8>:[SMN]:
+[23:35:46.881] 16:<id8>:トリニティ・アヴァウド:5B24:Unknown_5B24:<id8>:[MNK]:
+[23:35:46.881] 16:<id8>:トリニティ・アヴァウド:5B24:Unknown_5B24:<id8>:[PLD]:
+[23:35:50.430] 00:0000:Hojoring:[EX] Added new combatant. name=英雄の影身 X=16.00 Y=19.80 Z=-1.82 hp=123916
+[23:35:47.000] 00:282b:トリニティ・アヴァウドの「攻撃」
+[23:35:48.973] 15:<id8>:トリニティ・アヴァウド:5984:Unknown_5984:<id8>:トリニティ・アヴァウド:
+[23:35:50.000] 00:282b:トリニティ・アヴァウドは「グローリー・オブ・ボズヤ」の構え。
+[23:35:51.071] 14:594F:トリニティ・アヴァウド starts using グローリー・オブ・ボズヤ on トリニティ・アヴァウド.
+[23:35:51.071] 14:5B32:トリニティ・アヴァウド starts using グローリー・オブ・ボズヤ on トリニティ・アヴァウド.
+[23:35:54.446] 00:0000:Hojoring:[EX] Added new combatant. name=デミ・バハムート X=16.04 Y=19.90 Z=-1.82 hp=135652
+[23:35:54.446] 00:0000:Hojoring:[EX] Added new combatant. name=アーサリースター X=16.03 Y=19.81 Z=-1.82 hp=150726
+[23:35:56.228] 00:0000:Hojoring:[EX] Beacon X=16.00 Y=19.86 Z=-1.82 zone=Delubrum Reginae (Savage)
+[23:35:58.097] 00:0000:Hojoring:[EX] Added new combatant. name=英雄の影身 X=16.08 Y=19.83 Z=-1.82 hp=123916
+[23:35:58.454] 00:0000:Hojoring:[EX] Added new combatant. name=デミ・バハムート X=16.05 Y=19.87 Z=-1.82 hp=135652
+[23:35:56.060] 16:<id8>:トリニティ・アヴァウド:594F:グローリー・オブ・ボズヤ:<id8>:[pc]:
+[23:35:56.060] 16:<id8>:トリニティ・アヴァウド:594F:グローリー・オブ・ボズヤ:<id8>:[SCH]:
+[23:35:56.060] 16:<id8>:トリニティ・アヴァウド:594F:グローリー・オブ・ボズヤ:<id8>:[NIN]:
+[23:35:56.060] 16:<id8>:トリニティ・アヴァウド:594F:グローリー・オブ・ボズヤ:<id8>:[DNC]:
+[23:35:56.060] 16:<id8>:トリニティ・アヴァウド:594F:グローリー・オブ・ボズヤ:<id8>:[WAR]:
+[23:35:56.060] 16:<id8>:トリニティ・アヴァウド:594F:グローリー・オブ・ボズヤ:<id8>:[mex]:
+[23:35:56.638] 16:<id8>:トリニティ・アヴァウド:5B32:グローリー・オブ・ボズヤ:<id8>:[pc]:
+[23:35:56.638] 16:<id8>:トリニティ・アヴァウド:5B32:グローリー・オブ・ボズヤ:<id8>:[PLD]:
+[23:35:56.638] 16:<id8>:トリニティ・アヴァウド:5B32:グローリー・オブ・ボズヤ:<id8>:[MNK]:
+[23:35:56.638] 16:<id8>:トリニティ・アヴァウド:5B32:グローリー・オブ・ボズヤ:<id8>:[SMN]:
+[23:35:56.000] 00:282b:トリニティ・アヴァウドの「グローリー・オブ・ボズヤ」
+[23:35:56.812] 1A:1029842C:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:35:56.812] 1A:1026B1E2:[SMN] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:35:56.859] 1A:1002BE5C:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:35:56.859] 1A:1025BEB0:[WAR] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:35:56.859] 1A:10219BF8:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:35:56.859] 1A:10241BE6:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:35:56.904] 1A:1003B533:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:35:56.904] 1A:1027F60B:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:35:56.904] 1A:102EF4FC:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:35:56.904] 1A:10303AA2:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:35:56.949] 1A:1025F986:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:35:56.949] 1A:10327838:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:35:56.949] 1A:102795B6:[PLD] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:35:56.949] 1A:102E5568:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:35:56.995] 1A:102AD4DA:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:35:56.995] 1A:10248026:[mex] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:35:56.995] 1A:1007331B:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:35:56.995] 1A:10255486:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:35:57.040] 1A:101B47AB:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:35:57.040] 1A:102EECAC:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:35:57.040] 1A:10274868:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:35:57.040] 1A:1029BE04:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:35:57.081] 1A:10241789:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:35:57.081] 1A:102E1133:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:35:57.085] 1A:10327CA5:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:35:57.085] 1A:10247D9C:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:35:57.126] 1A:1031FDAF:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:35:57.126] 1A:10087D67:[MNK] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:35:57.172] 1A:1029609D:[SCH] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:35:57.172] 1A:1001C1B8:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:35:57.217] 1A:1016203E:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:35:57.217] 1A:102A2956:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:35:57.263] 1A:1002AAC3:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:35:57.263] 1A:102AD6E2:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:35:57.308] 1A:10236A3A:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:35:57.308] 1A:100E16E0:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:35:57.349] 1A:10256B89:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:35:57.349] 1A:1002EEB9:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:35:57.395] 1A:1033C8BE:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:35:57.395] 1A:1028E95A:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:35:57.440] 1A:102DC0AC:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:35:57.440] 1A:102EF269:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:35:57.485] 1A:1025B0B4:[NIN] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:35:57.485] 1A:102A80C2:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:35:57.530] 1A:1025153F:[DNC] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:36:00.833] 00:0000:Hojoring:[EX] Added new combatant. name=デミ・バハムート X=16.07 Y=19.86 Z=-1.82 hp=135652
+[23:35:59.000] 00:282b:トリニティ・アヴァウドの「攻撃」
+[23:36:03.681] 00:0000:Hojoring:[EX] Added new combatant. name=オートマトン・クイーン X=16.01 Y=19.87 Z=-1.82 hp=149525
+[23:36:05.261] 00:0000:Hojoring:[EX] Added new combatant. name=セラフィム X=16.06 Y=19.90 Z=-1.82 hp=150726
+[23:36:02.000] 00:282b:トリニティ・アヴァウドの「攻撃」
+[23:36:06.880] 00:0000:Hojoring:[EX] Added new combatant. name=デミ・バハムート X=16.03 Y=19.85 Z=-1.82 hp=135652
+[23:36:06.880] 00:0000:Hojoring:[EX] Added new combatant. name=カーバンクル・トパーズ X=16.01 Y=19.80 Z=-1.82 hp=150726
+[23:36:04.000] 00:0044:イソルデらしき声:わたしノ弓デ、射止メマス……！ 抵抗シナイデ……クダサ……イ……！
+[23:36:04.000] 00:282b:トリニティ・アヴァウドは「ウェポンチェンジ」の構え。
+[23:36:04.709] 14:5986:トリニティ・アヴァウド starts using ウェポンチェンジ on トリニティ・アヴァウド.
+[23:36:09.267] 00:0000:Hojoring:[EX] Added new combatant. name=英雄の影身 X=15.99 Y=19.93 Z=-1.82 hp=123916
+[23:36:07.692] 15:<id8>:トリニティ・アヴァウド:5986:ウェポンチェンジ:<id8>:トリニティ・アヴァウド:
+[23:36:07.000] 00:282b:トリニティ・アヴァウドの「ウェポンチェンジ」
+[23:36:14.474] 00:0000:Hojoring:[EX] Added new combatant. name=カーバンクル・ルビー X=16.06 Y=20.01 Z=-1.82 hp=150726
+[23:36:12.865] 15:<id8>:トリニティ・アヴァウド:594B:フラッシュアロー:<id8>::
+[23:36:12.000] 00:282b:トリニティ・アヴァウドの「フラッシュアロー」
+[23:36:15.000] 00:0044:トリニティ・アヴァウド:魔力ヨ、写シ身トナリテ、戦場ニ立テ……！
+[23:36:15.984] 14:5BB4:トリニティ・アヴァウド starts using 花嵐の幻影 on トリニティ・アヴァウド.
+[23:36:15.000] 00:282b:トリニティ・アヴァウドは「花嵐の幻影」の構え。
+[23:36:18.493] 00:0000:Hojoring:[EX] Added new combatant. name=カーバンクル・ルビー X=16.06 Y=19.91 Z=-1.82 hp=150726
+[23:36:20.124] 00:0000:Hojoring:[EX] Added new combatant. name=アーサリースター X=16.06 Y=19.86 Z=-1.82 hp=150726
+[23:36:20.925] 00:0000:Hojoring:[EX] Added new combatant. name=イフリート・エギ X=16.05 Y=19.92 Z=-1.82 hp=150726
+[23:36:18.523] 1A:10027680:[pc] gains the effect of 生還 from  for 6.00 Seconds.
+[23:36:18.970] 15:<id8>:トリニティ・アヴァウド:5BB4:花嵐の幻影:<id8>:トリニティ・アヴァウド:
+[23:36:19.000] 00:282b:トリニティ・アヴァウドの「花嵐の幻影」
+[23:36:21.509] 1A:101D2350:[pc] gains the effect of 生還 from  for 6.00 Seconds.
+[23:36:21.000] 00:0044:トリニティ・アヴァウド:沸キ立ツ魔力……燃エ盛リテ、波トナレ……！
+[23:36:21.000] 00:282b:トリニティ・アヴァウドは「フレイム・オブ・ボズヤ」の構え。
+[23:36:22.131] 14:597E:トリニティ・アヴァウド starts using フレイム・オブ・ボズヤ on トリニティ・アヴァウド.
+[23:36:24.273] 14:594D:アヴァウドの分体 starts using グリッターアロー on アヴァウドの分体.
+[23:36:26.928] 00:0000:Hojoring:[EX] Added new combatant. name=カーバンクル・ルビー X=16.04 Y=19.89 Z=-1.82 hp=150726
+[23:36:27.305] 00:0000:Hojoring:[EX] Added new combatant. name=フェアリー・エオス X=16.06 Y=19.90 Z=-1.82 hp=150726
+[23:36:25.122] 15:<id8>:トリニティ・アヴァウド:597E:フレイム・オブ・ボズヤ:<id8>:トリニティ・アヴァウド:
+[23:36:25.000] 00:282b:トリニティ・アヴァウドの「フレイム・オブ・ボズヤ」
+[23:36:26.280] 14:5B3D:トリニティ・アヴァウド starts using Unknown_5B3d on トリニティ・アヴァウド.
+[23:36:26.280] 14:5939:トリニティ・アヴァウド starts using フレイム・オブ・ボズヤ on トリニティ・アヴァウド.
+[23:36:28.000] 00:282b:トリニティ・アヴァウドの「攻撃」
+[23:36:30.253] 15:<id8>:アヴァウドの分体:594D:グリッターアロー:<id8>::
+[23:36:30.253] 16:<id8>:アヴァウドの分体:594D:グリッターアロー:<id8>:[pc]:
+[23:36:31.000] 00:282b:アヴァウドの分体の「グリッターアロー」
+[23:36:31.715] 1A:102A2956:[pc] gains the effect of 破滅の刻印：弐 from アヴァウドの分体 for 9999.00 Seconds.
+[23:36:31.761] 1A:102EF269:[pc] gains the effect of 破滅の刻印：弐 from アヴァウドの分体 for 9999.00 Seconds.
+[23:36:31.000] 00:282b:トリニティ・アヴァウドの「攻撃」
+[23:36:35.240] 15:<id8>:トリニティ・アヴァウド:5B3D:Unknown_5B3d:<id8>::
+[23:36:35.240] 15:<id8>:トリニティ・アヴァウド:5939:フレイム・オブ・ボズヤ:<id8>:[pc]:
+[23:36:35.000] 00:282b:トリニティ・アヴァウドは「氷炎乱流」の構え。
+[23:36:35.592] 14:5BB0:トリニティ・アヴァウド starts using 氷炎乱流 on トリニティ・アヴァウド.
+[23:36:39.761] 00:0000:Hojoring:[EX] Added new combatant. name=分身 X=15.68 Y=19.87 Z=-1.82 hp=149486
+[23:36:38.576] 15:<id8>:トリニティ・アヴァウド:5BB0:氷炎乱流:<id8>:トリニティ・アヴァウド:
+[23:36:41.748] 00:0000:Hojoring:[EX] Added new combatant. name=デミ・フェニックス X=15.66 Y=19.77 Z=-1.82 hp=150726
+[23:36:39.000] 00:282b:トリニティ・アヴァウドの「氷炎乱流」
+[23:36:42.674] 00:0000:Hojoring:[EX] Added new combatant. name=セラフィム X=16.06 Y=19.96 Z=-1.82 hp=150726
+[23:36:42.000] 00:0044:トリニティ・アヴァウド:女王ノ敵ニ、呪印ヲ刻ム……！ 己ガ破滅ノ運命ニ、震エルガイイ……！
+[23:36:42.000] 00:282b:トリニティ・アヴァウドは「氷炎の呪印」の構え。
+[23:36:42.717] 14:5BB2:トリニティ・アヴァウド starts using 氷炎の呪印 on トリニティ・アヴァウド.
+[23:36:45.840] 00:0000:Hojoring:[EX] Added new combatant. name=デミ・フェニックス X=15.65 Y=19.96 Z=-1.82 hp=150726
+[23:36:47.363] 00:0000:Hojoring:[EX] Added new combatant. name=デミ・バハムート X=15.72 Y=20.01 Z=-1.82 hp=135652
+[23:36:48.146] 00:0000:Hojoring:[EX] Added new combatant. name=分身 X=15.66 Y=19.86 Z=-1.82 hp=149486
+[23:36:48.146] 00:0000:Hojoring:[EX] Added new combatant. name=デミ・フェニックス X=15.65 Y=19.99 Z=-1.82 hp=150726
+[23:36:45.706] 15:<id8>:トリニティ・アヴァウド:5BB2:氷炎の呪印:<id8>:トリニティ・アヴァウド:
+[23:36:46.000] 00:282b:トリニティ・アヴァウドの「氷炎の呪印」
+[23:36:48.871] 14:5BB3:トリニティ・アヴァウド starts using 行軍命令 on トリニティ・アヴァウド.
+[23:36:48.000] 00:282b:トリニティ・アヴァウドは「行軍命令」の構え。
+[23:36:54.178] 00:0000:Hojoring:[EX] Added new combatant. name=分身 X=15.69 Y=19.88 Z=-1.82 hp=149486
+[23:36:51.853] 15:<id8>:トリニティ・アヴァウド:5BB3:行軍命令:<id8>:トリニティ・アヴァウド:
+[23:36:52.000] 00:282b:トリニティ・アヴァウドの「行軍命令」
+[23:36:56.258] 00:0000:Hojoring:[EX] Beacon X=15.66 Y=19.85 Z=-1.82 zone=Delubrum Reginae (Savage)
+[23:36:55.000] 00:0044:トリニティ・アヴァウド:捉エマシタ……逃シマセンヨ……！
+[23:36:55.680] 14:597F:トリニティ・アヴァウド starts using トゥインクルアロー on トリニティ・アヴァウド.
+[23:36:55.000] 00:282b:トリニティ・アヴァウドは「トゥインクルアロー」の構え。
+[23:36:58.668] 15:<id8>:トリニティ・アヴァウド:597F:トゥインクルアロー:<id8>:トリニティ・アヴァウド:
+[23:37:01.853] 00:0000:Hojoring:[EX] Added new combatant. name=カーバンクル・ルビー X=15.72 Y=20.00 Z=-1.82 hp=150726
+[23:36:59.000] 00:282b:トリニティ・アヴァウドの「トゥインクルアロー」
+[23:37:04.214] 00:0000:Hojoring:[EX] Added new combatant. name=グレイシャーアロー X=16.56 Y=19.46 Z=-1.82 hp=26048000
+[23:37:04.214] 00:0000:Hojoring:[EX] Added new combatant. name=ファイアアロー X=16.56 Y=20.26 Z=-1.82 hp=26048000
+[23:37:04.214] 00:0000:Hojoring:[EX] Added new combatant. name=フロストアロー X=16.56 Y=19.66 Z=-1.82 hp=26048000
+[23:37:04.214] 00:0000:Hojoring:[EX] Added new combatant. name=フレイムアロー X=16.56 Y=19.86 Z=-1.82 hp=26048000
+[23:37:04.637] 00:0000:Hojoring:[EX] Added new combatant. name=フレイムアロー X=16.56 Y=19.86 Z=-1.82 hp=44
+[23:37:04.637] 00:0000:Hojoring:[EX] Added new combatant. name=ファイアアロー X=16.56 Y=20.26 Z=-1.82 hp=44
+[23:37:04.637] 00:0000:Hojoring:[EX] Added new combatant. name=フェアリー・エオス X=16.06 Y=19.96 Z=-1.82 hp=150726
+[23:37:04.669] 00:0000:Hojoring:[EX] Added new combatant. name=フロストアロー X=16.56 Y=19.66 Z=-1.82 hp=44
+[23:37:04.669] 00:0000:Hojoring:[EX] Added new combatant. name=グレイシャーアロー X=16.56 Y=19.46 Z=-1.82 hp=44
+[23:37:05.831] 00:0000:Hojoring:[EX] Added new combatant. name=カーバンクル・ルビー X=15.65 Y=19.90 Z=-1.82 hp=150726
+[23:37:07.519] 00:0000:Hojoring:[EX] Added new combatant. name=カーバンクル・トパーズ X=15.67 Y=19.94 Z=-1.82 hp=150726
+[23:37:08.276] 00:0000:Hojoring:[EX] Added new combatant. name=イフリート・エギ X=15.72 Y=19.68 Z=-1.82 hp=150726
+[23:37:15.844] 00:0000:Hojoring:[EX] Added new combatant. name=トラップ X=21.50 Y=21.50 Z=0.00 hp=148000
+[23:37:13.000] 00:282b:トリニティ・アヴァウドの「攻撃」
+[23:37:15.868] 16:<id8>:ファイアアロー:593E:熱気矢:<id8>:[pc]:
+[23:37:15.868] 16:<id8>:フレイムアロー:593F:強熱気矢:<id8>:[pc]:
+[23:37:15.868] 16:<id8>:フロストアロー:5940:凍気矢:<id8>:[PLD]:
+[23:37:15.868] 16:<id8>:フロストアロー:5940:凍気矢:<id8>:[pc]:
+[23:37:15.868] 16:<id8>:グレイシャーアロー:5941:強凍気矢:<id8>:[pc]:
+[23:37:15.868] 16:<id8>:グレイシャーアロー:5941:強凍気矢:<id8>:[MNK]:
+[23:37:15.958] 16:<id8>:フロストアロー:593C:凍気矢:<id8>:[pc]:
+[23:37:15.958] 16:<id8>:グレイシャーアロー:593D:強凍気矢:<id8>:[pc]:
+[23:37:15.958] 16:<id8>:ファイアアロー:593A:熱気矢:<id8>:[pc]:
+[23:37:15.958] 16:<id8>:ファイアアロー:593A:熱気矢:<id8>:[SCH]:
+[23:37:15.958] 16:<id8>:ファイアアロー:593A:熱気矢:<id8>:[WAR]:
+[23:37:15.958] 16:<id8>:ファイアアロー:593A:熱気矢:<id8>:[DNC]:
+[23:37:15.958] 16:<id8>:フレイムアロー:593B:強熱気矢:<id8>:[pc]:
+[23:37:15.958] 16:<id8>:フレイムアロー:593B:強熱気矢:<id8>:[mex]:
+[23:37:16.044] 1A:10247D9C:[pc] gains the effect of 被魔法ダメージ増加 from ファイアアロー for 2.82 Seconds.
+[23:37:16.044] 1A:10274868:[pc] gains the effect of 被魔法ダメージ増加 from フレイムアロー for 2.82 Seconds.
+[23:37:16.044] 1A:102795B6:[PLD] gains the effect of 被魔法ダメージ増加 from フロストアロー for 2.82 Seconds.
+[23:37:16.044] 1A:1029842C:[pc] gains the effect of 被魔法ダメージ増加 from グレイシャーアロー for 2.82 Seconds.
+[23:37:16.090] 1A:10255486:[pc] gains the effect of 被魔法ダメージ増加 from ファイアアロー for 2.77 Seconds.
+[23:37:16.090] 1A:102EF269:[pc] gains the effect of 被魔法ダメージ増加 from フレイムアロー for 2.77 Seconds.
+[23:37:16.090] 1A:10303AA2:[pc] gains the effect of 被魔法ダメージ増加 from フロストアロー for 2.77 Seconds.
+[23:37:16.134] 1A:10241BE6:[pc] gains the effect of 被魔法ダメージ増加 from ファイアアロー for 2.73 Seconds.
+[23:37:16.090] 1A:100E16E0:[pc] gains the effect of 被魔法ダメージ増加 from グレイシャーアロー for 2.77 Seconds.
+[23:37:16.134] 1A:10087D67:[MNK] gains the effect of 被魔法ダメージ増加 from グレイシャーアロー for 2.73 Seconds.
+[23:37:15.000] 00:282b:フレイムアローの「強熱気矢」
+[23:37:15.000] 00:282b:ファイアアローの「熱気矢」
+[23:37:15.000] 00:282b:グレイシャーアローの「強凍気矢」
+[23:37:16.000] 00:282b:フロストアローの「凍気矢」
+[23:37:16.444] 1A:102EECAC:[pc] gains the effect of 被魔法ダメージ増加 from フロストアロー for 2.51 Seconds.
+[23:37:16.444] 1A:102AD4DA:[pc] gains the effect of 被魔法ダメージ増加 from グレイシャーアロー for 2.51 Seconds.
+[23:37:16.444] 1A:1002BE5C:[pc] gains the effect of 被魔法ダメージ増加 from ファイアアロー for 2.51 Seconds.
+[23:37:16.444] 1A:1003B533:[pc] gains the effect of 被魔法ダメージ増加 from フレイムアロー for 2.51 Seconds.
+[23:37:16.489] 1A:1025F986:[pc] gains the effect of 被魔法ダメージ増加 from フロストアロー for 2.47 Seconds.
+[23:37:16.489] 1A:1027F60B:[pc] gains the effect of 被魔法ダメージ増加 from グレイシャーアロー for 2.47 Seconds.
+[23:37:16.489] 1A:1029609D:[SCH] gains the effect of 被魔法ダメージ増加 from ファイアアロー for 2.47 Seconds.
+[23:37:16.489] 1A:101B47AB:[pc] gains the effect of 被魔法ダメージ増加 from フレイムアロー for 2.47 Seconds.
+[23:37:16.533] 1A:1002AAC3:[pc] gains the effect of 被魔法ダメージ増加 from ファイアアロー for 2.42 Seconds.
+[23:37:16.533] 1A:10248026:[mex] gains the effect of 被魔法ダメージ増加 from フレイムアロー for 2.42 Seconds.
+[23:37:16.580] 1A:1025BEB0:[WAR] gains the effect of 被魔法ダメージ増加 from ファイアアロー for 2.38 Seconds.
+[23:37:16.580] 1A:102DC0AC:[pc] gains the effect of 被魔法ダメージ増加 from フレイムアロー for 2.38 Seconds.
+[23:37:16.619] 1A:1025153F:[DNC] gains the effect of 被魔法ダメージ増加 from ファイアアロー for 2.33 Seconds.
+[23:37:16.666] 1A:10236A3A:[pc] gains the effect of 被魔法ダメージ増加 from ファイアアロー for 2.29 Seconds.
+[23:37:17.000] 00:282b:トリニティ・アヴァウドの「攻撃」
+[23:37:18.893] 16:<id8>:トリニティ・アヴァウド:5938:Unknown_5938:<id8>:[pc]:
+[23:37:18.893] 16:<id8>:トリニティ・アヴァウド:5938:Unknown_5938:<id8>:[NIN]:
+[23:37:18.893] 16:<id8>:トリニティ・アヴァウド:5938:Unknown_5938:<id8>:[PLD]:
+[23:37:18.893] 16:<id8>:トリニティ・アヴァウド:5938:Unknown_5938:<id8>:[DNC]:
+[23:37:18.893] 16:<id8>:トリニティ・アヴァウド:5937:Unknown_5937:<id8>:[pc]:
+[23:37:18.893] 16:<id8>:トリニティ・アヴァウド:5937:Unknown_5937:<id8>:[mex]:
+[23:37:18.893] 16:<id8>:トリニティ・アヴァウド:5936:Unknown_5936:<id8>:[pc]:
+[23:37:18.893] 16:<id8>:トリニティ・アヴァウド:5936:Unknown_5936:<id8>:[SMN]:
+[23:37:18.893] 16:<id8>:トリニティ・アヴァウド:5935:Unknown_5935:<id8>:[pc]:
+[23:37:18.893] 16:<id8>:トリニティ・アヴァウド:5935:Unknown_5935:<id8>:[WAR]:
+[23:37:22.637] 00:0000:Hojoring:[EX] Added new combatant. name=デミ・フェニックス X=15.64 Y=19.63 Z=-1.82 hp=150726
+[23:37:20.000] 00:282b:トリニティ・アヴァウドの「攻撃」
+[23:37:21.204] 15:<id8>:トリニティ・アヴァウド:5983:Unknown_5983:<id8>:トリニティ・アヴァウド:
+[23:37:21.742] 16:<id8>:トリニティ・アヴァウド:5B24:Unknown_5B24:<id8>:[pc]:
+[23:37:21.742] 16:<id8>:トリニティ・アヴァウド:5B24:Unknown_5B24:<id8>:[mex]:
+[23:37:21.742] 16:<id8>:トリニティ・アヴァウド:5B24:Unknown_5B24:<id8>:[NIN]:
+[23:37:21.742] 16:<id8>:トリニティ・アヴァウド:5B24:Unknown_5B24:<id8>:[WAR]:
+[23:37:21.742] 16:<id8>:トリニティ・アヴァウド:5B24:Unknown_5B24:<id8>:[DNC]:
+[23:37:21.742] 16:<id8>:トリニティ・アヴァウド:5B24:Unknown_5B24:<id8>:[SMN]:
+[23:37:25.027] 00:0000:Hojoring:[EX] Added new combatant. name=オートマトン・クイーン X=15.70 Y=19.80 Z=-1.82 hp=149525
+[23:37:25.482] 00:0000:Hojoring:[EX] Added new combatant. name=セラフィム X=16.08 Y=19.88 Z=-1.82 hp=150726
+[23:37:23.000] 00:282b:トリニティ・アヴァウドは「グローリー・オブ・ボズヤ」の構え。
+[23:37:23.305] 14:594F:トリニティ・アヴァウド starts using グローリー・オブ・ボズヤ on トリニティ・アヴァウド.
+[23:37:23.305] 14:5B32:トリニティ・アヴァウド starts using グローリー・オブ・ボズヤ on トリニティ・アヴァウド.
+[23:37:30.248] 00:0000:Hojoring:[EX] Added new combatant. name=アーサリースター X=15.80 Y=19.72 Z=-1.82 hp=150726
+[23:37:28.291] 16:<id8>:トリニティ・アヴァウド:594F:グローリー・オブ・ボズヤ:<id8>:[DNC]:
+[23:37:28.291] 16:<id8>:トリニティ・アヴァウド:594F:グローリー・オブ・ボズヤ:<id8>:[mex]:
+[23:37:28.291] 16:<id8>:トリニティ・アヴァウド:594F:グローリー・オブ・ボズヤ:<id8>:[pc]:
+[23:37:28.291] 16:<id8>:トリニティ・アヴァウド:594F:グローリー・オブ・ボズヤ:<id8>:[WAR]:
+[23:37:28.291] 16:<id8>:トリニティ・アヴァウド:594F:グローリー・オブ・ボズヤ:<id8>:[NIN]:
+[23:37:28.871] 16:<id8>:トリニティ・アヴァウド:5B32:グローリー・オブ・ボズヤ:<id8>:[PLD]:
+[23:37:28.871] 16:<id8>:トリニティ・アヴァウド:5B32:グローリー・オブ・ボズヤ:<id8>:[pc]:
+[23:37:28.871] 16:<id8>:トリニティ・アヴァウド:5B32:グローリー・オブ・ボズヤ:<id8>:[SMN]:
+[23:37:28.871] 16:<id8>:トリニティ・アヴァウド:5B32:グローリー・オブ・ボズヤ:<id8>:[MNK]:
+[23:37:28.000] 00:282b:トリニティ・アヴァウドの「グローリー・オブ・ボズヤ」
+[23:37:29.043] 1A:102795B6:[PLD] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:37:29.043] 1A:10247D9C:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:37:29.089] 1A:1025153F:[DNC] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:37:29.089] 1A:10256B89:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:37:29.089] 1A:102A2956:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:37:29.089] 1A:10241BE6:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:37:29.132] 1A:10248026:[mex] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:37:29.132] 1A:1025B0B4:[NIN] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:37:29.132] 1A:10274868:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:37:29.132] 1A:10087D67:[MNK] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:37:29.178] 1A:1002BE5C:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:37:29.178] 1A:10327838:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:37:29.178] 1A:1002EEB9:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:37:29.178] 1A:102A80C2:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:37:29.223] 1A:1002AAC3:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:37:29.223] 1A:102E1133:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:37:29.223] 1A:102EF4FC:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:37:29.223] 1A:1029BE04:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:37:29.264] 1A:101D2350:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:37:29.264] 1A:1028E95A:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:37:29.264] 1A:10255486:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:37:29.270] 1A:102E5568:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:37:29.309] 1A:101B47AB:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:37:29.309] 1A:102AD6E2:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:37:29.355] 1A:1027F60B:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:37:29.355] 1A:102EF269:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:37:29.400] 1A:1003B533:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:37:29.400] 1A:1026B1E2:[SMN] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:37:29.445] 1A:1016203E:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:37:29.445] 1A:10303AA2:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:37:29.491] 1A:10236A3A:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:37:29.491] 1A:100E16E0:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:37:29.532] 1A:10241789:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:37:29.534] 1A:1007331B:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:37:29.577] 1A:102AD4DA:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:37:29.577] 1A:1001C1B8:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:37:29.622] 1A:102EECAC:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:37:29.622] 1A:10219BF8:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:37:29.668] 1A:1025F986:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:37:29.668] 1A:1033C8BE:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:37:29.712] 1A:1025BEB0:[WAR] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:37:29.712] 1A:1029842C:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:37:29.759] 1A:102DC0AC:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:37:31.000] 00:282b:トリニティ・アヴァウドは「ラース・オブ・ボズヤ」の構え。
+[23:37:31.450] 14:594E:トリニティ・アヴァウド starts using ラース・オブ・ボズヤ on Fire Aniki.
+[23:37:31.450] 1B:<id8>:[pc]:0000:0000:01B2:0000:0000:0000:
+[23:37:35.051] 00:0000:Hojoring:[EX] Added new combatant. name=イフリート・エギ X=15.75 Y=19.77 Z=-1.82 hp=150726
+[23:37:36.753] 16:<id8>:トリニティ・アヴァウド:594E:ラース・オブ・ボズヤ:<id8>:[pc]:
+[23:37:37.000] 00:282b:トリニティ・アヴァウドの「ラース・オブ・ボズヤ」
+[23:37:42.690] 00:0000:Hojoring:[EX] Added new combatant. name=カーバンクル・ルビー X=15.74 Y=19.71 Z=-1.82 hp=150726
+[23:37:41.000] 00:282b:トリニティ・アヴァウドの「攻撃」
+[23:37:42.143] 1A:10027680:[pc] gains the effect of 生還 from  for 6.00 Seconds.
+[23:37:44.000] 00:282b:トリニティ・アヴァウドの「攻撃」
+[23:37:47.559] 00:0000:Hojoring:[EX] Added new combatant. name=フェアリー・エオス X=16.08 Y=19.88 Z=-1.82 hp=150726
+[23:37:47.917] 00:0000:Hojoring:[EX] Added new combatant. name=英雄の影身 X=16.03 Y=19.86 Z=-1.82 hp=123916
+[23:37:45.000] 00:0044:スタニックらしき声:俺サマノ剣ヲ、受ケロ……！ 獣ドモヲ……打チ払ウノダ……！
+[23:37:45.749] 14:5985:トリニティ・アヴァウド starts using ウェポンチェンジ on トリニティ・アヴァウド.
+[23:37:45.000] 00:282b:トリニティ・アヴァウドは「ウェポンチェンジ」の構え。
+[23:37:49.542] 00:0000:Hojoring:[EX] Added new combatant. name=アーサリースター X=16.02 Y=19.86 Z=-1.82 hp=150726
+[23:37:50.299] 00:0000:Hojoring:[EX] Added new combatant. name=デミ・フェニックス X=16.05 Y=19.97 Z=-1.82 hp=150726
+[23:37:48.746] 15:<id8>:トリニティ・アヴァウド:5985:ウェポンチェンジ:<id8>:トリニティ・アヴァウド:
+[23:37:48.000] 00:282b:トリニティ・アヴァウドの「ウェポンチェンジ」
+[23:37:54.333] 00:0000:Hojoring:[EX] Added new combatant. name=英雄の影身 X=15.97 Y=19.75 Z=-1.82 hp=123916
+[23:37:54.719] 00:0000:Hojoring:[EX] Added new combatant. name=デミ・バハムート X=16.05 Y=19.79 Z=-1.82 hp=135652
+[23:37:55.926] 00:0000:Hojoring:[EX] Added new combatant. name=デミ・バハムート X=16.03 Y=19.66 Z=-1.82 hp=135652
+[23:37:56.316] 00:0000:Hojoring:[EX] Beacon X=16.04 Y=19.73 Z=-1.82 zone=Delubrum Reginae (Savage)
+[23:37:53.912] 15:<id8>:トリニティ・アヴァウド:594A:ヤーマスラッシュ:<id8>:[DNC]:
+[23:37:54.000] 00:282b:トリニティ・アヴァウドの「ヤーマスラッシュ」
+[23:37:54.759] 1A:1025153F:[DNC] gains the effect of 破滅の刻印：弐 from トリニティ・アヴァウド for 9999.00 Seconds.
+[23:37:55.959] 1A:1029609D:[SCH] gains the effect of 生還 from  for 6.00 Seconds.
+[23:37:59.160] 00:0000:Hojoring:[EX] Added new combatant. name=オートマトン・クイーン X=15.98 Y=19.72 Z=-1.82 hp=149525
+[23:37:59.551] 00:0000:Hojoring:[EX] Added new combatant. name=トラップ X=21.50 Y=21.50 Z=0.00 hp=148000
+[23:38:00.342] 00:0000:Hojoring:[EX] Added new combatant. name=英雄の影身 X=15.98 Y=19.82 Z=-1.82 hp=123916
+[23:37:57.000] 00:282b:トリニティ・アヴァウドは「氷炎乱流」の構え。
+[23:37:58.242] 14:5BAF:トリニティ・アヴァウド starts using 氷炎乱流 on トリニティ・アヴァウド.
+[23:38:00.746] 00:0000:Hojoring:[EX] Added new combatant. name=分身 X=16.05 Y=19.79 Z=-1.82 hp=149486
+[23:38:01.218] 15:<id8>:トリニティ・アヴァウド:5BAF:氷炎乱流:<id8>:トリニティ・アヴァウド:
+[23:38:04.780] 00:0000:Hojoring:[EX] Added new combatant. name=デミ・バハムート X=16.18 Y=19.90 Z=-1.82 hp=135652
+[23:38:02.000] 00:282b:トリニティ・アヴァウドの「氷炎乱流」
+[23:38:07.154] 00:0000:Hojoring:[EX] Added new combatant. name=フェアリー・エオス X=15.99 Y=19.82 Z=-1.82 hp=150726
+[23:38:05.364] 14:5BB1:トリニティ・アヴァウド starts using 氷炎の呪印 on トリニティ・アヴァウド.
+[23:38:04.000] 00:282b:トリニティ・アヴァウドは「氷炎の呪印」の構え。
+[23:38:10.361] 00:0000:Hojoring:[EX] Added new combatant. name=英雄の影身 X=16.14 Y=19.88 Z=-1.82 hp=123916
+[23:38:10.361] 00:0000:Hojoring:[EX] Added new combatant. name=カーバンクル・トパーズ X=16.12 Y=19.85 Z=-1.82 hp=150726
+[23:38:08.352] 15:<id8>:トリニティ・アヴァウド:5BB1:氷炎の呪印:<id8>:トリニティ・アヴァウド:
+[23:38:09.000] 00:282b:トリニティ・アヴァウドの「氷炎の呪印」
+[23:38:11.000] 00:282b:トリニティ・アヴァウドは「羅刹の幻影」の構え。
+[23:38:11.515] 14:5B3A:トリニティ・アヴァウド starts using 羅刹の幻影 on トリニティ・アヴァウド.
+[23:38:14.449] 00:0000:Hojoring:[EX] Added new combatant. name=分身 X=16.14 Y=19.78 Z=-1.82 hp=149486
+[23:38:14.789] 00:0000:Hojoring:[EX] Added new combatant. name=カーバンクル・ルビー X=16.05 Y=19.86 Z=-1.82 hp=150726
+[23:38:16.010] 00:0000:Hojoring:[EX] Added new combatant. name=イフリート・エギ X=16.07 Y=19.76 Z=-1.82 hp=150726
+[23:38:14.498] 15:<id8>:トリニティ・アヴァウド:5B3A:羅刹の幻影:<id8>:トリニティ・アヴァウド:
+[23:38:15.000] 00:282b:トリニティ・アヴァウドの「羅刹の幻影」
+[23:38:19.622] 00:0000:Hojoring:[EX] Added new combatant. name=フェアリー・エオス X=16.09 Y=19.90 Z=-1.82 hp=150726
+[23:38:20.000] 00:0044:スタニックらしき声:俺サマノ剣デ……ノタウチマワレッ……！
+[23:38:20.602] 14:5957:アヴァウドの分体 starts using 氷炎刃 on アヴァウドの分体.
+[23:38:20.602] 14:5942:アヴァウドの分体 starts using 氷炎刃 on アヴァウドの分体.
+[23:38:20.602] 14:5956:アヴァウドの分体 starts using 氷炎刃 on アヴァウドの分体.
+[23:38:20.602] 14:5943:トリニティ・アヴァウド starts using 氷炎刃 on トリニティ・アヴァウド.
+[23:38:20.602] 14:5945:トリニティ・アヴァウド starts using 氷炎刃 on トリニティ・アヴァウド.
+[23:38:20.602] 14:5958:アヴァウドの分体 starts using 氷炎刃 on アヴァウドの分体.
+[23:38:20.602] 14:5944:アヴァウドの分体 starts using 氷炎刃 on アヴァウドの分体.
+[23:38:20.602] 14:5959:アヴァウドの分体 starts using 氷炎刃 on アヴァウドの分体.
+[23:38:20.000] 00:282b:アヴァウドの分体は「氷炎刃」の構え。
+[23:38:20.000] 00:282b:トリニティ・アヴァウドは「氷炎刃」の構え。
+[23:38:24.807] 00:0000:Hojoring:[EX] Added new combatant. name=カーバンクル・ルビー X=16.08 Y=19.87 Z=-1.82 hp=150726
+[23:38:30.585] 16:<id8>:アヴァウドの分体:5957:氷炎刃:<id8>:[pc]:
+[23:38:30.585] 16:<id8>:アヴァウドの分体:5942:氷炎刃:<id8>:[DNC]:
+[23:38:30.585] 16:<id8>:アヴァウドの分体:5942:氷炎刃:<id8>:[pc]:
+[23:38:30.585] 16:<id8>:アヴァウドの分体:5942:氷炎刃:<id8>:[NIN]:
+[23:38:30.585] 16:<id8>:アヴァウドの分体:5942:氷炎刃:<id8>:[mex]:
+[23:38:30.585] 16:<id8>:アヴァウドの分体:5942:氷炎刃:<id8>:[SCH]:
+[23:38:30.585] 16:<id8>:アヴァウドの分体:5956:氷炎刃:<id8>:[pc]:
+[23:38:30.585] 16:<id8>:アヴァウドの分体:5956:氷炎刃:<id8>:[WAR]:
+[23:38:30.585] 16:<id8>:アヴァウドの分体:5956:氷炎刃:<id8>:[SCH]:
+[23:38:30.585] 16:<id8>:トリニティ・アヴァウド:5943:氷炎刃:<id8>:[pc]:
+[23:38:30.585] 16:<id8>:トリニティ・アヴァウド:5945:氷炎刃:<id8>:[MNK]:
+[23:38:30.585] 16:<id8>:トリニティ・アヴァウド:5945:氷炎刃:<id8>:[pc]:
+[23:38:30.585] 16:<id8>:アヴァウドの分体:5958:氷炎刃:<id8>:[pc]:
+[23:38:30.585] 16:<id8>:アヴァウドの分体:5944:氷炎刃:<id8>:[pc]:
+[23:38:30.585] 16:<id8>:アヴァウドの分体:5944:氷炎刃:<id8>:[SMN]:
+[23:38:30.585] 16:<id8>:アヴァウドの分体:5959:氷炎刃:<id8>:[pc]:
+[23:38:30.585] 16:<id8>:アヴァウドの分体:5959:氷炎刃:<id8>:[PLD]:
+[23:38:30.760] 1A:10087D67:[MNK] gains the effect of 被魔法ダメージ増加 from トリニティ・アヴァウド for 2.86 Seconds.
+[23:38:30.760] 1A:10247D9C:[pc] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 2.86 Seconds.
+[23:38:30.760] 1A:10303AA2:[pc] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 2.86 Seconds.
+[23:38:30.760] 1A:102E5568:[pc] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 2.86 Seconds.
+[23:38:30.801] 1A:102EF269:[pc] gains the effect of 被魔法ダメージ増加 from トリニティ・アヴァウド for 2.82 Seconds.
+[23:38:30.803] 1A:10255486:[pc] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 2.82 Seconds.
+[23:38:30.803] 1A:10219BF8:[pc] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 2.82 Seconds.
+[23:38:30.803] 1A:10274868:[pc] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 2.82 Seconds.
+[23:38:30.846] 1A:102A80C2:[pc] gains the effect of 被魔法ダメージ増加 from トリニティ・アヴァウド for 2.78 Seconds.
+[23:38:30.846] 1A:102A2956:[pc] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 2.78 Seconds.
+[23:38:30.846] 1A:1001C1B8:[pc] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 2.78 Seconds.
+[23:38:30.849] 1A:102795B6:[PLD] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 2.78 Seconds.
+[23:38:30.892] 1A:100E16E0:[pc] gains the effect of 被魔法ダメージ増加 from トリニティ・アヴァウド for 2.73 Seconds.
+[23:38:30.892] 1A:1002EEB9:[pc] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 2.73 Seconds.
+[23:38:30.892] 1A:1026B1E2:[SMN] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 2.73 Seconds.
+[23:38:30.892] 1A:10241BE6:[pc] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 2.73 Seconds.
+[23:38:30.936] 1A:1029BE04:[pc] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 2.69 Seconds.
+[23:38:30.936] 1A:1029842C:[pc] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 2.69 Seconds.
+[23:38:30.936] 1A:10027680:[pc] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 2.69 Seconds.
+[23:38:30.983] 1A:102AD6E2:[pc] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 2.64 Seconds.
+[23:38:30.983] 1A:102EF4FC:[pc] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 2.64 Seconds.
+[23:38:31.023] 1A:1007331B:[pc] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 2.60 Seconds.
+[23:38:31.068] 1A:1033C8BE:[pc] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 2.56 Seconds.
+[23:38:30.000] 00:282b:トリニティ・アヴァウドの「氷炎刃」
+[23:38:30.000] 00:282b:アヴァウドの分体の「氷炎刃」
+[23:38:31.000] 00:282b:アヴァウドの分体の「氷炎刃」
+[23:38:31.381] 1A:1003B533:[pc] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 2.23 Seconds.
+[23:38:31.381] 1A:1025153F:[DNC] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 2.23 Seconds.
+[23:38:31.381] 1A:1002BE5C:[pc] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 2.23 Seconds.
+[23:38:31.426] 1A:1016203E:[pc] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 2.20 Seconds.
+[23:38:31.426] 1A:102EECAC:[pc] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 2.20 Seconds.
+[23:38:31.426] 1A:1025BEB0:[WAR] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 2.20 Seconds.
+[23:38:31.472] 1A:1025B0B4:[NIN] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 2.15 Seconds.
+[23:38:31.472] 1A:102E1133:[pc] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 2.15 Seconds.
+[23:38:31.516] 1A:10236A3A:[pc] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 2.11 Seconds.
+[23:38:31.516] 1A:1025F986:[pc] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 2.11 Seconds.
+[23:38:31.516] 1A:10327838:[pc] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 2.11 Seconds.
+[23:38:31.516] 1A:101B47AB:[pc] gains the effect of 被魔法ダメージ増加 from トリニティ・アヴァウド for 2.11 Seconds.
+[23:38:31.559] 1A:10241789:[pc] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 2.06 Seconds.
+[23:38:31.559] 1A:10248026:[mex] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 2.06 Seconds.
+[23:38:31.563] 1A:1028E95A:[pc] gains the effect of 被魔法ダメージ増加 from トリニティ・アヴァウド for 2.06 Seconds.
+[23:38:31.604] 1A:101D2350:[pc] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 2.02 Seconds.
+[23:38:31.650] 1A:102AD4DA:[pc] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 1.97 Seconds.
+[23:38:31.695] 1A:1027F60B:[pc] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 1.93 Seconds.
+[23:38:31.741] 1A:102DC0AC:[pc] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 1.89 Seconds.
+[23:38:34.631] 14:5947:アヴァウドの分体 starts using 氷炎刃 on アヴァウドの分体.
+[23:38:34.631] 14:5946:アヴァウドの分体 starts using 氷炎刃 on アヴァウドの分体.
+[23:38:34.631] 14:5957:アヴァウドの分体 starts using 氷炎刃 on アヴァウドの分体.
+[23:38:34.631] 14:5956:トリニティ・アヴァウド starts using 氷炎刃 on トリニティ・アヴァウド.
+[23:38:34.631] 14:5958:トリニティ・アヴァウド starts using 氷炎刃 on トリニティ・アヴァウド.
+[23:38:34.631] 14:5959:アヴァウドの分体 starts using 氷炎刃 on アヴァウドの分体.
+[23:38:34.631] 14:5948:アヴァウドの分体 starts using 氷炎刃 on アヴァウドの分体.
+[23:38:34.631] 14:5949:アヴァウドの分体 starts using 氷炎刃 on アヴァウドの分体.
+[23:38:34.000] 00:282b:アヴァウドの分体は「氷炎刃」の構え。
+[23:38:34.000] 00:282b:トリニティ・アヴァウドは「氷炎刃」の構え。
+[23:38:44.616] 16:<id8>:アヴァウドの分体:5947:氷炎刃:<id8>:[pc]:
+[23:38:44.616] 16:<id8>:アヴァウドの分体:5946:氷炎刃:<id8>:[pc]:
+[23:38:44.616] 16:<id8>:アヴァウドの分体:5946:氷炎刃:<id8>:[WAR]:
+[23:38:44.616] 16:<id8>:アヴァウドの分体:5957:氷炎刃:<id8>:[pc]:
+[23:38:44.616] 15:<id8>:トリニティ・アヴァウド:5956:氷炎刃:<id8>::
+[23:38:44.616] 16:<id8>:トリニティ・アヴァウド:5958:氷炎刃:<id8>:[pc]:
+[23:38:44.616] 16:<id8>:アヴァウドの分体:5959:氷炎刃:<id8>:[PLD]:
+[23:38:44.616] 16:<id8>:アヴァウドの分体:5959:氷炎刃:<id8>:[pc]:
+[23:38:44.616] 16:<id8>:アヴァウドの分体:5959:氷炎刃:<id8>:[MNK]:
+[23:38:44.616] 16:<id8>:アヴァウドの分体:5948:氷炎刃:<id8>:[pc]:
+[23:38:44.616] 16:<id8>:アヴァウドの分体:5949:氷炎刃:<id8>:[MNK]:
+[23:38:44.616] 16:<id8>:アヴァウドの分体:5949:氷炎刃:<id8>:[pc]:
+[23:38:44.788] 1A:102A2956:[pc] gains the effect of 被魔法ダメージ増加 from トリニティ・アヴァウド for 2.86 Seconds.
+[23:38:44.788] 1A:102795B6:[PLD] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 2.86 Seconds.
+[23:38:44.788] 1A:1029BE04:[pc] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 2.86 Seconds.
+[23:38:44.792] 1A:10087D67:[MNK] gains the effect of 衰弱 from  for 9999.00 Seconds.
+[23:38:44.834] 1A:1029842C:[pc] gains the effect of 被魔法ダメージ増加 from トリニティ・アヴァウド for 2.82 Seconds.
+[23:38:44.834] 1A:100E16E0:[pc] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 2.82 Seconds.
+[23:38:44.834] 1A:10247D9C:[pc] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 2.82 Seconds.
+[23:38:44.834] 1A:10241BE6:[pc] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 2.82 Seconds.
+[23:38:44.878] 1A:10255486:[pc] gains the effect of 被魔法ダメージ増加 from トリニティ・アヴァウド for 2.78 Seconds.
+[23:38:44.878] 1A:1033C8BE:[pc] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 2.78 Seconds.
+[23:38:44.878] 1A:10027680:[pc] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 2.78 Seconds.
+[23:38:44.924] 1A:102AD6E2:[pc] gains the effect of 被魔法ダメージ増加 from トリニティ・アヴァウド for 2.73 Seconds.
+[23:38:44.000] 00:282b:トリニティ・アヴァウドの「氷炎刃」
+[23:38:44.000] 00:282b:アヴァウドの分体の「氷炎刃」
+[23:38:44.000] 00:282b:アヴァウドの分体の「氷炎刃」
+[23:38:45.412] 1A:102AD4DA:[pc] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 2.24 Seconds.
+[23:38:45.412] 1A:10256B89:[pc] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 2.24 Seconds.
+[23:38:45.412] 1A:1027F60B:[pc] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 2.24 Seconds.
+[23:38:45.457] 1A:10241789:[pc] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 2.20 Seconds.
+[23:38:45.457] 1A:1002BE5C:[pc] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 2.20 Seconds.
+[23:38:45.457] 1A:101D2350:[pc] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 2.20 Seconds.
+[23:38:45.503] 1A:102DC0AC:[pc] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 2.15 Seconds.
+[23:38:45.503] 1A:1025BEB0:[WAR] gains the effect of 被魔法ダメージ増加 from アヴァウドの分体 for 2.15 Seconds.
+[23:38:47.553] 16:<id8>:トリニティ・アヴァウド:5938:Unknown_5938:<id8>:[pc]:
+[23:38:47.553] 16:<id8>:トリニティ・アヴァウド:5938:Unknown_5938:<id8>:[mex]:
+[23:38:47.553] 16:<id8>:トリニティ・アヴァウド:5938:Unknown_5938:<id8>:[DNC]:
+[23:38:47.553] 16:<id8>:トリニティ・アヴァウド:5937:Unknown_5937:<id8>:[pc]:
+[23:38:47.553] 16:<id8>:トリニティ・アヴァウド:5937:Unknown_5937:<id8>:[WAR]:
+[23:38:47.553] 16:<id8>:トリニティ・アヴァウド:5936:Unknown_5936:<id8>:[pc]:
+[23:38:47.553] 16:<id8>:トリニティ・アヴァウド:5936:Unknown_5936:<id8>:[PLD]:
+[23:38:47.553] 16:<id8>:トリニティ・アヴァウド:5935:Unknown_5935:<id8>:[NIN]:
+[23:38:47.553] 16:<id8>:トリニティ・アヴァウド:5935:Unknown_5935:<id8>:[SMN]:
+[23:38:47.553] 16:<id8>:トリニティ・アヴァウド:5935:Unknown_5935:<id8>:[pc]:
+[23:38:51.278] 00:0000:Hojoring:[EX] Added new combatant. name=トラップ X=21.50 Y=21.50 Z=0.00 hp=148000
+[23:38:48.000] 00:282b:トリニティ・アヴァウドの「攻撃」
+[23:38:50.403] 16:<id8>:トリニティ・アヴァウド:5B24:Unknown_5B24:<id8>:[DNC]:
+[23:38:50.403] 16:<id8>:トリニティ・アヴァウド:5B24:Unknown_5B24:<id8>:[pc]:
+[23:38:50.403] 16:<id8>:トリニティ・アヴァウド:5B24:Unknown_5B24:<id8>:[WAR]:
+[23:38:50.403] 16:<id8>:トリニティ・アヴァウド:5B24:Unknown_5B24:<id8>:[mex]:
+[23:38:50.403] 16:<id8>:トリニティ・アヴァウド:5B24:Unknown_5B24:<id8>:[NIN]:
+[23:38:50.407] 16:<id8>:トリニティ・アヴァウド:5B24:Unknown_5B24:<id8>:[SMN]:
+[23:38:50.407] 16:<id8>:トリニティ・アヴァウド:5B24:Unknown_5B24:<id8>:[PLD]:
+[23:38:53.648] 00:0000:Hojoring:[EX] Added new combatant. name=アーサリースター X=16.07 Y=19.74 Z=-1.82 hp=150726
+[23:38:54.108] 00:0000:Hojoring:[EX] Added new combatant. name=デミ・フェニックス X=16.03 Y=19.86 Z=-1.82 hp=150726
+[23:38:51.000] 00:282b:トリニティ・アヴァウドの「攻撃」
+[23:38:54.522] 00:0000:Hojoring:[EX] Added new combatant. name=アーサリースター X=16.03 Y=19.76 Z=-1.82 hp=150726
+[23:38:52.588] 15:<id8>:トリニティ・アヴァウド:5982:Unknown_5982:<id8>:トリニティ・アヴァウド:
+[23:38:55.689] 00:0000:Hojoring:[EX] Added new combatant. name=デミ・フェニックス X=15.90 Y=19.93 Z=-1.82 hp=150726
+[23:38:56.340] 00:0000:Hojoring:[EX] Beacon X=16.06 Y=19.89 Z=-1.82 zone=Delubrum Reginae (Savage)
+[23:38:54.000] 00:282b:トリニティ・アヴァウドは「グローリー・オブ・ボズヤ」の構え。
+[23:38:54.683] 14:594F:トリニティ・アヴァウド starts using グローリー・オブ・ボズヤ on トリニティ・アヴァウド.
+[23:38:54.683] 14:5B32:トリニティ・アヴァウド starts using グローリー・オブ・ボズヤ on トリニティ・アヴァウド.
+[23:38:57.657] 00:0000:Hojoring:[EX] Added new combatant. name=デミ・フェニックス X=16.09 Y=19.87 Z=-1.82 hp=150726
+[23:38:58.094] 00:0000:Hojoring:[EX] Added new combatant. name=分身 X=16.05 Y=19.85 Z=-1.82 hp=149486
+[23:38:57.668] 1A:1031FDAF:[pc] gains the effect of 生還 from  for 6.00 Seconds.
+[23:38:59.670] 16:<id8>:トリニティ・アヴァウド:594F:グローリー・オブ・ボズヤ:<id8>:[pc]:
+[23:38:59.670] 16:<id8>:トリニティ・アヴァウド:594F:グローリー・オブ・ボズヤ:<id8>:[WAR]:
+[23:38:59.670] 16:<id8>:トリニティ・アヴァウド:594F:グローリー・オブ・ボズヤ:<id8>:[DNC]:
+[23:38:59.670] 16:<id8>:トリニティ・アヴァウド:594F:グローリー・オブ・ボズヤ:<id8>:[mex]:
+[23:38:59.670] 16:<id8>:トリニティ・アヴァウド:594F:グローリー・オブ・ボズヤ:<id8>:[NIN]:
+[23:39:00.250] 16:<id8>:トリニティ・アヴァウド:5B32:グローリー・オブ・ボズヤ:<id8>:[pc]:
+[23:39:00.250] 16:<id8>:トリニティ・アヴァウド:5B32:グローリー・オブ・ボズヤ:<id8>:[PLD]:
+[23:39:00.250] 16:<id8>:トリニティ・アヴァウド:5B32:グローリー・オブ・ボズヤ:<id8>:[MNK]:
+[23:39:00.250] 16:<id8>:トリニティ・アヴァウド:5B32:グローリー・オブ・ボズヤ:<id8>:[SMN]:
+[23:39:00.424] 1A:102A2956:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:39:00.424] 1A:10241BE6:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:39:00.470] 1A:1028E95A:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:39:00.470] 1A:102EECAC:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:39:00.474] 1A:102EF4FC:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:39:00.474] 1A:100E16E0:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:39:02.892] 00:0000:Hojoring:[EX] Added new combatant. name=デミ・バハムート X=16.12 Y=19.98 Z=-1.82 hp=135652
+[23:39:00.000] 00:282b:トリニティ・アヴァウドの「グローリー・オブ・ボズヤ」
+[23:39:00.515] 1A:1002BE5C:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:39:00.515] 1A:102E1133:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:39:00.515] 1A:10219BF8:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:39:00.520] 1A:10247D9C:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:39:00.561] 1A:1025BEB0:[WAR] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:39:00.561] 1A:10241789:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:39:00.561] 1A:1029BE04:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:39:00.561] 1A:102AD6E2:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:39:00.607] 1A:1002AAC3:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:39:00.607] 1A:1031FDAF:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:39:00.607] 1A:1002EEB9:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:39:00.607] 1A:10303AA2:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:39:00.647] 1A:101D2350:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:39:00.647] 1A:10274868:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:39:00.652] 1A:10255486:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:39:00.692] 1A:102AD4DA:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:39:00.692] 1A:102795B6:[PLD] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:39:00.692] 1A:1033C8BE:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:39:00.738] 1A:10236A3A:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:39:00.738] 1A:10087D67:[MNK] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:39:00.784] 1A:1025153F:[DNC] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:39:00.784] 1A:10027680:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:39:00.829] 1A:102DC0AC:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:39:00.829] 1A:102A80C2:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:39:00.870] 1A:10248026:[mex] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:39:00.873] 1A:1007331B:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:39:00.914] 1A:10256B89:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:39:00.914] 1A:1026B1E2:[SMN] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:39:00.959] 1A:1025F986:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:39:00.959] 1A:1029842C:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:39:01.005] 1A:101B47AB:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:39:01.005] 1A:1001C1B8:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:39:01.051] 1A:1025B0B4:[NIN] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:39:01.051] 1A:102E5568:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:39:01.097] 1A:1027F60B:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:39:01.097] 1A:102EF269:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:39:01.141] 1A:10327838:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:39:02.964] 1A:1016203E:[pc] gains the effect of 生還 from  for 6.00 Seconds.
+[23:39:02.000] 00:282b:トリニティ・アヴァウドの「攻撃」
+[23:39:06.000] 00:282b:トリニティ・アヴァウドの「攻撃」
+[23:39:06.000] 00:0044:ゼヴェンらしき声:我ガ魔力ヲ、解放スル……！ ヒト勝負……願ウトシヨウッ……！
+[23:39:06.000] 00:282b:トリニティ・アヴァウドは「ウェポンチェンジ」の構え。
+[23:39:07.105] 14:5987:トリニティ・アヴァウド starts using ウェポンチェンジ on トリニティ・アヴァウド.
+[23:39:08.175] 1A:10327CA5:[pc] gains the effect of 衰弱 from  for 100.00 Seconds.
+[23:39:08.175] 1A:10327CA5:[pc] gains the effect of 生還 from  for 6.00 Seconds.
+[23:39:10.089] 15:<id8>:トリニティ・アヴァウド:5987:ウェポンチェンジ:<id8>:トリニティ・アヴァウド:
+[23:39:10.000] 00:282b:トリニティ・アヴァウドの「ウェポンチェンジ」
+[23:39:14.132] 00:0000:Hojoring:[EX] Added new combatant. name=カーバンクル・ルビー X=16.06 Y=20.07 Z=-1.82 hp=150726
+[23:39:15.730] 00:0000:Hojoring:[EX] Added new combatant. name=イフリート・エギ X=16.07 Y=20.14 Z=-1.82 hp=150726
+[23:39:16.157] 00:0000:Hojoring:[EX] Added new combatant. name=デミ・バハムート X=16.04 Y=20.11 Z=-1.82 hp=135652
+[23:39:15.252] 15:<id8>:トリニティ・アヴァウド:594C:フューリー・オブ・ボズヤ:<id8>::
+[23:39:17.720] 00:0000:Hojoring:[EX] Added new combatant. name=カーバンクル・ルビー X=15.95 Y=20.16 Z=-1.82 hp=150726
+[23:39:18.953] 00:0000:Hojoring:[EX] Added new combatant. name=オートマトン・クイーン X=16.00 Y=20.15 Z=-1.82 hp=149525
+[23:39:16.000] 00:282b:トリニティ・アヴァウドの「フューリー・オブ・ボズヤ」
+[23:39:18.000] 00:282b:トリニティ・アヴァウドは「氷炎乱流」の構え。
+[23:39:18.371] 14:597B:トリニティ・アヴァウド starts using 氷炎乱流 on トリニティ・アヴァウド.
+[23:39:22.967] 00:0000:Hojoring:[EX] Added new combatant. name=カーバンクル・ルビー X=16.07 Y=19.89 Z=-1.82 hp=150726
+[23:39:21.356] 15:<id8>:トリニティ・アヴァウド:597B:氷炎乱流:<id8>:トリニティ・アヴァウド:
+[23:39:22.000] 00:282b:トリニティ・アヴァウドの「氷炎乱流」
+[23:39:25.496] 14:597D:トリニティ・アヴァウド starts using 氷炎の呪印 on トリニティ・アヴァウド.
+[23:39:25.000] 00:282b:トリニティ・アヴァウドは「氷炎の呪印」の構え。
+[23:39:28.480] 15:<id8>:トリニティ・アヴァウド:597D:氷炎の呪印:<id8>:トリニティ・アヴァウド:
+[23:39:29.000] 00:282b:トリニティ・アヴァウドの「氷炎の呪印」
+[23:39:31.000] 00:282b:トリニティ・アヴァウドは「リバティ・オブ・ボズヤ」の構え。
+[23:39:31.639] 14:597C:トリニティ・アヴァウド starts using リバティ・オブ・ボズヤ on トリニティ・アヴァウド.
+[23:39:36.151] 00:0000:Hojoring:[EX] Added new combatant. name=カーバンクル・トパーズ X=16.08 Y=19.87 Z=-1.82 hp=150726
+[23:39:34.628] 15:<id8>:トリニティ・アヴァウド:597C:リバティ・オブ・ボズヤ:<id8>:トリニティ・アヴァウド:
+[23:39:35.000] 00:282b:トリニティ・アヴァウドの「リバティ・オブ・ボズヤ」
+[23:39:38.598] 00:0000:Hojoring:[EX] Added new combatant. name=大炎球 X=16.36 Y=19.56 Z=-1.82 hp=26048000
+[23:39:38.598] 00:0000:Hojoring:[EX] Added new combatant. name=大氷球 X=15.76 Y=19.56 Z=-1.82 hp=26048000
+[23:39:38.598] 00:0000:Hojoring:[EX] Added new combatant. name=氷球 X=15.76 Y=20.16 Z=-1.82 hp=26048000
+[23:39:38.634] 00:0000:Hojoring:[EX] Added new combatant. name=大氷球 X=15.76 Y=19.56 Z=-1.82 hp=44
+[23:39:38.634] 00:0000:Hojoring:[EX] Added new combatant. name=大炎球 X=16.36 Y=19.56 Z=-1.82 hp=44
+[23:39:38.634] 00:0000:Hojoring:[EX] Added new combatant. name=氷球 X=15.76 Y=20.16 Z=-1.82 hp=44
+[23:39:38.634] 00:0000:Hojoring:[EX] Added new combatant. name=炎球 X=16.36 Y=20.16 Z=-1.82 hp=26048000
+[23:39:38.634] 00:0000:Hojoring:[EX] Added new combatant. name=炎球 X=16.36 Y=20.16 Z=-1.82 hp=44
+[23:39:36.769] 14:5929:大氷球 starts using 着弾 on 大氷球.
+[23:39:36.769] 14:5929:氷球 starts using 着弾 on 氷球.
+[23:39:36.769] 14:592B:大炎球 starts using 着弾 on 大炎球.
+[23:39:36.769] 14:592B:炎球 starts using 着弾 on 炎球.
+[23:39:37.793] 14:5980:トリニティ・アヴァウド starts using 花嵐の幻影 on トリニティ・アヴァウド.
+[23:39:37.000] 00:282b:トリニティ・アヴァウドは「花嵐の幻影」の構え。
+[23:39:40.779] 15:<id8>:トリニティ・アヴァウド:5980:花嵐の幻影:<id8>:トリニティ・アヴァウド:
+[23:39:41.804] 16:<id8>:大氷球:5929:着弾:<id8>:[pc]:
+[23:39:41.804] 16:<id8>:大氷球:5929:着弾:<id8>:[mex]:
+[23:39:41.804] 16:<id8>:大氷球:5929:着弾:<id8>:[DNC]:
+[23:39:41.804] 16:<id8>:大氷球:5929:着弾:<id8>:[NIN]:
+[23:39:41.804] 16:<id8>:大氷球:5929:着弾:<id8>:[SMN]:
+[23:39:41.804] 16:<id8>:大氷球:5929:着弾:<id8>:[WAR]:
+[23:39:41.804] 16:<id8>:大氷球:5929:着弾:<id8>:[PLD]:
+[23:39:41.804] 16:<id8>:氷球:5929:着弾:<id8>:[pc]:
+[23:39:41.804] 16:<id8>:氷球:5929:着弾:<id8>:[MNK]:
+[23:39:41.804] 16:<id8>:氷球:5929:着弾:<id8>:[PLD]:
+[23:39:41.804] 16:<id8>:氷球:5929:着弾:<id8>:[WAR]:
+[23:39:41.804] 16:<id8>:氷球:5929:着弾:<id8>:[SMN]:
+[23:39:41.804] 16:<id8>:氷球:5929:着弾:<id8>:[NIN]:
+[23:39:41.804] 16:<id8>:大炎球:592B:着弾:<id8>:[pc]:
+[23:39:41.804] 16:<id8>:大炎球:592B:着弾:<id8>:[mex]:
+[23:39:41.804] 16:<id8>:大炎球:592B:着弾:<id8>:[DNC]:
+[23:39:41.804] 16:<id8>:大炎球:592B:着弾:<id8>:[NIN]:
+[23:39:41.804] 16:<id8>:大炎球:592B:着弾:<id8>:[SMN]:
+[23:39:41.804] 16:<id8>:大炎球:592B:着弾:<id8>:[WAR]:
+[23:39:41.804] 16:<id8>:大炎球:592B:着弾:<id8>:[PLD]:
+[23:39:41.804] 16:<id8>:大炎球:592B:着弾:<id8>:[MNK]:
+[23:39:41.804] 16:<id8>:炎球:592B:着弾:<id8>:[pc]:
+[23:39:41.804] 16:<id8>:炎球:592B:着弾:<id8>:[MNK]:
+[23:39:41.804] 16:<id8>:炎球:592B:着弾:<id8>:[PLD]:
+[23:39:41.804] 16:<id8>:炎球:592B:着弾:<id8>:[WAR]:
+[23:39:41.804] 16:<id8>:炎球:592B:着弾:<id8>:[SMN]:
+[23:39:41.804] 16:<id8>:炎球:592B:着弾:<id8>:[NIN]:
+[23:39:41.804] 16:<id8>:炎球:592B:着弾:<id8>:[DNC]:
+[23:39:41.000] 00:282b:トリニティ・アヴァウドの「花嵐の幻影」
+[23:39:42.073] 16:<id8>:大氷球:4F52:着弾:<id8>:[pc]:
+[23:39:42.073] 16:<id8>:大氷球:4F52:着弾:<id8>:[mex]:
+[23:39:42.073] 16:<id8>:大氷球:4F52:着弾:<id8>:[DNC]:
+[23:39:42.073] 16:<id8>:大氷球:4F52:着弾:<id8>:[NIN]:
+[23:39:42.073] 16:<id8>:大氷球:4F52:着弾:<id8>:[WAR]:
+[23:39:42.073] 16:<id8>:大氷球:4F52:着弾:<id8>:[SMN]:
+[23:39:42.073] 16:<id8>:大氷球:4F52:着弾:<id8>:[PLD]:
+[23:39:42.073] 16:<id8>:大氷球:4F52:着弾:<id8>:[MNK]:
+[23:39:42.073] 16:<id8>:氷球:4E5C:着弾:<id8>:[pc]:
+[23:39:42.073] 16:<id8>:氷球:4E5C:着弾:<id8>:[WAR]:
+[23:39:42.073] 16:<id8>:氷球:4E5C:着弾:<id8>:[NIN]:
+[23:39:42.073] 16:<id8>:氷球:4E5C:着弾:<id8>:[DNC]:
+[23:39:42.073] 16:<id8>:氷球:4E5C:着弾:<id8>:[mex]:
+[23:39:42.073] 16:<id8>:氷球:4E5C:着弾:<id8>:[MNK]:
+[23:39:42.073] 16:<id8>:氷球:4E5C:着弾:<id8>:[PLD]:
+[23:39:42.073] 16:<id8>:氷球:4E5C:着弾:<id8>:[SMN]:
+[23:39:42.073] 16:<id8>:大炎球:4F54:着弾:<id8>:[pc]:
+[23:39:42.073] 16:<id8>:大炎球:4F54:着弾:<id8>:[mex]:
+[23:39:42.073] 16:<id8>:大炎球:4F54:着弾:<id8>:[DNC]:
+[23:39:42.073] 16:<id8>:大炎球:4F54:着弾:<id8>:[NIN]:
+[23:39:42.073] 16:<id8>:大炎球:4F54:着弾:<id8>:[WAR]:
+[23:39:42.073] 16:<id8>:大炎球:4F54:着弾:<id8>:[SMN]:
+[23:39:42.073] 16:<id8>:大炎球:4F54:着弾:<id8>:[PLD]:
+[23:39:42.073] 16:<id8>:大炎球:4F54:着弾:<id8>:[MNK]:
+[23:39:42.073] 16:<id8>:炎球:4F53:着弾:<id8>:[pc]:
+[23:39:42.073] 16:<id8>:炎球:4F53:着弾:<id8>:[WAR]:
+[23:39:42.073] 16:<id8>:炎球:4F53:着弾:<id8>:[NIN]:
+[23:39:42.073] 16:<id8>:炎球:4F53:着弾:<id8>:[DNC]:
+[23:39:42.073] 16:<id8>:炎球:4F53:着弾:<id8>:[mex]:
+[23:39:41.000] 00:282b:炎球の「着弾」
+[23:39:41.000] 00:282b:大炎球の「着弾」
+[23:39:41.000] 00:282b:氷球の「着弾」
+[23:39:41.000] 00:282b:大氷球の「着弾」
+[23:39:42.077] 16:<id8>:炎球:4F53:着弾:<id8>:[MNK]:
+[23:39:42.077] 16:<id8>:炎球:4F53:着弾:<id8>:[PLD]:
+[23:39:42.077] 16:<id8>:炎球:4F53:着弾:<id8>:[SMN]:
+[23:39:44.591] 00:0000:Hojoring:[EX] Added new combatant. name=分身 X=16.08 Y=19.82 Z=-1.82 hp=149486
+[23:39:42.250] 1A:1003B533:[pc] gains the effect of 生還 from  for 6.00 Seconds.
+[23:39:43.852] 14:592E:大氷球 starts using 強凍気弾 on 大氷球.
+[23:39:43.852] 14:592D:氷球 starts using 凍気弾 on 氷球.
+[23:39:43.852] 14:5930:大炎球 starts using 強熱気弾 on 大炎球.
+[23:39:43.852] 14:592F:炎球 starts using 熱気弾 on 炎球.
+[23:39:43.852] 14:5933:炎球 starts using 熱気弾 on 炎球.
+[23:39:43.852] 14:5934:大炎球 starts using 強熱気弾 on 大炎球.
+[23:39:43.852] 14:5931:氷球 starts using 凍気弾 on 氷球.
+[23:39:43.852] 14:5932:大氷球 starts using 強凍気弾 on 大氷球.
+[23:39:43.000] 00:282b:大氷球は「強凍気弾」の構え。
+[23:39:43.000] 00:282b:氷球は「凍気弾」の構え。
+[23:39:43.000] 00:282b:大炎球は「強熱気弾」の構え。
+[23:39:43.000] 00:282b:炎球は「熱気弾」の構え。
+[23:39:43.000] 00:0044:トリニティ・アヴァウド:魔力ヨ、写シ身トナリテ、戦場ニ立テ……！
+[23:39:44.000] 00:282b:トリニティ・アヴァウドの「攻撃」
+[23:39:46.084] 14:594D:アヴァウドの分体 starts using グリッターアロー on アヴァウドの分体.
+[23:39:45.000] 00:282b:アヴァウドの分体は「グリッターアロー」の構え。
+[23:39:47.000] 00:282b:トリニティ・アヴァウドの「攻撃」
+[23:39:50.000] 00:282b:トリニティ・アヴァウドの「攻撃」
+[23:39:51.839] 16:<id8>:大氷球:592E:強凍気弾:<id8>:[pc]:
+[23:39:51.839] 16:<id8>:氷球:592D:凍気弾:<id8>:[pc]:
+[23:39:51.839] 16:<id8>:氷球:592D:凍気弾:<id8>:[mex]:
+[23:39:51.839] 16:<id8>:大炎球:5930:強熱気弾:<id8>:[pc]:
+[23:39:51.839] 16:<id8>:大炎球:5930:強熱気弾:<id8>:[DNC]:
+[23:39:51.839] 16:<id8>:大炎球:5930:強熱気弾:<id8>:[WAR]:
+[23:39:51.839] 16:<id8>:炎球:592F:熱気弾:<id8>:[pc]:
+[23:39:51.839] 16:<id8>:炎球:592F:熱気弾:<id8>:[NIN]:
+[23:39:51.839] 16:<id8>:炎球:5933:熱気弾:<id8>:[pc]:
+[23:39:51.839] 16:<id8>:炎球:5933:熱気弾:<id8>:[MNK]:
+[23:39:51.839] 16:<id8>:大炎球:5934:強熱気弾:<id8>:[pc]:
+[23:39:51.839] 16:<id8>:大炎球:5934:強熱気弾:<id8>:[PLD]:
+[23:39:51.839] 16:<id8>:大炎球:5934:強熱気弾:<id8>:[SMN]:
+[23:39:51.839] 16:<id8>:氷球:5931:凍気弾:<id8>:[pc]:
+[23:39:51.839] 16:<id8>:大氷球:5932:強凍気弾:<id8>:[pc]:
+[23:39:52.007] 1A:102EF269:[pc] gains the effect of 被魔法ダメージ増加 from 炎球 for 2.86 Seconds.
+[23:39:52.007] 1A:10027680:[pc] gains the effect of 被魔法ダメージ増加 from 大炎球 for 2.86 Seconds.
+[23:39:52.009] 1A:10247D9C:[pc] gains the effect of 被魔法ダメージ増加 from 氷球 for 2.86 Seconds.
+[23:39:52.009] 1A:1002EEB9:[pc] gains the effect of 被魔法ダメージ増加 from 大氷球 for 2.86 Seconds.
+[23:39:52.053] 1A:1029842C:[pc] gains the effect of 被魔法ダメージ増加 from 炎球 for 2.82 Seconds.
+[23:39:52.053] 1A:102A80C2:[pc] gains the effect of 被魔法ダメージ増加 from 大炎球 for 2.82 Seconds.
+[23:39:52.053] 1A:10274868:[pc] gains the effect of 被魔法ダメージ増加 from 氷球 for 2.82 Seconds.
+[23:39:52.053] 1A:1033C8BE:[pc] gains the effect of 被魔法ダメージ増加 from 大氷球 for 2.82 Seconds.
+[23:39:52.056] 15:<id8>:アヴァウドの分体:594D:グリッターアロー:<id8>::
+[23:39:52.098] 1A:10087D67:[MNK] gains the effect of 被魔法ダメージ増加 from 炎球 for 2.78 Seconds.
+[23:39:52.098] 1A:102795B6:[PLD] gains the effect of 被魔法ダメージ増加 from 大炎球 for 2.78 Seconds.
+[23:39:52.098] 1A:102E5568:[pc] gains the effect of 被魔法ダメージ増加 from 氷球 for 2.78 Seconds.
+[23:39:52.098] 1A:10219BF8:[pc] gains the effect of 被魔法ダメージ増加 from 大氷球 for 2.78 Seconds.
+[23:39:54.595] 00:0000:Hojoring:[EX] Added new combatant. name=デミ・バハムート X=16.32 Y=20.22 Z=-1.82 hp=135652
+[23:39:52.144] 1A:102A2956:[pc] gains the effect of 被魔法ダメージ増加 from 炎球 for 2.73 Seconds.
+[23:39:52.144] 1A:1026B1E2:[SMN] gains the effect of 被魔法ダメージ増加 from 大炎球 for 2.73 Seconds.
+[23:39:52.144] 1A:10241BE6:[pc] gains the effect of 被魔法ダメージ増加 from 氷球 for 2.73 Seconds.
+[23:39:52.186] 1A:1007331B:[pc] gains the effect of 被魔法ダメージ増加 from 炎球 for 2.69 Seconds.
+[23:39:52.186] 1A:102AD6E2:[pc] gains the effect of 被魔法ダメージ増加 from 氷球 for 2.69 Seconds.
+[23:39:51.000] 00:282b:炎球の「熱気弾」
+[23:39:51.000] 00:282b:大炎球の「強熱気弾」
+[23:39:52.234] 1A:1001C1B8:[pc] gains the effect of 被魔法ダメージ増加 from 炎球 for 2.65 Seconds.
+[23:39:52.234] 1A:102EF4FC:[pc] gains the effect of 被魔法ダメージ増加 from 氷球 for 2.65 Seconds.
+[23:39:51.000] 00:282b:氷球の「凍気弾」
+[23:39:51.000] 00:282b:大氷球の「強凍気弾」
+[23:39:52.286] 1A:10255486:[pc] gains the effect of 被魔法ダメージ増加 from 炎球 for 2.60 Seconds.
+[23:39:52.322] 1A:1031FDAF:[pc] gains the effect of 被魔法ダメージ増加 from 大氷球 for 2.55 Seconds.
+[23:39:52.322] 1A:101D2350:[pc] gains the effect of 被魔法ダメージ増加 from 氷球 for 2.55 Seconds.
+[23:39:52.322] 1A:10256B89:[pc] gains the effect of 被魔法ダメージ増加 from 大炎球 for 2.55 Seconds.
+[23:39:52.322] 1A:1002AAC3:[pc] gains the effect of 被魔法ダメージ増加 from 炎球 for 2.55 Seconds.
+[23:39:52.322] 1A:1029BE04:[pc] gains the effect of 被魔法ダメージ増加 from 炎球 for 2.55 Seconds.
+[23:39:52.363] 1A:102EECAC:[pc] gains the effect of 被魔法ダメージ増加 from 大氷球 for 2.51 Seconds.
+[23:39:52.366] 1A:10248026:[mex] gains the effect of 被魔法ダメージ増加 from 氷球 for 2.51 Seconds.
+[23:39:52.366] 1A:1025153F:[DNC] gains the effect of 被魔法ダメージ増加 from 大炎球 for 2.51 Seconds.
+[23:39:52.366] 1A:102AD4DA:[pc] gains the effect of 被魔法ダメージ増加 from 炎球 for 2.51 Seconds.
+[23:39:52.366] 1A:100E16E0:[pc] gains the effect of 被魔法ダメージ増加 from 炎球 for 2.51 Seconds.
+[23:39:52.407] 1A:10236A3A:[pc] gains the effect of 被魔法ダメージ増加 from 大氷球 for 2.47 Seconds.
+[23:39:52.407] 1A:1002BE5C:[pc] gains the effect of 被魔法ダメージ増加 from 氷球 for 2.47 Seconds.
+[23:39:52.407] 1A:102DC0AC:[pc] gains the effect of 被魔法ダメージ増加 from 大炎球 for 2.47 Seconds.
+[23:39:52.407] 1A:1025B0B4:[NIN] gains the effect of 被魔法ダメージ増加 from 炎球 for 2.47 Seconds.
+[23:39:52.411] 1A:10303AA2:[pc] gains the effect of 被魔法ダメージ増加 from 炎球 for 2.47 Seconds.
+[23:39:52.453] 1A:1025F986:[pc] gains the effect of 被魔法ダメージ増加 from 大氷球 for 2.42 Seconds.
+[23:39:52.453] 1A:1028E95A:[pc] gains the effect of 被魔法ダメージ増加 from 大炎球 for 2.42 Seconds.
+[23:39:52.453] 1A:10241789:[pc] gains the effect of 被魔法ダメージ増加 from 炎球 for 2.42 Seconds.
+[23:39:52.499] 1A:1016203E:[pc] gains the effect of 被魔法ダメージ増加 from 大氷球 for 2.38 Seconds.
+[23:39:52.499] 1A:1027F60B:[pc] gains the effect of 被魔法ダメージ増加 from 大炎球 for 2.38 Seconds.
+[23:39:52.499] 1A:101B47AB:[pc] gains the effect of 被魔法ダメージ増加 from 炎球 for 2.38 Seconds.
+[23:39:52.544] 1A:102E1133:[pc] gains the effect of 被魔法ダメージ増加 from 大氷球 for 2.33 Seconds.
+[23:39:52.544] 1A:1025BEB0:[WAR] gains the effect of 被魔法ダメージ増加 from 大炎球 for 2.33 Seconds.
+[23:39:52.590] 1A:1003B533:[pc] gains the effect of 被魔法ダメージ増加 from 大氷球 for 2.29 Seconds.
+[23:39:52.590] 1A:10327838:[pc] gains the effect of 被魔法ダメージ増加 from 大炎球 for 2.29 Seconds.
+[23:39:53.000] 00:282b:アヴァウドの分体の「グリッターアロー」
+[23:39:53.000] 00:282b:アヴァウドの分体の「グリッターアロー」
+[23:39:56.372] 00:0000:Hojoring:[EX] Beacon X=15.88 Y=20.19 Z=-1.82 zone=Delubrum Reginae (Savage)
+[23:39:53.000] 00:282b:トリニティ・アヴァウドの「攻撃」
+[23:39:57.421] 00:0000:Hojoring:[EX] Added new combatant. name=デミ・フェニックス X=16.13 Y=19.68 Z=-1.82 hp=150726
+[23:39:56.644] 16:<id8>:トリニティ・アヴァウド:5938:Unknown_5938:<id8>:[pc]:
+[23:39:56.644] 16:<id8>:トリニティ・アヴァウド:5938:Unknown_5938:<id8>:[MNK]:
+[23:39:56.644] 16:<id8>:トリニティ・アヴァウド:5937:Unknown_5937:<id8>:[SMN]:
+[23:39:56.644] 16:<id8>:トリニティ・アヴァウド:5937:Unknown_5937:<id8>:[pc]:
+[23:39:56.644] 16:<id8>:トリニティ・アヴァウド:5937:Unknown_5937:<id8>:[PLD]:
+[23:39:56.644] 16:<id8>:トリニティ・アヴァウド:5937:Unknown_5937:<id8>:[DNC]:
+[23:39:56.644] 16:<id8>:トリニティ・アヴァウド:5937:Unknown_5937:<id8>:[WAR]:
+[23:39:56.644] 16:<id8>:トリニティ・アヴァウド:5936:Unknown_5936:<id8>:[pc]:
+[23:39:56.644] 16:<id8>:トリニティ・アヴァウド:5936:Unknown_5936:<id8>:[mex]:
+[23:39:56.644] 16:<id8>:トリニティ・アヴァウド:5936:Unknown_5936:<id8>:[NIN]:
+[23:39:56.644] 16:<id8>:トリニティ・アヴァウド:5935:Unknown_5935:<id8>:[pc]:
+[23:39:56.000] 00:282b:トリニティ・アヴァウドの「攻撃」
+[23:39:57.669] 15:<id8>:トリニティ・アヴァウド:5984:Unknown_5984:<id8>:トリニティ・アヴァウド:
+[23:39:59.545] 16:<id8>:トリニティ・アヴァウド:5B24:Unknown_5B24:<id8>:[pc]:
+[23:39:59.545] 16:<id8>:トリニティ・アヴァウド:5B24:Unknown_5B24:<id8>:[mex]:
+[23:39:59.545] 16:<id8>:トリニティ・アヴァウド:5B24:Unknown_5B24:<id8>:[DNC]:
+[23:39:59.545] 16:<id8>:トリニティ・アヴァウド:5B24:Unknown_5B24:<id8>:[WAR]:
+[23:39:59.545] 16:<id8>:トリニティ・アヴァウド:5B24:Unknown_5B24:<id8>:[PLD]:
+[23:39:59.545] 16:<id8>:トリニティ・アヴァウド:5B24:Unknown_5B24:<id8>:[SMN]:
+[23:39:59.545] 16:<id8>:トリニティ・アヴァウド:5B24:Unknown_5B24:<id8>:[MNK]:
+[23:39:59.768] 14:594F:トリニティ・アヴァウド starts using グローリー・オブ・ボズヤ on トリニティ・アヴァウド.
+[23:39:59.768] 14:5B32:トリニティ・アヴァウド starts using グローリー・オブ・ボズヤ on トリニティ・アヴァウド.
+[23:39:59.000] 00:282b:トリニティ・アヴァウドは「グローリー・オブ・ボズヤ」の構え。
+[23:40:02.295] 00:0000:Hojoring:[EX] Added new combatant. name=英雄の影身 X=15.91 Y=20.02 Z=-1.82 hp=123916
+[23:40:03.463] 00:0000:Hojoring:[EX] Added new combatant. name=セラフィム X=15.99 Y=20.05 Z=-1.82 hp=150726
+[23:40:01.061] 1A:1002AAC3:[pc] gains the effect of 衰弱 from  for 9999.00 Seconds.
+[23:40:05.449] 00:0000:Hojoring:[EX] Added new combatant. name=デミ・フェニックス X=15.95 Y=19.97 Z=-1.82 hp=150726
+[23:40:07.121] 00:0000:Hojoring:[EX] Added new combatant. name=アーサリースター X=15.93 Y=20.08 Z=-1.82 hp=150726
+[23:40:04.762] 16:<id8>:トリニティ・アヴァウド:594F:グローリー・オブ・ボズヤ:<id8>:[NIN]:
+[23:40:04.762] 16:<id8>:トリニティ・アヴァウド:594F:グローリー・オブ・ボズヤ:<id8>:[pc]:
+[23:40:04.762] 16:<id8>:トリニティ・アヴァウド:594F:グローリー・オブ・ボズヤ:<id8>:[WAR]:
+[23:40:04.762] 16:<id8>:トリニティ・アヴァウド:594F:グローリー・オブ・ボズヤ:<id8>:[mex]:
+[23:40:04.762] 16:<id8>:トリニティ・アヴァウド:594F:グローリー・オブ・ボズヤ:<id8>:[DNC]:
+[23:40:05.341] 16:<id8>:トリニティ・アヴァウド:5B32:グローリー・オブ・ボズヤ:<id8>:[pc]:
+[23:40:05.341] 16:<id8>:トリニティ・アヴァウド:5B32:グローリー・オブ・ボズヤ:<id8>:[SMN]:
+[23:40:05.341] 16:<id8>:トリニティ・アヴァウド:5B32:グローリー・オブ・ボズヤ:<id8>:[MNK]:
+[23:40:05.341] 16:<id8>:トリニティ・アヴァウド:5B32:グローリー・オブ・ボズヤ:<id8>:[PLD]:
+[23:40:05.515] 1A:1002EEB9:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:40:05.519] 1A:10219BF8:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:40:05.000] 00:282b:トリニティ・アヴァウドの「グローリー・オブ・ボズヤ」
+[23:40:05.560] 1A:102EECAC:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:40:05.560] 1A:1007331B:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:40:05.564] 1A:102795B6:[PLD] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:40:05.605] 1A:1016203E:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:40:05.605] 1A:102E1133:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:40:05.605] 1A:1026B1E2:[SMN] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:40:05.605] 1A:102A2956:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:40:05.651] 1A:101D2350:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:40:05.651] 1A:1025153F:[DNC] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:40:05.651] 1A:102AD6E2:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:40:05.651] 1A:10027680:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:40:05.696] 1A:1025BEB0:[WAR] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:40:05.696] 1A:1028E95A:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:40:05.696] 1A:100E16E0:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:40:05.696] 1A:102EF4FC:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:40:05.737] 1A:10256B89:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:40:05.737] 1A:102EF269:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:40:05.742] 1A:102A80C2:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:40:05.782] 1A:1025F986:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:40:05.782] 1A:1029842C:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:40:05.782] 1A:1029BE04:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:40:05.828] 1A:102AD4DA:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:40:05.828] 1A:10255486:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:40:05.874] 1A:10248026:[mex] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:40:05.874] 1A:1001C1B8:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:40:05.915] 1A:1031FDAF:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:40:05.918] 1A:10241BE6:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:40:05.960] 1A:102DC0AC:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:40:05.960] 1A:10274868:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:40:06.005] 1A:10327838:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:40:06.005] 1A:102E5568:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:40:06.051] 1A:101B47AB:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:40:06.051] 1A:10087D67:[MNK] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:40:06.097] 1A:1002BE5C:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:40:06.097] 1A:1033C8BE:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:40:06.143] 1A:10241789:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:40:06.143] 1A:10303AA2:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:40:06.183] 1A:10236A3A:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:40:06.183] 1A:10247D9C:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:40:06.229] 1A:1027F60B:[pc] gains the effect of ペイン from トリニティ・アヴァウド for 15.00 Seconds.
+[23:40:09.057] 00:0000:Hojoring:[EX] Added new combatant. name=デミ・バハムート X=15.96 Y=20.03 Z=-1.82 hp=135652
+[23:40:08.000] 00:282b:トリニティ・アヴァウドの「攻撃」
+[23:40:11.064] 00:0000:Hojoring:[EX] Added new combatant. name=デミ・バハムート X=15.96 Y=20.02 Z=-1.82 hp=135652
+[23:40:12.309] 00:0000:Hojoring:[EX] Added new combatant. name=オートマトン・クイーン X=15.92 Y=20.03 Z=-1.82 hp=149525
+[23:40:13.085] 00:0000:Hojoring:[EX] Added new combatant. name=英雄の影身 X=15.88 Y=20.08 Z=-1.82 hp=123916
+[23:40:13.861] 00:0000:Hojoring:[EX] Added new combatant. name=英雄の影身 X=15.97 Y=20.16 Z=-1.82 hp=123916
+[23:40:11.000] 00:282b:トリニティ・アヴァウドの「攻撃」
+[23:40:14.652] 00:0000:Hojoring:[EX] Added new combatant. name=カーバンクル・ルビー X=15.97 Y=20.00 Z=-1.82 hp=150726
+[23:40:16.666] 00:0000:Hojoring:[EX] Added new combatant. name=英雄の影身 X=16.02 Y=19.78 Z=-1.82 hp=123916
+[23:40:17.457] 00:0000:Hojoring:[EX] Added new combatant. name=カーバンクル・トパーズ X=16.09 Y=19.97 Z=-1.82 hp=150726
+[23:40:15.000] 00:282b:トリニティ・アヴァウドの「攻撃」
+[23:40:18.000] 00:282b:トリニティ・アヴァウドの「攻撃」
+[23:40:21.000] 00:282b:トリニティ・アヴァウドの「攻撃」
+[23:40:25.509] 00:0000:Hojoring:[EX] Added new combatant. name=フェアリー・エオス X=15.99 Y=20.01 Z=-1.82 hp=150726
+[23:40:25.509] 00:0000:Hojoring:[EX] Added new combatant. name=カーバンクル・ルビー X=16.06 Y=19.94 Z=-1.82 hp=150726
+[23:40:23.000] 00:0044:トリニティ・アヴァウド:コレデ終ワリダ……無残ニ散レッ……！！
+[23:40:23.827] 14:5954:トリニティ・アヴァウド starts using グローリー・オブ・ボズヤ on トリニティ・アヴァウド.
+[23:40:23.827] 14:5B3B:トリニティ・アヴァウド starts using グローリー・オブ・ボズヤ on トリニティ・アヴァウド.
+[23:40:23.000] 00:282b:トリニティ・アヴァウドは「グローリー・オブ・ボズヤ」の構え。
+[23:40:29.132] 00:0000:Hojoring:[EX] Added new combatant. name=イフリート・エギ X=16.01 Y=19.98 Z=-1.82 hp=150726
+[23:40:31.101] 00:0000:Hojoring:[EX] Added new combatant. name=カーバンクル・ルビー X=16.05 Y=19.94 Z=-1.82 hp=150726
+[23:40:30.000] 00:0044:トリニティ・アヴァウド:我ガ……わたしガ……俺サマガ…… 敗北スル、トハ…………。
+[23:40:56.399] 00:0000:Hojoring:[EX] Beacon X=15.69 Y=19.90 Z=-1.82 zone=Delubrum Reginae (Savage)
+[23:40:58.937] 1A:10327CA5:[pc] gains the effect of 衰弱 from  for 100.00 Seconds.
+[23:40:58.937] 1A:10327CA5:[pc] gains the effect of 生還 from  for 6.00 Seconds.
+[23:41:09.636] 00:0000:Hojoring:[EX] Added new combatant. name=フェアリー・エオス X=15.93 Y=19.81 Z=-1.82 hp=150726
+[23:41:12.438] 1A:1003B533:[pc] gains the effect of 生還 from  for 6.00 Seconds.
+[23:41:19.877] 1A:1029609D:[SCH] gains the effect of 生還 from  for 6.00 Seconds.
+[23:41:31.952] 1A:1002AAC3:[pc] gains the effect of 衰弱 from  for 100.00 Seconds.
+[23:41:31.952] 1A:1002AAC3:[pc] gains the effect of 生還 from  for 6.00 Seconds.
+[23:41:35.650] 00:0000:Hojoring:[EX] Added new combatant. name=トラップ X=21.50 Y=21.50 Z=0.00 hp=148000
+[23:41:56.418] 00:0000:Hojoring:[EX] Beacon X=15.98 Y=19.75 Z=-1.82 zone=Delubrum Reginae (Savage)
+[23:42:08.131] 00:0000:Hojoring:[EX] Added new combatant. name=カーバンクル・ルビー X=16.01 Y=19.91 Z=-1.82 hp=150726
+[23:42:31.028] 00:0000:Hojoring:[EX] Added new combatant. name=Yuu Hinata X=16.38 Y=21.84 Z=-1.74 hp=188083
+[23:42:56.443] 00:0000:Hojoring:[EX] Beacon X=16.06 Y=19.64 Z=-1.82 zone=Delubrum Reginae (Savage)
+[23:43:35.587] 16:<id8>:トラップ:5A73:ミニマム:<id8>:[pc]:
+[23:43:35.587] 16:<id8>:トラップ:5A73:ミニマム:<id8>::
+[23:43:36.213] 1A:1016203E:[pc] gains the effect of ミニマム from トラップ for 90.00 Seconds.
+[23:43:40.422] 00:0000:Hojoring:[EX] Added new combatant. name=Pompom Dompom X=16.39 Y=21.84 Z=-1.74 hp=158370
+[23:43:42.449] 00:0000:Hojoring:[EX] Added new combatant. name=Neroro Nero X=16.03 Y=21.82 Z=-1.74 hp=155361
+[23:43:56.463] 00:0000:Hojoring:[EX] Beacon X=16.05 Y=19.63 Z=-1.82 zone=Delubrum Reginae (Savage)
+[23:44:14.979] 00:0000:Hojoring:[EX] Added new combatant. name=Claudia Molkoh X=16.06 Y=17.06 Z=-1.82 hp=157363
+[23:44:16.522] 00:0000:Hojoring:[EX] Added new combatant. name=Lulu Watson X=16.14 Y=17.04 Z=-1.82 hp=187705
+[23:44:43.822] 00:0000:Hojoring:[EX] Added new combatant. name=スティギモロク・ロード X=13.18 Y=17.82 Z=-1.91 hp=44
+[23:44:43.822] 00:0000:Hojoring:[EX] Added new combatant. name=スティギモロク・ロード X=13.18 Y=17.78 Z=-1.91 hp=117064921
+[23:44:43.856] 00:0000:Hojoring:[EX] Added new combatant. name=スティギモロク・ロード X=13.18 Y=17.82 Z=-1.91 hp=44
+[23:44:43.891] 00:0000:Hojoring:[EX] Added new combatant. name=トラップ X=21.50 Y=21.50 Z=0.00 hp=148000
+[23:44:43.891] 00:0000:Hojoring:[EX] Added new combatant. name=スティギモロク・ロード X=13.18 Y=17.82 Z=-1.91 hp=44
+[23:44:49.414] 00:0000:Hojoring:[EX] Added new combatant. name=Sherry Moscatel X=13.74 Y=19.84 Z=-1.86 hp=158370
+[23:44:49.838] 00:0000:Hojoring:[EX] Added new combatant. name=Izure Artonelico X=13.74 Y=19.85 Z=-1.86 hp=158326
+[23:44:51.023] 00:0000:Hojoring:[EX] Added new combatant. name=Noul Highland X=13.72 Y=19.82 Z=-1.86 hp=187753
+[23:44:53.045] 00:0000:Hojoring:[EX] Added new combatant. name=Piku Chin X=13.73 Y=19.85 Z=-1.86 hp=157323
+[23:44:53.428] 00:0000:Hojoring:[EX] Added new combatant. name=Zaq Fury X=13.73 Y=19.83 Z=-1.86 hp=155643
+[23:44:54.643] 00:0000:Hojoring:[EX] Added new combatant. name=Monji Arc X=13.73 Y=19.84 Z=-1.86 hp=158641
+[23:44:55.856] 00:0000:Hojoring:[EX] Added new combatant. name=Teo Tiya X=13.74 Y=19.82 Z=-1.86 hp=157084
+[23:44:56.490] 00:0000:Hojoring:[EX] Beacon X=13.34 Y=19.70 Z=-1.89 zone=Delubrum Reginae (Savage)
+[23:44:56.624] 00:0000:Hojoring:[EX] Added new combatant. name=Gin Silvell X=13.73 Y=19.84 Z=-1.86 hp=157084
+[23:45:00.663] 00:0000:Hojoring:[EX] Added new combatant. name=Tricia Slade X=13.72 Y=19.83 Z=-1.86 hp=157124
+[23:45:03.469] 00:0000:Hojoring:[EX] Added new combatant. name=Lifill Mude X=13.75 Y=19.83 Z=-1.86 hp=187848
+[23:45:03.884] 00:0000:Hojoring:[EX] Added new combatant. name=Mayer Lee X=13.73 Y=19.84 Z=-1.86 hp=158414
+[23:45:06.250] 00:0000:Hojoring:[EX] Added new combatant. name=Claudia Molkoh X=13.72 Y=19.84 Z=-1.86 hp=157363
+[23:45:06.250] 00:0000:Hojoring:[EX] Added new combatant. name=Shiwmes Chang X=13.74 Y=19.84 Z=-1.86 hp=158326
+[23:45:06.637] 00:0000:Hojoring:[EX] Added new combatant. name=Poni Solt X=13.74 Y=19.85 Z=-1.86 hp=158326
+[23:45:09.114] 00:0000:Hojoring:[EX] Added new combatant. name=Cona Lihzeh X=13.73 Y=19.83 Z=-1.86 hp=158414
+[23:45:09.502] 00:0000:Hojoring:[EX] Added new combatant. name=Drum Lily X=13.73 Y=19.85 Z=-1.86 hp=156868
+[23:45:09.948] 00:0000:Hojoring:[EX] Added new combatant. name=カーバンクル・ルビー X=13.77 Y=19.82 Z=-1.85 hp=150726
+[23:45:10.687] 00:0000:Hojoring:[EX] Added new combatant. name=Unapo N' X=13.73 Y=19.84 Z=-1.86 hp=188083
+[23:45:12.676] 00:0000:Hojoring:[EX] Added new combatant. name=Aria Redberyl X=13.74 Y=19.84 Z=-1.86 hp=186099
+[23:45:12.676] 00:0000:Hojoring:[EX] Added new combatant. name=フェアリー・エオス X=13.76 Y=19.82 Z=-1.85 hp=150726
+[23:45:13.098] 00:0000:Hojoring:[EX] Added new combatant. name=Pompom Dompom X=13.74 Y=19.85 Z=-1.86 hp=158370
+[23:45:15.910] 00:0000:Hojoring:[EX] Added new combatant. name=Fire Aniki X=13.73 Y=19.83 Z=-1.86 hp=187753
+[23:45:17.512] 00:0000:Hojoring:[EX] Added new combatant. name=フェアリー・エオス X=13.13 Y=18.52 Z=-1.91 hp=150726
+[23:45:17.896] 00:0000:Hojoring:[EX] Added new combatant. name=Helen Ashford X=13.73 Y=19.84 Z=-1.86 hp=158502
+[23:45:21.128] 00:0000:Hojoring:[EX] Added new combatant. name=カーバンクル・ルビー X=13.76 Y=19.81 Z=-1.85 hp=150726
+[23:45:27.910] 00:0000:Hojoring:[EX] Added new combatant. name=Zeit Schutzer X=13.72 Y=19.84 Z=-1.86 hp=185863
+[23:45:29.510] 00:0000:Hojoring:[EX] Added new combatant. name=Sikkoku Hazakura X=13.73 Y=19.82 Z=-1.86 hp=155924
+[23:45:56.512] 00:0000:Hojoring:[EX] Beacon X=13.19 Y=18.55 Z=-1.91 zone=Delubrum Reginae (Savage)
+[23:46:56.530] 00:0000:Hojoring:[EX] Beacon X=13.19 Y=18.55 Z=-1.91 zone=Delubrum Reginae (Savage)
+[23:48:28.030] 00:0000:Hojoring:[EX] Added new combatant. name=カーバンクル・ルビー X=13.25 Y=18.54 Z=-1.91 hp=150726
+[23:49:37.424] 00:0000:Hojoring:[EX] Added new combatant. name=フェアリー・エオス X=13.13 Y=18.56 Z=-1.91 hp=150726
+[23:49:46.600] 00:0000:Hojoring:[EX] Added new combatant. name=カーバンクル・ルビー X=13.26 Y=18.57 Z=-1.92 hp=150726
+[23:50:56.633] 00:0000:Hojoring:[EX] Beacon X=13.19 Y=18.57 Z=-1.92 zone=Delubrum Reginae (Savage)
+[23:51:01.170] 00:0000:Hojoring:[EX] Added new combatant. name=カーバンクル・ルビー X=13.20 Y=18.46 Z=-1.91 hp=150726
+[23:51:56.652] 00:0000:Hojoring:[EX] Beacon X=13.20 Y=18.55 Z=-1.91 zone=Delubrum Reginae (Savage)
+[23:51:59.000] 00:0039:レディチェックを開始しました。

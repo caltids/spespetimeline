@@ -1,0 +1,518 @@
+[22:58:20.000] 00:0039:戦闘開始！
+[22:58:22.981] 00:0000:Hojoring:[EX] Added new combatant. name=アーサリースター X=23.13 Y=24.30 Z=0.12 hp=150726
+[22:58:21.000] 00:0044:スティギモロク・ウォリアー:ココハ、我ラノ縄張リ…… 邪魔者、全員、ブッ潰スゥゥ……！
+[22:58:24.993] 00:0000:Hojoring:[EX] Added new combatant. name=オートマトン・クイーン X=23.15 Y=24.62 Z=0.12 hp=149525
+[22:58:27.777] 00:0000:Hojoring:[EX] Added new combatant. name=分身 X=23.14 Y=24.36 Z=0.12 hp=149486
+[22:58:29.409] 00:0000:Hojoring:[EX] Added new combatant. name=分身 X=23.09 Y=24.35 Z=0.12 hp=149486
+[22:58:27.720] 15:<id8>:ダウー:576D:崩落誘発:<id8>:ダウー:
+[22:58:29.000] 00:282b:ダウーの「崩落誘発」
+[22:58:29.858] 14:576E:ダウー starts using 落石 on Unknown.
+[22:58:33.419] 00:0000:Hojoring:[EX] Added new combatant. name=英雄の影身 X=23.18 Y=24.44 Z=0.12 hp=123916
+[22:58:33.419] 00:0000:Hojoring:[EX] Added new combatant. name=英雄の影身 X=23.19 Y=24.46 Z=0.12 hp=123916
+[22:58:33.419] 00:0000:Hojoring:[EX] Added new combatant. name=英雄の影身 X=23.11 Y=24.16 Z=0.12 hp=123916
+[22:58:33.845] 00:0000:Hojoring:[EX] Added new combatant. name=英雄の影身 X=23.16 Y=24.43 Z=0.12 hp=123916
+[22:58:31.866] 14:576E:ダウー starts using 落石 on Unknown.
+[22:58:34.574] 00:0000:Hojoring:[EX] Added new combatant. name=デミ・フェニックス X=23.17 Y=24.52 Z=0.12 hp=150726
+[22:58:34.574] 00:0000:Hojoring:[EX] Added new combatant. name=デミ・バハムート X=23.36 Y=24.44 Z=0.12 hp=135652
+[22:58:34.999] 00:0000:Hojoring:[EX] Added new combatant. name=デミ・バハムート X=23.25 Y=24.36 Z=0.12 hp=135652
+[22:58:32.850] 15:<id8>:ダウー:576E:落石:<id8>::
+[22:58:32.850] 16:<id8>:ダウー:576E:落石:<id8>:[pc]:
+[22:58:33.469] 1A:10027680:[pc] gains the effect of 破滅の刻印：参 from ダウー for 30.00 Seconds.
+[22:58:36.227] 00:0000:Hojoring:[EX] Added new combatant. name=デミ・フェニックス X=22.91 Y=24.54 Z=0.12 hp=150726
+[22:58:33.871] 15:<id8>:ダウー:576D:崩落誘発:<id8>:ダウー:
+[22:58:33.916] 14:576E:ダウー starts using 落石 on Unknown.
+[22:58:34.852] 15:<id8>:ダウー:576E:落石:<id8>::
+[22:58:35.000] 00:282b:ダウーの「崩落誘発」
+[22:58:35.923] 14:576E:ダウー starts using 落石 on Unknown.
+[22:58:36.010] 14:576E:ダウー starts using 落石 on Unknown.
+[22:58:36.905] 15:<id8>:ダウー:576E:落石:<id8>::
+[22:58:39.413] 00:0000:Hojoring:[EX] Added new combatant. name=デミ・バハムート X=23.27 Y=24.58 Z=0.12 hp=135652
+[22:58:38.017] 14:576E:ダウー starts using 落石 on Unknown.
+[22:58:38.914] 15:<id8>:ダウー:576E:落石:<id8>::
+[22:58:39.090] 14:5773:ダウー starts using ホットチャージ on Unknown.
+[22:58:38.000] 00:282b:ダウーは「ホットチャージ」の構え。
+[22:58:40.028] 14:576E:ダウー starts using 落石 on Unknown.
+[22:58:41.011] 15:<id8>:ダウー:576E:落石:<id8>::
+[22:58:42.076] 15:<id8>:ダウー:5773:ホットチャージ:<id8>::
+[22:58:42.000] 00:282b:ダウーの「ホットチャージ」
+[22:58:43.013] 16:<id8>:ダウー:576E:落石:<id8>:[pc]:
+[22:58:43.013] 15:<id8>:ダウー:576E:落石:<id8>::
+[22:58:43.679] 1A:10255486:[pc] gains the effect of 破滅の刻印：参 from ダウー for 30.00 Seconds.
+[22:58:43.000] 00:282b:ダウーは「ホットチャージ」の構え。
+[22:58:43.902] 14:5773:ダウー starts using ホットチャージ on Unknown.
+[22:58:46.891] 15:<id8>:ダウー:5773:ホットチャージ:<id8>::
+[22:58:46.000] 00:282b:ダウーの「ホットチャージ」
+[22:58:48.000] 00:282b:ダウーは「ラーヴァブレス」の構え。
+[22:58:48.713] 14:5774:ダウー starts using ラーヴァブレス on ダウー.
+[22:58:54.696] 00:0000:Hojoring:[EX] Added new combatant. name=カーバンクル・ルビー X=22.94 Y=24.69 Z=0.12 hp=150726
+[22:58:54.696] 00:0000:Hojoring:[EX] Added new combatant. name=カーバンクル・ルビー X=23.57 Y=24.61 Z=0.12 hp=150726
+[22:58:55.053] 00:0000:Hojoring:[EX] Added new combatant. name=カーバンクル・ルビー X=23.55 Y=24.68 Z=0.12 hp=150726
+[22:58:55.357] 00:0000:Hojoring:[EX] Beacon X=23.65 Y=24.36 Z=0.12 zone=Delubrum Reginae (Savage)
+[22:58:53.706] 15:<id8>:ダウー:5774:ラーヴァブレス:<id8>::
+[22:58:56.241] 00:0000:Hojoring:[EX] Added new combatant. name=イフリート・エギ X=23.10 Y=24.77 Z=0.12 hp=150726
+[22:58:54.000] 00:282b:ダウーの「ラーヴァブレス」
+[22:58:59.501] 00:0000:Hojoring:[EX] Added new combatant. name=カーバンクル・トパーズ X=23.01 Y=24.62 Z=0.12 hp=150726
+[22:59:03.495] 00:0000:Hojoring:[EX] Added new combatant. name=マルコシアス X=22.87 Y=24.73 Z=0.12 hp=266400
+[22:59:03.495] 00:0000:Hojoring:[EX] Added new combatant. name=マルコシアス X=22.67 Y=24.53 Z=0.12 hp=266400
+[22:59:03.495] 00:0000:Hojoring:[EX] Added new combatant. name=マルコシアス X=23.68 Y=24.26 Z=0.12 hp=266400
+[22:59:03.495] 00:0000:Hojoring:[EX] Added new combatant. name=マルコシアス X=23.41 Y=23.79 Z=0.12 hp=266400
+[22:59:03.495] 00:0000:Hojoring:[EX] Added new combatant. name=トラップ X=21.50 Y=21.50 Z=0.00 hp=148000
+[22:59:03.495] 00:0000:Hojoring:[EX] Added new combatant. name=マルコシアス X=22.87 Y=23.79 Z=0.12 hp=266400
+[22:59:03.528] 00:0000:Hojoring:[EX] Added new combatant. name=マルコシアス X=23.61 Y=23.99 Z=0.12 hp=266400
+[22:59:03.528] 00:0000:Hojoring:[EX] Added new combatant. name=マルコシアス X=23.41 Y=24.73 Z=0.12 hp=266400
+[22:59:03.528] 00:0000:Hojoring:[EX] Added new combatant. name=マルコシアス X=23.61 Y=24.53 Z=0.12 hp=266400
+[22:59:03.528] 00:0000:Hojoring:[EX] Added new combatant. name=マルコシアス X=22.60 Y=24.26 Z=0.12 hp=266400
+[22:59:03.528] 00:0000:Hojoring:[EX] Added new combatant. name=マルコシアス X=22.67 Y=23.99 Z=0.12 hp=266400
+[22:59:03.528] 00:0000:Hojoring:[EX] Added new combatant. name=マルコシアス X=23.14 Y=24.80 Z=0.12 hp=266400
+[22:59:03.561] 00:0000:Hojoring:[EX] Added new combatant. name=マルコシアス X=23.14 Y=23.72 Z=0.12 hp=266400
+[22:59:05.961] 15:<id8>:マルコシアス:576A:Unknown_576A:<id8>:マルコシアス:
+[22:59:07.000] 00:282b:マルコシアスは「ビーストチャージ」の構え。
+[22:59:08.327] 14:5768:マルコシアス starts using ビーストチャージ on Unknown.
+[22:59:11.317] 15:<id8>:マルコシアス:5768:ビーストチャージ:<id8>::
+[22:59:11.000] 00:282b:マルコシアスの「ビーストチャージ」
+[22:59:11.000] 00:282b:マルコシアスの「ビーストチャージ」
+[22:59:12.920] 1B:<id8>:[pc]:0000:549F:0101:0000:0000:0000:
+[22:59:13.008] 14:5776:ダウー starts using フレイムスピット on ダウー.
+[22:59:12.000] 00:282b:ダウーは「フレイムスピット」の構え。
+[22:59:13.945] 1B:<id8>:[mex]:0000:0000:0102:0000:0000:0000:
+[22:59:13.991] 14:5768:マルコシアス starts using ビーストチャージ on Unknown.
+[22:59:13.000] 00:282b:マルコシアスは「ビーストチャージ」の構え。
+[22:59:13.000] 00:282b:マルコシアスは「ビーストチャージ」の構え。
+[22:59:14.926] 1B:<id8>:[pc]:0000:0000:0103:0000:0000:0000:
+[22:59:15.953] 1B:<id8>:[SMN]:0000:0000:0104:0000:0000:0000:
+[22:59:16.978] 15:<id8>:マルコシアス:5768:ビーストチャージ:<id8>::
+[22:59:17.000] 00:282b:マルコシアスの「ビーストチャージ」
+[22:59:21.173] 00:0000:Hojoring:[EX] Added new combatant. name=デミ・フェニックス X=23.02 Y=24.34 Z=0.12 hp=150726
+[22:59:22.771] 00:0000:Hojoring:[EX] Added new combatant. name=オートマトン・クイーン X=23.04 Y=24.49 Z=0.12 hp=149525
+[22:59:20.991] 15:<id8>:ダウー:5776:フレイムスピット:<id8>:ダウー:
+[22:59:21.211] 16:<id8>:ダウー:5777:フレイムスピット:<id8>:マルコシアス:
+[22:59:21.211] 16:<id8>:ダウー:5777:フレイムスピット:<id8>:[pc]:
+[22:59:21.000] 00:282b:ダウーの「フレイムスピット」
+[22:59:21.968] 1A:10236A3A:[pc] gains the effect of 火属性耐性低下[強] from ダウー for 5.00 Seconds.
+[22:59:22.369] 16:<id8>:ダウー:5777:フレイムスピット:<id8>:マルコシアス:
+[22:59:22.369] 16:<id8>:ダウー:5777:フレイムスピット:<id8>:[mex]:
+[22:59:22.000] 00:282b:ダウーの「フレイムスピット」
+[22:59:23.127] 1A:10248026:[mex] gains the effect of 火属性耐性低下[強] from ダウー for 5.00 Seconds.
+[22:59:23.527] 16:<id8>:ダウー:5777:フレイムスピット:<id8>:マルコシアス:
+[22:59:23.527] 16:<id8>:ダウー:5777:フレイムスピット:<id8>:[pc]:
+[22:59:25.943] 00:0000:Hojoring:[EX] Added new combatant. name=デミ・フェニックス X=23.29 Y=24.41 Z=0.12 hp=150726
+[22:59:23.000] 00:282b:ダウーの「フレイムスピット」
+[22:59:26.413] 00:0000:Hojoring:[EX] Added new combatant. name=フェアリー・エオス X=22.95 Y=24.29 Z=0.12 hp=150726
+[22:59:24.289] 1A:102EECAC:[pc] gains the effect of 火属性耐性低下[強] from ダウー for 5.00 Seconds.
+[22:59:24.689] 16:<id8>:ダウー:5777:フレイムスピット:<id8>:マルコシアス:
+[22:59:24.689] 16:<id8>:ダウー:5777:フレイムスピット:<id8>:[SMN]:
+[22:59:24.000] 00:282b:ダウーの「フレイムスピット」
+[22:59:25.445] 1A:1026B1E2:[SMN] gains the effect of 火属性耐性低下[強] from ダウー for 5.00 Seconds.
+[22:59:25.624] 14:5768:マルコシアス starts using ビーストチャージ on Unknown.
+[22:59:25.000] 00:282b:マルコシアスは「ビーストチャージ」の構え。
+[22:59:28.738] 00:0000:Hojoring:[EX] Added new combatant. name=フェアリー・エオス X=23.28 Y=24.37 Z=0.12 hp=150726
+[22:59:27.848] 14:5770:ダウー starts using ライトサイド・ショックウェーブ on ダウー.
+[22:59:27.000] 00:282b:ダウーは「ライトサイド・ショックウェーブ」の構え。
+[22:59:28.607] 15:<id8>:マルコシアス:5768:ビーストチャージ:<id8>::
+[22:59:28.000] 00:282b:マルコシアスの「ビーストチャージ」
+[22:59:32.398] 00:0000:Hojoring:[EX] Added new combatant. name=フェアリー・エオス X=23.06 Y=24.42 Z=0.12 hp=150726
+[22:59:30.836] 16:<id8>:ダウー:5770:ライトサイド・ショックウェーブ:<id8>:[pc]:
+[22:59:30.000] 00:282b:マルコシアスは「ビーストチャージ」の構え。
+[22:59:31.366] 14:5768:マルコシアス starts using ビーストチャージ on Unknown.
+[22:59:31.370] 14:5768:マルコシアス starts using ビーストチャージ on Unknown.
+[22:59:31.000] 00:282b:ダウーの「ライトサイド・ショックウェーブ」
+[22:59:31.634] 1A:102AD4DA:[pc] gains the effect of 破滅の刻印：参 from ダウー for 30.00 Seconds.
+[22:59:31.679] 1A:102E5568:[pc] gains the effect of 破滅の刻印：参 from ダウー for 30.00 Seconds.
+[22:59:32.437] 14:5771:ダウー starts using レフトサイド・ショックウェーブ on ダウー.
+[22:59:32.000] 00:282b:ダウーは「レフトサイド・ショックウェーブ」の構え。
+[22:59:33.419] 15:<id8>:ダウー:5771:レフトサイド・ショックウェーブ:<id8>::
+[22:59:33.000] 00:282b:ダウーの「レフトサイド・ショックウェーブ」
+[22:59:34.353] 15:<id8>:マルコシアス:5768:ビーストチャージ:<id8>::
+[22:59:34.000] 00:282b:マルコシアスの「ビーストチャージ」
+[22:59:35.000] 00:282b:ダウーは「フェラルハウル」の構え。
+[22:59:35.997] 14:5767:ダウー starts using フェラルハウル on ダウー.
+[22:59:36.042] 14:5769:マルコシアス starts using ハンタークロウ on マルコシアス.
+[22:59:36.045] 14:5769:マルコシアス starts using ハンタークロウ on マルコシアス.
+[22:59:35.000] 00:282b:マルコシアスは「ハンタークロウ」の構え。
+[22:59:41.229] 00:0000:Hojoring:[EX] Added new combatant. name=カーバンクル・トパーズ X=23.07 Y=24.41 Z=0.12 hp=150726
+[22:59:41.984] 00:0000:Hojoring:[EX] Added new combatant. name=デミ・バハムート X=23.59 Y=24.57 Z=0.12 hp=135652
+[22:59:40.993] 15:<id8>:ダウー:5767:フェラルハウル:<id8>:ダウー:
+[22:59:43.993] 00:0000:Hojoring:[EX] Added new combatant. name=デミ・バハムート X=22.94 Y=24.65 Z=0.12 hp=135652
+[22:59:42.000] 00:282b:ダウーの「フェラルハウル」
+[22:59:43.132] 16:<id8>:ダウー:5B35:フェラルハウル:<id8>:[MNK]:
+[22:59:43.132] 16:<id8>:ダウー:5B35:フェラルハウル:<id8>:[pc]:
+[22:59:43.132] 16:<id8>:ダウー:5B35:フェラルハウル:<id8>:[PLD]:
+[22:59:43.132] 16:<id8>:ダウー:5B35:フェラルハウル:<id8>:[SMN]:
+[22:59:43.132] 16:<id8>:ダウー:5B35:フェラルハウル:<id8>:[WAR]:
+[22:59:43.132] 16:<id8>:ダウー:5B35:フェラルハウル:<id8>:[NIN]:
+[22:59:43.132] 16:<id8>:ダウー:5B35:フェラルハウル:<id8>:[DNC]:
+[22:59:43.132] 16:<id8>:ダウー:5B35:フェラルハウル:<id8>:[mex]:
+[22:59:43.132] 16:<id8>:ダウー:5B35:フェラルハウル:<id8>:[SCH]:
+[22:59:46.025] 00:0000:Hojoring:[EX] Added new combatant. name=カーバンクル・ルビー X=23.07 Y=24.42 Z=0.12 hp=150726
+[22:59:43.668] 1A:10087D67:[MNK] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[22:59:43.668] 1A:102A2956:[pc] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[22:59:43.668] 1A:1016203E:[pc] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[22:59:43.668] 1A:1025153F:[DNC] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[22:59:43.714] 1A:100E16E0:[pc] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[22:59:43.714] 1A:10303AA2:[pc] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[22:59:43.714] 1A:10236A3A:[pc] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[22:59:43.714] 1A:10248026:[mex] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[22:59:43.755] 1A:10327CA5:[pc] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[22:59:43.755] 1A:102E5568:[pc] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[22:59:43.755] 1A:1025BEB0:[WAR] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[22:59:43.758] 1A:101B47AB:[pc] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[22:59:43.799] 1A:102EF269:[pc] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[22:59:43.799] 1A:10274868:[pc] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[22:59:43.799] 1A:1025F986:[pc] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[22:59:43.799] 1A:1002AAC3:[pc] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[22:59:43.844] 1A:1029842C:[pc] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[22:59:43.844] 1A:10241BE6:[pc] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[22:59:43.844] 1A:1028E95A:[pc] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[22:59:43.844] 1A:10327838:[pc] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[22:59:43.890] 1A:10027680:[pc] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[22:59:43.890] 1A:102A80C2:[pc] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[22:59:43.890] 1A:1025B0B4:[NIN] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[22:59:43.890] 1A:1029609D:[SCH] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[22:59:43.936] 1A:102EF4FC:[pc] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[22:59:43.936] 1A:10219BF8:[pc] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[22:59:43.936] 1A:1003B533:[pc] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[22:59:43.936] 1A:1031FDAF:[pc] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[22:59:43.977] 1A:1002EEB9:[pc] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[22:59:43.977] 1A:1007331B:[pc] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[22:59:43.977] 1A:102EECAC:[pc] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[22:59:44.022] 1A:102795B6:[PLD] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[22:59:44.022] 1A:102DC0AC:[pc] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[22:59:44.068] 1A:10255486:[pc] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[22:59:44.068] 1A:101D2350:[pc] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[22:59:44.111] 1A:10247D9C:[pc] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[22:59:44.111] 1A:1002BE5C:[pc] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[22:59:44.154] 1A:1001C1B8:[pc] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[22:59:44.154] 1A:102AD4DA:[pc] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[22:59:44.200] 1A:1029BE04:[pc] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[22:59:44.200] 1A:10256B89:[pc] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[22:59:44.244] 1A:1033C8BE:[pc] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[22:59:44.244] 1A:102E1133:[pc] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[22:59:44.289] 1A:1026B1E2:[SMN] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[22:59:44.289] 1A:10241789:[pc] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[22:59:44.332] 1A:102AD6E2:[pc] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[22:59:44.332] 1A:1027F60B:[pc] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[22:59:44.513] 15:<id8>:マルコシアス:5769:ハンタークロウ:<id8>::
+[22:59:44.513] 15:<id8>:マルコシアス:5769:ハンタークロウ:<id8>:[MNK]:
+[22:59:44.000] 00:282b:マルコシアスの「ハンタークロウ」
+[22:59:45.269] 1A:10087D67:[MNK] gains the effect of ペイン from マルコシアス for 9.00 Seconds.
+[22:59:45.269] 1A:10087D67:[MNK] gains the effect of 破滅の刻印：参 from マルコシアス for 30.00 Seconds.
+[22:59:46.112] 1B:<id8>:ダウー:0000:0000:015A:0000:0000:0000:
+[22:59:46.202] 14:576B:ダウー starts using ラーヴァブレス on ダウー.
+[22:59:45.000] 00:282b:ダウーは「ラーヴァブレス」の構え。
+[22:59:51.199] 15:<id8>:ダウー:576B:ラーヴァブレス:<id8>:ダウー:
+[22:59:51.423] 14:576C:ダウー starts using ラーヴァブレス on ダウー.
+[22:59:54.025] 00:0000:Hojoring:[EX] Added new combatant. name=アーサリースター X=23.03 Y=24.21 Z=0.12 hp=150726
+[22:59:54.025] 00:0000:Hojoring:[EX] Added new combatant. name=分身 X=23.22 Y=24.25 Z=0.12 hp=149486
+[22:59:51.913] 16:<id8>:ダウー:576C:ラーヴァブレス:<id8>:マルコシアス:
+[22:59:52.000] 00:282b:ダウーの「ラーヴァブレス」
+[22:59:55.385] 00:0000:Hojoring:[EX] Beacon X=23.31 Y=24.35 Z=0.12 zone=Delubrum Reginae (Savage)
+[22:59:55.622] 00:0000:Hojoring:[EX] Added new combatant. name=デミ・フェニックス X=23.35 Y=24.28 Z=0.12 hp=150726
+[22:59:53.423] 14:576C:ダウー starts using ラーヴァブレス on ダウー.
+[22:59:53.916] 16:<id8>:ダウー:576C:ラーヴァブレス:<id8>:マルコシアス:
+[22:59:54.000] 00:282b:ダウーの「ラーヴァブレス」
+[22:59:55.430] 14:576C:ダウー starts using ラーヴァブレス on ダウー.
+[22:59:58.069] 00:0000:Hojoring:[EX] Added new combatant. name=分身 X=23.07 Y=24.14 Z=0.12 hp=149486
+[22:59:55.922] 16:<id8>:ダウー:576C:ラーヴァブレス:<id8>:マルコシアス:
+[22:59:58.457] 00:0000:Hojoring:[EX] Added new combatant. name=分身 X=23.10 Y=24.16 Z=0.12 hp=149486
+[22:59:56.000] 00:282b:ダウーの「ラーヴァブレス」
+[22:59:57.434] 14:576C:ダウー starts using ラーヴァブレス on ダウー.
+[22:59:57.923] 16:<id8>:ダウー:576C:ラーヴァブレス:<id8>:マルコシアス:
+[22:59:58.000] 00:282b:ダウーの「ラーヴァブレス」
+[22:59:59.440] 14:576C:ダウー starts using ラーヴァブレス on ダウー.
+[23:00:02.036] 00:0000:Hojoring:[EX] Added new combatant. name=イフリート・エギ X=23.20 Y=24.39 Z=0.12 hp=150726
+[22:59:59.927] 15:<id8>:ダウー:576C:ラーヴァブレス:<id8>::
+[23:00:00.000] 00:282b:ダウーの「ラーヴァブレス」
+[23:00:04.034] 00:0000:Hojoring:[EX] Added new combatant. name=カーバンクル・ルビー X=23.21 Y=24.29 Z=0.12 hp=150726
+[23:00:08.468] 00:0000:Hojoring:[EX] Added new combatant. name=アーサリースター X=23.14 Y=24.26 Z=0.12 hp=150726
+[23:00:09.686] 00:0000:Hojoring:[EX] Added new combatant. name=アルファ・マルコシアス X=23.61 Y=24.53 Z=0.12 hp=1654344
+[23:00:09.686] 00:0000:Hojoring:[EX] Added new combatant. name=アルファ・マルコシアス X=23.68 Y=24.26 Z=0.12 hp=1654344
+[23:00:14.470] 00:0000:Hojoring:[EX] Added new combatant. name=アルファ・マルコシアス X=22.67 Y=23.99 Z=0.12 hp=1654344
+[23:00:14.470] 00:0000:Hojoring:[EX] Added new combatant. name=アルファ・マルコシアス X=22.87 Y=24.73 Z=0.12 hp=1654344
+[23:00:12.223] 15:<id8>:アルファ・マルコシアス:576A:Unknown_576A:<id8>:アルファ・マルコシアス:
+[23:00:14.886] 00:0000:Hojoring:[EX] Added new combatant. name=分身 X=23.13 Y=24.28 Z=0.12 hp=149486
+[23:00:15.674] 00:0000:Hojoring:[EX] Added new combatant. name=カーバンクル・ルビー X=23.21 Y=24.43 Z=0.12 hp=150726
+[23:00:17.261] 15:<id8>:アルファ・マルコシアス:576A:Unknown_576A:<id8>:アルファ・マルコシアス:
+[23:00:19.727] 00:0000:Hojoring:[EX] Added new combatant. name=アルファ・マルコシアス X=22.60 Y=24.26 Z=0.12 hp=1654344
+[23:00:19.727] 00:0000:Hojoring:[EX] Added new combatant. name=アルファ・マルコシアス X=23.61 Y=23.99 Z=0.12 hp=1654344
+[23:00:22.248] 15:<id8>:アルファ・マルコシアス:576A:Unknown_576A:<id8>:アルファ・マルコシアス:
+[23:00:27.292] 00:0000:Hojoring:[EX] Added new combatant. name=デミ・フェニックス X=23.22 Y=24.44 Z=0.12 hp=150726
+[23:00:28.920] 00:0000:Hojoring:[EX] Added new combatant. name=デミ・バハムート X=23.15 Y=24.41 Z=0.12 hp=135652
+[23:00:31.709] 00:0000:Hojoring:[EX] Added new combatant. name=デミ・バハムート X=23.25 Y=24.20 Z=0.12 hp=135652
+[23:00:34.149] 00:0000:Hojoring:[EX] Added new combatant. name=デミ・フェニックス X=23.20 Y=24.44 Z=0.12 hp=150726
+[23:00:34.190] 00:0000:Hojoring:[EX] Added new combatant. name=英雄の影身 X=23.10 Y=24.14 Z=0.12 hp=123916
+[23:00:37.349] 00:0000:Hojoring:[EX] Added new combatant. name=英雄の影身 X=23.18 Y=24.43 Z=0.12 hp=123916
+[23:00:39.783] 00:0000:Hojoring:[EX] Added new combatant. name=マルコシアス X=22.87 Y=24.73 Z=0.12 hp=266400
+[23:00:39.783] 00:0000:Hojoring:[EX] Added new combatant. name=マルコシアス X=22.67 Y=23.99 Z=0.12 hp=266400
+[23:00:39.783] 00:0000:Hojoring:[EX] Added new combatant. name=マルコシアス X=22.67 Y=24.53 Z=0.12 hp=266400
+[23:00:39.783] 00:0000:Hojoring:[EX] Added new combatant. name=マルコシアス X=22.87 Y=23.79 Z=0.12 hp=266400
+[23:00:39.783] 00:0000:Hojoring:[EX] Added new combatant. name=マルコシアス X=23.41 Y=23.79 Z=0.12 hp=266400
+[23:00:39.783] 00:0000:Hojoring:[EX] Added new combatant. name=マルコシアス X=23.61 Y=23.99 Z=0.12 hp=266400
+[23:00:39.849] 00:0000:Hojoring:[EX] Added new combatant. name=マルコシアス X=23.14 Y=24.80 Z=0.12 hp=266400
+[23:00:39.849] 00:0000:Hojoring:[EX] Added new combatant. name=マルコシアス X=23.61 Y=24.53 Z=0.12 hp=266400
+[23:00:39.849] 00:0000:Hojoring:[EX] Added new combatant. name=マルコシアス X=22.60 Y=24.26 Z=0.12 hp=266400
+[23:00:39.849] 00:0000:Hojoring:[EX] Added new combatant. name=マルコシアス X=23.68 Y=24.26 Z=0.12 hp=266400
+[23:00:39.849] 00:0000:Hojoring:[EX] Added new combatant. name=マルコシアス X=23.41 Y=24.73 Z=0.12 hp=266400
+[23:00:39.849] 00:0000:Hojoring:[EX] Added new combatant. name=マルコシアス X=23.14 Y=23.72 Z=0.12 hp=266400
+[23:00:41.394] 00:0000:Hojoring:[EX] Added new combatant. name=英雄の影身 X=23.31 Y=24.30 Z=0.12 hp=123916
+[23:00:43.866] 00:0000:Hojoring:[EX] Added new combatant. name=トラップ X=21.50 Y=21.50 Z=0.00 hp=148000
+[23:00:42.253] 15:<id8>:マルコシアス:576A:Unknown_576A:<id8>:マルコシアス:
+[23:00:42.253] 15:<id8>:ダウー:576D:崩落誘発:<id8>:ダウー:
+[23:00:43.000] 00:282b:ダウーの「崩落誘発」
+[23:00:44.390] 14:576E:ダウー starts using 落石 on Unknown.
+[23:00:44.000] 00:282b:マルコシアスは「ビーストチャージ」の構え。
+[23:00:44.522] 14:5768:マルコシアス starts using ビーストチャージ on Unknown.
+[23:00:44.527] 14:5768:マルコシアス starts using ビーストチャージ on Unknown.
+[23:00:44.000] 00:282b:マルコシアスは「ビーストチャージ」の構え。
+[23:00:47.364] 00:0000:Hojoring:[EX] Added new combatant. name=カーバンクル・ルビー X=23.18 Y=24.49 Z=0.12 hp=150726
+[23:00:46.396] 14:576E:ダウー starts using 落石 on Unknown.
+[23:00:48.993] 00:0000:Hojoring:[EX] Added new combatant. name=カーバンクル・トパーズ X=23.02 Y=24.40 Z=0.12 hp=150726
+[23:00:47.379] 15:<id8>:ダウー:576E:落石:<id8>::
+[23:00:47.511] 15:<id8>:マルコシアス:5768:ビーストチャージ:<id8>::
+[23:00:47.000] 00:282b:マルコシアスの「ビーストチャージ」
+[23:00:48.405] 14:576E:ダウー starts using 落石 on Unknown.
+[23:00:48.446] 14:576F:ダウー starts using レフトサイド・ショックウェーブ on ダウー.
+[23:00:48.000] 00:282b:ダウーは「レフトサイド・ショックウェーブ」の構え。
+[23:00:49.382] 16:<id8>:ダウー:576E:落石:<id8>:[pc]:
+[23:00:49.382] 15:<id8>:ダウー:576E:落石:<id8>::
+[23:00:51.765] 00:0000:Hojoring:[EX] Added new combatant. name=カーバンクル・ルビー X=23.14 Y=24.45 Z=0.12 hp=150726
+[23:00:50.004] 1A:100E16E0:[pc] gains the effect of 破滅の刻印：参 from ダウー for 30.00 Seconds.
+[23:00:50.268] 14:5768:マルコシアス starts using ビーストチャージ on Unknown.
+[23:00:50.272] 14:5768:マルコシアス starts using ビーストチャージ on Unknown.
+[23:00:49.000] 00:282b:マルコシアスは「ビーストチャージ」の構え。
+[23:00:50.405] 14:576E:ダウー starts using 落石 on Unknown.
+[23:00:51.385] 15:<id8>:ダウー:576E:落石:<id8>::
+[23:00:51.430] 16:<id8>:ダウー:576F:レフトサイド・ショックウェーブ:<id8>:[pc]:
+[23:00:54.167] 00:0000:Hojoring:[EX] Added new combatant. name=イフリート・エギ X=23.15 Y=24.67 Z=0.12 hp=150726
+[23:00:51.000] 00:282b:ダウーの「レフトサイド・ショックウェーブ」
+[23:00:52.232] 1A:1029BE04:[pc] gains the effect of 破滅の刻印：参 from ダウー for 30.00 Seconds.
+[23:00:52.276] 1A:10255486:[pc] gains the effect of 破滅の刻印：参 from ダウー for 30.00 Seconds.
+[23:00:52.408] 14:576E:ダウー starts using 落石 on Unknown.
+[23:00:55.405] 00:0000:Hojoring:[EX] Beacon X=23.14 Y=24.66 Z=0.12 zone=Delubrum Reginae (Savage)
+[23:00:52.000] 00:282b:ダウーは「ライトサイド・ショックウェーブ」の構え。
+[23:00:53.030] 14:5772:ダウー starts using ライトサイド・ショックウェーブ on ダウー.
+[23:00:53.257] 15:<id8>:マルコシアス:5768:ビーストチャージ:<id8>::
+[23:00:53.389] 15:<id8>:ダウー:576E:落石:<id8>::
+[23:00:53.000] 00:282b:マルコシアスの「ビーストチャージ」
+[23:00:53.000] 00:282b:マルコシアスの「ビーストチャージ」
+[23:00:54.014] 16:<id8>:ダウー:5772:ライトサイド・ショックウェーブ:<id8>:[pc]:
+[23:00:54.014] 16:<id8>:ダウー:5772:ライトサイド・ショックウェーブ:<id8>:[SCH]:
+[23:00:54.000] 00:282b:ダウーの「ライトサイド・ショックウェーブ」
+[23:00:54.816] 1A:10027680:[pc] gains the effect of 死の宣告 from ダウー for 3.00 Seconds.
+[23:00:54.861] 1A:1029609D:[SCH] gains the effect of 破滅の刻印：参 from ダウー for 30.00 Seconds.
+[23:00:57.365] 00:0000:Hojoring:[EX] Added new combatant. name=英雄の影身 X=22.98 Y=24.20 Z=0.12 hp=123916
+[23:00:55.398] 15:<id8>:ダウー:576E:落石:<id8>::
+[23:00:56.067] 14:5768:マルコシアス starts using ビーストチャージ on Unknown.
+[23:00:55.000] 00:282b:マルコシアスは「ビーストチャージ」の構え。
+[23:00:55.000] 00:282b:マルコシアスは「ビーストチャージ」の構え。
+[23:00:56.426] 1B:<id8>:[pc]:0000:C0A0:0101:0000:0000:0000:
+[23:00:56.000] 00:282b:ダウーは「フレイムスピット」の構え。
+[23:00:56.512] 14:5776:ダウー starts using フレイムスピット on ダウー.
+[23:00:57.454] 1B:<id8>:[pc]:0000:0000:0102:0000:0000:0000:
+[23:00:58.434] 1B:<id8>:[pc]:0000:0000:0103:0000:0000:0000:
+[23:00:59.061] 15:<id8>:マルコシアス:5768:ビーストチャージ:<id8>::
+[23:00:59.460] 1B:<id8>:[pc]:0000:0000:0104:0000:0000:0000:
+[23:00:59.000] 00:282b:マルコシアスの「ビーストチャージ」
+[23:01:06.640] 00:0000:Hojoring:[EX] Added new combatant. name=デミ・バハムート X=23.11 Y=24.50 Z=0.12 hp=135652
+[23:01:04.489] 15:<id8>:ダウー:5776:フレイムスピット:<id8>:ダウー:
+[23:01:04.712] 16:<id8>:ダウー:5777:フレイムスピット:<id8>:マルコシアス:
+[23:01:04.712] 16:<id8>:ダウー:5777:フレイムスピット:<id8>:[pc]:
+[23:01:04.000] 00:282b:ダウーの「フレイムスピット」
+[23:01:05.470] 1A:1007331B:[pc] gains the effect of 火属性耐性低下[強] from ダウー for 5.00 Seconds.
+[23:01:05.870] 16:<id8>:ダウー:5777:フレイムスピット:<id8>:マルコシアス:
+[23:01:05.870] 16:<id8>:ダウー:5777:フレイムスピット:<id8>:[pc]:
+[23:01:05.000] 00:282b:ダウーの「フレイムスピット」
+[23:01:06.627] 1A:102EF4FC:[pc] gains the effect of 火属性耐性低下[強] from ダウー for 5.00 Seconds.
+[23:01:07.027] 16:<id8>:ダウー:5777:フレイムスピット:<id8>:マルコシアス:
+[23:01:07.027] 16:<id8>:ダウー:5777:フレイムスピット:<id8>:[pc]:
+[23:01:07.000] 00:282b:ダウーの「フレイムスピット」
+[23:01:07.828] 1A:101D2350:[pc] gains the effect of 火属性耐性低下[強] from ダウー for 5.00 Seconds.
+[23:01:08.186] 16:<id8>:ダウー:5777:フレイムスピット:<id8>:マルコシアス:
+[23:01:08.186] 16:<id8>:ダウー:5777:フレイムスピット:<id8>:[pc]:
+[23:01:10.645] 00:0000:Hojoring:[EX] Added new combatant. name=アーサリースター X=23.14 Y=24.26 Z=0.12 hp=150726
+[23:01:08.000] 00:282b:ダウーの「フレイムスピット」
+[23:01:08.945] 1A:100E16E0:[pc] gains the effect of 火属性耐性低下[強] from ダウー for 5.00 Seconds.
+[23:01:09.255] 1B:<id8>:[pc]:0000:395A:0109:0000:0000:0000:
+[23:01:09.255] 1B:<id8>:[pc]:0000:395A:0109:0000:0000:0000:
+[23:01:08.000] 00:282b:ダウーは「ヒステリックアサルト」の構え。
+[23:01:09.345] 14:5778:ダウー starts using ヒステリックアサルト on ダウー.
+[23:01:09.000] 00:282b:マルコシアスは「ハンタークロウ」の構え。
+[23:01:09.431] 14:5769:マルコシアス starts using ハンタークロウ on マルコシアス.
+[23:01:09.435] 14:5769:マルコシアス starts using ハンタークロウ on マルコシアス.
+[23:01:14.332] 15:<id8>:ダウー:5778:ヒステリックアサルト:<id8>:ダウー:
+[23:01:14.000] 00:282b:ダウーの「ヒステリックアサルト」
+[23:01:15.222] 16:<id8>:ダウー:5B43:ヒステリックアサルト:<id8>:[pc]:
+[23:01:15.222] 16:<id8>:ダウー:5B43:ヒステリックアサルト:<id8>:[MNK]:
+[23:01:15.222] 16:<id8>:ダウー:5B43:ヒステリックアサルト:<id8>:[PLD]:
+[23:01:15.222] 16:<id8>:ダウー:5B43:ヒステリックアサルト:<id8>:[SMN]:
+[23:01:15.222] 16:<id8>:ダウー:5B43:ヒステリックアサルト:<id8>:[NIN]:
+[23:01:15.222] 16:<id8>:ダウー:5B43:ヒステリックアサルト:<id8>:[WAR]:
+[23:01:15.222] 16:<id8>:ダウー:5B43:ヒステリックアサルト:<id8>:[DNC]:
+[23:01:15.222] 16:<id8>:ダウー:5B43:ヒステリックアサルト:<id8>:[mex]:
+[23:01:15.222] 16:<id8>:ダウー:5B43:ヒステリックアサルト:<id8>:[SCH]:
+[23:01:15.754] 1A:1002EEB9:[pc] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[23:01:15.754] 1A:10255486:[pc] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[23:01:15.754] 1A:1025F986:[pc] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[23:01:15.754] 1A:1031FDAF:[pc] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[23:01:15.799] 1A:1029BE04:[pc] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[23:01:15.799] 1A:10274868:[pc] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[23:01:15.799] 1A:10236A3A:[pc] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[23:01:15.799] 1A:101B47AB:[pc] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[23:01:18.206] 00:0000:Hojoring:[EX] Added new combatant. name=デミ・フェニックス X=23.27 Y=24.32 Z=0.12 hp=150726
+[23:01:15.845] 1A:10087D67:[MNK] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[23:01:15.845] 1A:102E5568:[pc] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[23:01:15.845] 1A:1025B0B4:[NIN] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[23:01:15.845] 1A:10248026:[mex] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[23:01:15.886] 1A:1029842C:[pc] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[23:01:15.886] 1A:102AD6E2:[pc] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[23:01:15.886] 1A:102DC0AC:[pc] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[23:01:15.886] 1A:1027F60B:[pc] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[23:01:15.930] 1A:10027680:[pc] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[23:01:15.930] 1A:10241BE6:[pc] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[23:01:15.930] 1A:1025BEB0:[WAR] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[23:01:15.930] 1A:1029609D:[SCH] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[23:01:15.975] 1A:10327CA5:[pc] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[23:01:15.975] 1A:10219BF8:[pc] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[23:01:15.975] 1A:1002BE5C:[pc] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[23:01:15.975] 1A:10327838:[pc] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[23:01:16.021] 1A:100E16E0:[pc] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[23:01:16.021] 1A:10303AA2:[pc] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[23:01:16.021] 1A:1016203E:[pc] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[23:01:16.021] 1A:1002AAC3:[pc] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[23:01:16.067] 1A:102795B6:[PLD] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[23:01:16.067] 1A:102A80C2:[pc] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[23:01:16.067] 1A:1028E95A:[pc] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[23:01:16.113] 1A:1026B1E2:[SMN] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[23:01:16.113] 1A:101D2350:[pc] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[23:01:16.153] 1A:1007331B:[pc] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[23:01:16.158] 1A:102AD4DA:[pc] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[23:01:16.198] 1A:102A2956:[pc] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[23:01:16.198] 1A:102EECAC:[pc] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[23:01:16.244] 1A:1001C1B8:[pc] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[23:01:16.244] 1A:1003B533:[pc] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[23:01:16.289] 1A:102EF4FC:[pc] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[23:01:16.289] 1A:10256B89:[pc] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[23:01:16.335] 1A:102EF269:[pc] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[23:01:16.335] 1A:1025153F:[DNC] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[23:01:16.380] 1A:1033C8BE:[pc] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[23:01:16.380] 1A:10241789:[pc] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[23:01:16.426] 1A:10247D9C:[pc] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[23:01:16.426] 1A:102E1133:[pc] gains the effect of よろめき from ダウー for 3.00 Seconds.
+[23:01:17.448] 16:<id8>:ダウー:5463:燃焼:<id8>:[pc]:
+[23:01:17.448] 16:<id8>:ダウー:5463:燃焼:<id8>:[DNC]:
+[23:01:17.448] 16:<id8>:ダウー:5463:燃焼:<id8>:[PLD]:
+[23:01:17.448] 16:<id8>:ダウー:5463:燃焼:<id8>:[WAR]:
+[23:01:17.448] 16:<id8>:ダウー:5463:燃焼:<id8>:[SCH]:
+[23:01:17.448] 16:<id8>:ダウー:5463:燃焼:<id8>:[mex]:
+[23:01:17.450] 16:<id8>:ダウー:5463:燃焼:<id8>:[MNK]:
+[23:01:17.450] 16:<id8>:ダウー:5463:燃焼:<id8>:[SMN]:
+[23:01:17.450] 16:<id8>:ダウー:5463:燃焼:<id8>:[NIN]:
+[23:01:17.896] 15:<id8>:マルコシアス:5769:ハンタークロウ:<id8>::
+[23:01:17.896] 15:<id8>:マルコシアス:5769:ハンタークロウ:<id8>:[pc]:
+[23:01:18.000] 00:282b:マルコシアスの「ハンタークロウ」
+[23:01:18.000] 00:282b:マルコシアスの「ハンタークロウ」
+[23:01:18.652] 1A:1029BE04:[pc] gains the effect of 破滅の刻印：参 from マルコシアス for 30.00 Seconds.
+[23:01:18.652] 1A:1029BE04:[pc] gains the effect of ペイン from マルコシアス for 9.00 Seconds.
+[23:01:25.478] 00:0000:Hojoring:[EX] Added new combatant. name=分身 X=23.41 Y=24.27 Z=0.12 hp=149486
+[23:01:25.868] 00:0000:Hojoring:[EX] Added new combatant. name=デミ・フェニックス X=22.98 Y=24.30 Z=0.12 hp=150726
+[23:01:23.773] 1B:<id8>:ダウー:0000:6D47:0159:0000:0000:0000:
+[23:01:23.000] 00:282b:ダウーは「ラーヴァブレス」の構え。
+[23:01:23.860] 14:576B:ダウー starts using ラーヴァブレス on ダウー.
+[23:01:26.627] 00:0000:Hojoring:[EX] Added new combatant. name=カーバンクル・ルビー X=23.33 Y=24.39 Z=0.12 hp=150726
+[23:01:24.000] 00:282b:マルコシアスは「ビーストチャージ」の構え。
+[23:01:24.000] 00:282b:マルコシアスは「ビーストチャージ」の構え。
+[23:01:24.618] 14:5768:マルコシアス starts using ビーストチャージ on Unknown.
+[23:01:27.607] 15:<id8>:マルコシアス:5768:ビーストチャージ:<id8>::
+[23:01:27.000] 00:282b:マルコシアスの「ビーストチャージ」
+[23:01:30.679] 00:0000:Hojoring:[EX] Added new combatant. name=分身 X=23.04 Y=24.36 Z=0.12 hp=149486
+[23:01:28.856] 15:<id8>:ダウー:576B:ラーヴァブレス:<id8>:ダウー:
+[23:01:29.080] 14:576C:ダウー starts using ラーヴァブレス on ダウー.
+[23:01:29.570] 16:<id8>:ダウー:576C:ラーヴァブレス:<id8>:マルコシアス:
+[23:01:30.000] 00:282b:ダウーの「ラーヴァブレス」
+[23:01:31.083] 14:576C:ダウー starts using ラーヴァブレス on ダウー.
+[23:01:31.572] 16:<id8>:ダウー:576C:ラーヴァブレス:<id8>:マルコシアス:
+[23:01:31.000] 00:282b:ダウーの「ラーヴァブレス」
+[23:01:33.084] 14:576C:ダウー starts using ラーヴァブレス on ダウー.
+[23:01:33.577] 16:<id8>:ダウー:576C:ラーヴァブレス:<id8>:マルコシアス:
+[23:01:36.683] 00:0000:Hojoring:[EX] Added new combatant. name=デミ・バハムート X=23.05 Y=24.23 Z=0.12 hp=135652
+[23:01:33.000] 00:282b:ダウーの「ラーヴァブレス」
+[23:01:35.090] 14:576C:ダウー starts using ラーヴァブレス on ダウー.
+[23:01:35.582] 16:<id8>:ダウー:576C:ラーヴァブレス:<id8>:マルコシアス:
+[23:01:38.288] 00:0000:Hojoring:[EX] Added new combatant. name=カーバンクル・トパーズ X=23.26 Y=24.20 Z=0.12 hp=150726
+[23:01:35.000] 00:282b:ダウーの「ラーヴァブレス」
+[23:01:37.096] 14:576C:ダウー starts using ラーヴァブレス on ダウー.
+[23:01:37.587] 15:<id8>:ダウー:576C:ラーヴァブレス:<id8>::
+[23:01:37.000] 00:282b:ダウーの「ラーヴァブレス」
+[23:01:44.756] 00:0000:Hojoring:[EX] Added new combatant. name=デミ・バハムート X=22.91 Y=24.37 Z=0.12 hp=135652
+[23:01:45.877] 00:0000:Hojoring:[EX] Added new combatant. name=カーバンクル・ルビー X=23.23 Y=24.23 Z=0.12 hp=150726
+[23:01:46.857] 14:576F:ダウー starts using レフトサイド・ショックウェーブ on ダウー.
+[23:01:46.000] 00:282b:ダウーは「レフトサイド・ショックウェーブ」の構え。
+[23:01:55.432] 00:0000:Hojoring:[EX] Beacon X=23.21 Y=23.92 Z=0.12 zone=Delubrum Reginae (Savage)
+[23:01:56.715] 00:0000:Hojoring:[EX] Added new combatant. name=カーバンクル・ルビー X=23.15 Y=23.84 Z=0.12 hp=150726
+[23:01:58.364] 00:0000:Hojoring:[EX] Added new combatant. name=トラップ X=21.50 Y=21.50 Z=0.00 hp=148000
+[23:01:58.396] 00:0000:Hojoring:[EX] Added new combatant. name=トラップ X=21.50 Y=21.50 Z=0.00 hp=148000
+[23:01:58.429] 00:0000:Hojoring:[EX] Added new combatant. name=トラップ X=21.50 Y=21.50 Z=0.00 hp=148000
+[23:01:58.461] 00:0000:Hojoring:[EX] Added new combatant. name=トラップ X=21.50 Y=21.50 Z=0.00 hp=148000
+[23:02:04.746] 00:0000:Hojoring:[EX] Added new combatant. name=イフリート・エギ X=23.14 Y=24.33 Z=0.12 hp=150726
+[23:02:09.163] 00:0000:Hojoring:[EX] Added new combatant. name=トラップ X=21.50 Y=21.50 Z=0.00 hp=148000
+[23:02:09.195] 00:0000:Hojoring:[EX] Added new combatant. name=トラップ X=21.50 Y=21.50 Z=0.00 hp=148000
+[23:02:09.227] 00:0000:Hojoring:[EX] Added new combatant. name=トラップ X=21.50 Y=21.50 Z=0.00 hp=148000
+[23:02:09.259] 00:0000:Hojoring:[EX] Added new combatant. name=トラップ X=21.50 Y=21.50 Z=0.00 hp=148000
+[23:02:17.773] 1A:1029BE04:[pc] gains the effect of 生還 from  for 6.00 Seconds.
+[23:02:29.637] 00:0000:Hojoring:[EX] Added new combatant. name=Reen Kelly X=25.54 Y=21.50 Z=-0.72 hp=158326
+[23:02:29.637] 00:0000:Hojoring:[EX] Added new combatant. name=Noul Highland X=25.55 Y=21.56 Z=-0.71 hp=187753
+[23:02:29.637] 00:0000:Hojoring:[EX] Added new combatant. name=Yuu Hinata X=26.34 Y=20.03 Z=-0.80 hp=188083
+[23:02:29.637] 00:0000:Hojoring:[EX] Added new combatant. name=Zaq Fury X=25.78 Y=20.90 Z=-0.72 hp=155643
+[23:02:29.637] 00:0000:Hojoring:[EX] Added new combatant. name=Masatsu Ryoku X=26.23 Y=20.22 Z=-0.80 hp=187941
+[23:02:29.637] 00:0000:Hojoring:[EX] Added new combatant. name=Daku Jan X=25.58 Y=21.24 Z=-0.72 hp=157124
+[23:02:29.637] 00:0000:Hojoring:[EX] Added new combatant. name=Fire Aniki X=25.54 Y=21.84 Z=-0.68 hp=187753
+[23:02:29.637] 00:0000:Hojoring:[EX] Added new combatant. name=Lulu Watson X=25.55 Y=21.82 Z=-0.68 hp=187705
+[23:02:29.668] 00:0000:Hojoring:[EX] Added new combatant. name=Pocoa Poco X=26.20 Y=20.33 Z=-0.80 hp=158601
+[23:02:29.668] 00:0000:Hojoring:[EX] Added new combatant. name=Tricia Slade X=25.54 Y=21.95 Z=-0.68 hp=157124
+[23:02:29.668] 00:0000:Hojoring:[EX] Added new combatant. name=Tai Mesi X=26.12 Y=20.47 Z=-0.80 hp=157603
+[23:02:29.668] 00:0000:Hojoring:[EX] Added new combatant. name=Sikkoku Hazakura X=25.54 Y=21.82 Z=-0.68 hp=157363
+[23:02:29.668] 00:0000:Hojoring:[EX] Added new combatant. name=Steets Melrodis X=25.54 Y=21.61 Z=-0.70 hp=157124
+[23:02:29.702] 00:0000:Hojoring:[EX] Added new combatant. name=Cona Lihzeh X=25.55 Y=21.35 Z=-0.72 hp=158414
+[23:02:29.702] 00:0000:Hojoring:[EX] Added new combatant. name=Poni Solt X=25.55 Y=21.87 Z=-0.68 hp=158326
+[23:02:29.702] 00:0000:Hojoring:[EX] Added new combatant. name=Neroro Nero X=25.54 Y=21.87 Z=-0.68 hp=156802
+[23:02:29.702] 00:0000:Hojoring:[EX] Added new combatant. name=Piku Chin X=25.54 Y=21.92 Z=-0.68 hp=157323
+[23:02:40.843] 00:0000:Hojoring:[EX] Added new combatant. name=Chicchi Alley X=25.54 Y=21.95 Z=-0.68 hp=158414
+[23:02:41.669] 00:0000:Hojoring:[EX] Added new combatant. name=Helen Ashford X=25.54 Y=21.95 Z=-0.68 hp=158502
+[23:02:41.669] 00:0000:Hojoring:[EX] Added new combatant. name=Claudia Molkoh X=25.54 Y=21.94 Z=-0.68 hp=157363
+[23:02:42.056] 00:0000:Hojoring:[EX] Added new combatant. name=Ruliha Elshulam X=25.54 Y=21.95 Z=-0.68 hp=158502
+[23:02:42.857] 00:0000:Hojoring:[EX] Added new combatant. name=Guxu Tan X=25.54 Y=21.95 Z=-0.68 hp=158546
+[23:02:42.857] 00:0000:Hojoring:[EX] Added new combatant. name=Saku Chan X=25.54 Y=21.94 Z=-0.68 hp=158414
+[23:02:43.626] 00:0000:Hojoring:[EX] Added new combatant. name=Gin Silvell X=25.54 Y=21.95 Z=-0.68 hp=157084
+[23:02:43.626] 00:0000:Hojoring:[EX] Added new combatant. name=Aria Redberyl X=25.54 Y=21.94 Z=-0.68 hp=187848
+[23:02:44.044] 00:0000:Hojoring:[EX] Added new combatant. name=Lifill Mude X=25.54 Y=21.94 Z=-0.68 hp=187848
+[23:02:44.432] 00:0000:Hojoring:[EX] Added new combatant. name=Sherry Moscatel X=23.40 Y=22.36 Z=0.12 hp=158370
+[23:02:44.848] 00:0000:Hojoring:[EX] Added new combatant. name=Pocoa Poco X=26.40 Y=19.13 Z=-0.88 hp=158601
+[23:02:44.848] 00:0000:Hojoring:[EX] Added new combatant. name=Tai Mesi X=26.27 Y=19.09 Z=-0.88 hp=157603
+[23:02:45.229] 00:0000:Hojoring:[EX] Added new combatant. name=Rouge Arbert X=25.54 Y=21.95 Z=-0.68 hp=158370
+[23:02:45.645] 00:0000:Hojoring:[EX] Added new combatant. name=Seria Oaks X=23.39 Y=22.37 Z=0.12 hp=187848
+[23:02:45.645] 00:0000:Hojoring:[EX] Added new combatant. name=カーバンクル・ルビー X=25.57 Y=21.98 Z=-0.68 hp=150726
+[23:02:45.645] 00:0000:Hojoring:[EX] Added new combatant. name=カーバンクル・トパーズ X=25.57 Y=21.98 Z=-0.68 hp=150726
+[23:02:46.056] 00:0000:Hojoring:[EX] Added new combatant. name=フェアリー・エオス X=25.57 Y=21.97 Z=-0.68 hp=150726
+[23:02:46.440] 00:0000:Hojoring:[EX] Added new combatant. name=Izure Artonelico X=25.54 Y=21.95 Z=-0.68 hp=158326
+[23:02:46.889] 00:0000:Hojoring:[EX] Added new combatant. name=イフリート・エギ X=25.57 Y=21.94 Z=-0.68 hp=150726
+[23:02:46.889] 00:0000:Hojoring:[EX] Added new combatant. name=Shiwmes Chang X=25.54 Y=21.95 Z=-0.68 hp=158326
+[23:02:48.040] 00:0000:Hojoring:[EX] Added new combatant. name=Masatsu Ryoku X=26.34 Y=18.91 Z=-0.87 hp=187941
+[23:02:48.040] 00:0000:Hojoring:[EX] Added new combatant. name=Yuu Hinata X=26.44 Y=18.83 Z=-0.86 hp=188083
+[23:02:48.867] 00:0000:Hojoring:[EX] Added new combatant. name=フェアリー・エオス X=25.57 Y=21.98 Z=-0.68 hp=150726
+[23:02:48.867] 00:0000:Hojoring:[EX] Added new combatant. name=Drum Lily X=25.54 Y=21.95 Z=-0.68 hp=158326
+[23:02:50.457] 00:0000:Hojoring:[EX] Added new combatant. name=G'raha Tanu X=25.54 Y=21.95 Z=-0.68 hp=158326
+[23:02:50.873] 00:0000:Hojoring:[EX] Added new combatant. name=フェアリー・エオス X=25.56 Y=21.91 Z=-0.68 hp=150726
+[23:02:50.873] 00:0000:Hojoring:[EX] Added new combatant. name=カーバンクル・ルビー X=26.36 Y=19.23 Z=-0.88 hp=150726
+[23:02:52.893] 00:0000:Hojoring:[EX] Added new combatant. name=フェアリー・エオス X=25.57 Y=21.97 Z=-0.68 hp=150726
+[23:02:54.083] 00:0000:Hojoring:[EX] Added new combatant. name=クイーンズ・ナイト X=26.38 Y=18.26 Z=-0.86 hp=44
+[23:02:54.114] 00:0000:Hojoring:[EX] Added new combatant. name=クイーンズ・ナイト X=26.38 Y=18.26 Z=-0.86 hp=44
+[23:02:55.448] 00:0000:Hojoring:[EX] Beacon X=26.25 Y=20.26 Z=-0.80 zone=Delubrum Reginae (Savage)
+[23:02:55.679] 00:0000:Hojoring:[EX] Added new combatant. name=クイーンズ・ナイト X=26.20 Y=18.20 Z=-0.86 hp=91817424
+[23:02:55.679] 00:0000:Hojoring:[EX] Added new combatant. name=クイーンズ・ウォリアー X=26.56 Y=18.20 Z=-0.86 hp=91817424
+[23:02:55.679] 00:0000:Hojoring:[EX] Added new combatant. name=クイーンズ・ソルジャー X=26.32 Y=18.20 Z=-0.86 hp=91878696
+[23:02:55.712] 00:0000:Hojoring:[EX] Added new combatant. name=クイーンズ・ガンナー X=26.44 Y=18.20 Z=-0.86 hp=91878696
+[23:03:09.751] 00:0000:Hojoring:[EX] Added new combatant. name=カーバンクル・ルビー X=25.67 Y=20.98 Z=-0.72 hp=150726
+[23:03:55.464] 00:0000:Hojoring:[EX] Beacon X=26.38 Y=18.93 Z=-0.87 zone=Delubrum Reginae (Savage)
+[23:04:55.485] 00:0000:Hojoring:[EX] Beacon X=26.39 Y=18.92 Z=-0.87 zone=Delubrum Reginae (Savage)
+[23:05:09.345] 00:0000:Hojoring:[EX] Added new combatant. name=カーバンクル・ルビー X=26.44 Y=19.01 Z=-0.88 hp=150726
+[23:05:29.695] 00:0000:Hojoring:[EX] Added new combatant. name=カーバンクル・エメラルド X=26.38 Y=18.80 Z=-0.86 hp=135652
+[23:06:25.000] 00:0039:レディチェックを開始しました。
