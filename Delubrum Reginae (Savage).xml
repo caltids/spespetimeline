@@ -90,13 +90,20 @@
 
   <!-- ##### ①ボス トリニティ・シーカーフェーズ 開始 ##### -->
   <s name="トリニティ・シーカー">
+    <t name="霊幻剣" sync="トリニティ・シーカーの「霊幻剣」notice="れいげんけんあり" >
+      <v-notice text="霊幻剣あり"
+                duration="10"
+                order="-1"
+                icon="" />
+    </t>
+                
     <a time="@(012 - margin)" text="翠流魔風塵" notice="全体攻撃" />
     <a time="@(021 - margin)" text="分体生成" notice="" />
     <a time="@(025 - margin)" text="初手：鋭刃四刀の構え" notice="アンチ確認" />
     <a time="@(046 - margin)" text="鋭刃雪月花" notice="せつげつか" />
     <a time="@(062 - margin)" text="翠流魔風塵" notice="全体攻撃" />
     <a time="@(075 - margin)" text="鋭刃舞踏扇" notice="MT強攻撃" />
-    <a time="@(084 - margin)" text="翠流派(フォームチェンジ)" notice="フォームチェンジ" />
+    <a time="@(084 - margin)" text="翠流派(フォームチェンジ)" sync="トリニティ・シーカーの「翠流派」" notice="フォームチェンジ" />
     <a time="@(088 - margin)" text="豪剣黒流破" notice="縦アンチ" />
     <a time="@(097 - margin)" text="豪剣激烈斬" notice="タンク強攻撃" />
     <a time="@(110 - margin)" text="豪剣激烈斬" notice="" />
@@ -106,7 +113,7 @@
     <a time="@(157 - margin)" text="豪剣魔炎旋(直線)*4" notice="" />
     <a time="@(158 - margin)" text="豪剣強襲撃" notice="" />
     <a time="@(167 - margin)" text="翠流魔風塵" notice="全体攻撃" />
-    <a time="@(177 - margin)" text="翠流派(フォームチェンジ)" notice="フォームチェンジ" />
+    <a time="@(177 - margin)" text="翠流派(フォームチェンジ)" sync="トリニティ・シーカーの「翠流派」" notice="フォームチェンジ" />
     <a time="@(182 - margin)" text="熱拳烈気砲" notice="頭割り" />
     <a time="@(190 - margin)" text="分体生成" notice="" />
     <a time="@(203 - margin)" text="熱拳闘気砲(ランタゲ直線)" notice="" />
@@ -133,7 +140,7 @@
     <a time="@(400 - margin)" text="熱拳闘気砲(ランタゲ直線)" notice="" />
     <a time="@(412 - margin)" text="翠流魔風塵" notice="全体攻撃" />
     <a time="@(422 - margin)" sync="ヴェリボルらしき声:オレノ「豪剣」デ……ブッ潰シテヤルッ！" />
-    <a time="@(426 - margin)" text="翠流派(フォームチェンジ)" notice="フォームチェンジ" />
+    <a time="@(426 - margin)" text="翠流派(フォームチェンジ)" sync="トリニティ・シーカーの「翠流派」" notice="フォームチェンジ" />
     <a time="@(430 - margin)" text="豪剣黒流破" notice="縦アンチ" />
     <a time="@(438 - margin)" text="分体生成" notice="" />
     <a time="@(447 - margin)" text="初手：鋭刃四刀の構え" notice="アンチ確認" />
@@ -585,7 +592,7 @@
     <import source="トリニティ・アヴァウド ライムライン分岐" />
 
     <a time="@(013 - margin)" text="ラース・オブ・ボズヤ" sync="トリニティ・アヴァウドの「ラース・オブ・ボズヤ」" notice="タンク頭割り" />
-    <a time="@(020 - margin)" text="グローリー・オブ・ボズヤ" sync="トリニティ・アヴァウドの「グローリー・オブ・ボズヤ」"notice="全体攻撃" />f
+    <a time="@(020 - margin)" text="グローリー・オブ・ボズヤ" sync="トリニティ・アヴァウドの「グローリー・オブ・ボズヤ」" notice="全体攻撃" />f
     <a time="@(029 - margin)" text="ウェポンチェンジ①" notice="" />
     <a time="@(043 - margin)" text="ウェポンチェンジ②" notice="" />
     <!-- ウェポンチェンジ3回目直前に、テーブルに入っている値を確認し、タイムラインの分岐を行う -->
